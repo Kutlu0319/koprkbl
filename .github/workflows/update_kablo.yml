@@ -2,7 +2,7 @@ name: Update Kablo TV
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # 6 SAATTE BİR (UTC)
+    - cron: '0 */6 * * *'  # 8 SAATTE BİR (UTC)
 
 jobs:
   update:
