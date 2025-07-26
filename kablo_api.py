@@ -54,6 +54,9 @@ def generate_m3u():
         with open("error.log", "a", encoding="utf-8") as f:
             f.write(error_msg + "\n")
         return False
+if __name__ == "__main__":
+    git add kablo_tv.m3u
+    guncelle.m3u_guncelle()
 
 if __name__ == "__main__":
     generate_m3u()
