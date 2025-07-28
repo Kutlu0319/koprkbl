@@ -1,10 +1,1 @@
-#EXTINF:-1 group-title="FİLMLER - Son Eklenen Filmler",Son Eklenen Filmler
-#EXTINF:-1 tvg-id="2787" tvg-name="Arrival - Geliş" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/db12cd8834b3b0df1c7945efcdab1eff.jpg" group-title="FİLMLER - Son Eklenen Filmler",Arrival - Geliş
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/6/cdn3/filmler/yeni/arrival-gelis.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="1053" tvg-name="Ölümcül Deney: Son Bölüm" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e936d1360b383219db08b28c7688f634.jpg" group-title="FİLMLER - Son Eklenen Filmler",Ölümcül Deney: Son Bölüm
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/5d4882d8722cbbad57abb8befad5817f.mp4/index.m3u8
