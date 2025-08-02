@@ -5,6 +5,7 @@ m3u_urls = [
     "https://raw.githubusercontent.com/koprulu5564/kablo-tv-mod/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/koprulu5564/rectv/refs/heads/main/rectv_full.m3u",
     "https://raw.githubusercontent.com/koprulu5564/trgoals/refs/heads/main/trgoals.m3u"
+    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/selcuk.m3u"
 ]
 
 # Çıktı dosyası adı
