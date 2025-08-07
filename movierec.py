@@ -4,8 +4,8 @@ import requests
 m3u_urls = [
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/yeni.m3u",
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/rectv.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/trgoals.m3u"
-    "https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Grab_VTV.m3u"
+    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/trgoals.m3u",
+    "https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Grab_VTV.m3u",
 ]
 
 # Çıktı dosyası adı
