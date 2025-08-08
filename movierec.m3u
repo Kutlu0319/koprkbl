@@ -1167,18 +1167,6 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/bc841c3c4b0f76a2d4c20d911818ca45.jpg",01h00 Jayson Shaw vs Sanjin Pehlivanovic [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68960d6d827f2_97/index.m3u8?expire=1755269101&sign=2ff5b183d0ca43ab00a28ea828fecccd
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/bc841c3c4b0f76a2d4c20d911818ca45.jpg",01h00 Jayson Shaw vs Sanjin Pehlivanovic [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68960d6d827f2_97.flv?expire=1755269101&sign=2ff5b183d0ca43ab00a28ea828fecccd
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/01636ac79549d32c256cd0a79c490a6e/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/1d590fbc66db477bb5cb14304cd00c84.png",01h30 Gazisehir Gaziantep vs Galatasaray 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1191,54 +1179,6 @@ https://2893254555.global.cdnfastest.com/live/689641be17f06_4439/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/689641be17f06_4439.flv?expire=1755282494&sign=7ea7d16c9c394d6c62034fb3c0039beb
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5704cc856fc5f1ef26cb0d08413d3799.png",01h30 Umraniyespor vs Manisa Futbol Kulübü 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/e4d9e85c6f6b406a3ebe72ea4d8ed146/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol de Barcelona 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/e111c61495c89c2085b34a80dfcb6960/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol de Barcelona [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68962ced17f06_28/index.m3u8?expire=1755277165&sign=e3837cadb4562a9b0d74eb28140e92a5
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol de Barcelona [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68962ced17f06_28.flv?expire=1755277165&sign=e3837cadb4562a9b0d74eb28140e92a5
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol de Barcelona [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68962b00827f2_4908/index.m3u8?expire=1755276672&sign=81acc968ed4e14ac5c89bc3fe253e534
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol de Barcelona [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68962b00827f2_4908.flv?expire=1755276672&sign=81acc968ed4e14ac5c89bc3fe253e534
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5806977bc3bf8d1369d270b77a5af9f7.png",01h30 Slask Wroclaw vs Miedz Legnica 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/68132561d947abb63112cb3451dd45e5/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/6e39bd08aa15c7ac22e3be6a56606c36.png",01h30 Metaloglobus vs FC Dinamo 1948 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/50e8432c6ef1776513199cea33c79c71/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/6e39bd08aa15c7ac22e3be6a56606c36.png",01h30 Metaloglobus vs FC Dinamo 1948 [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6896371417f06_5153/index.m3u8?expire=1755279764&sign=662f85085662e532e7fe33d21fda0781
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/6e39bd08aa15c7ac22e3be6a56606c36.png",01h30 Metaloglobus vs FC Dinamo 1948 [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6896371417f06_5153.flv?expire=1755279764&sign=662f85085662e532e7fe33d21fda0781
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0636fa6adc628b663bad30b92e1aa319.png",01h30 First Wien 1894 vs SV Austria Salzburg 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/eac8b030e8c754e7357e51a584589cdd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/e60b5d0180ea3ec67ddb086ff5c4b75a/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/1fdb25b1b1cf8b92138ba7c5c9fff621.png",01h45 Derry City vs Cork City 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1263,10 +1203,6 @@ https://2893950149.global.cdnfastest.com/live/689639cc827f3_22.flv?expire=175528
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/c6b4076376fb6ba093fd154f8ca1ff20/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/d7a0fa0ab35c30d421433637fa4568bb.png",01h45 Sliema Wanderers FC vs Naxxar Lions 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/8fe219313576d482e894fc32c00d4b09/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1379,94 +1315,14 @@ https://2893254555.global.cdnfastest.com/live/6895c4fd827f0_6308/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c4fd827f0_6308.flv?expire=1755250557&sign=45cc5e81cb99c4594b463d0dd71c153d
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/sunhd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/1d590fbc66db477bb5cb14304cd00c84.png",01h30 Gazisehir Gaziantep vs Galatasaray (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/lansd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/lanhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lansd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lanhd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5704cc856fc5f1ef26cb0d08413d3799.png",01h30 Umraniyespor vs Manisa Futbol Kulübü (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5806977bc3bf8d1369d270b77a5af9f7.png",01h30 Slask Wroclaw vs Miedz Legnica (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m305nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0636fa6adc628b663bad30b92e1aa319.png",01h30 First Wien 1894 vs SV Austria Salzburg (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/6e39bd08aa15c7ac22e3be6a56606c36.png",01h30 Metaloglobus vs Dinamo Bucuresti (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1603,106 +1459,22 @@ https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) SD 1
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/bb5004650a388d73f47cc3ca08623cc8.png",05h00 Montevideo City Torque vs Boston River (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) Rakhoi TV
+https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b448723b3ab2268f6de57096ccf30f8c.png!w60",05h00 AcademiaDB vs Real Oruro (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoi8.link
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoi8.link
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5806977bc3bf8d1369d270b77a5af9f7.png",01h30 Slask Wroclaw vs Miedz Legnica (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m305nd/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/6e39bd08aa15c7ac22e3be6a56606c36.png",01h30 Metaloglobus vs Dinamo Bucuresti (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0636fa6adc628b663bad30b92e1aa319.png",01h30 First Wien 1894 vs SV Austria Salzburg (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5704cc856fc5f1ef26cb0d08413d3799.png",01h30 Umraniyespor vs Manisa Futbol Kulübü (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoi8.link
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/1d590fbc66db477bb5cb14304cd00c84.png",01h30 Gazisehir Gaziantep vs Galatasaray (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1855,26 +1627,14 @@ https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164601812119.png?win007=sell",01h30 Brentford vs Borussia Monchengladbach (LS) BLV VƯƠNG LUÂN m3u
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/bb5004650a388d73f47cc3ca08623cc8.png",05h00 Montevideo City Torque vs Boston River (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164601812119.png?win007=sell",01h30 Brentford vs Borussia Monchengladbach (LS) BLV VƯƠNG LUÂN flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164601812119.png?win007=sell",01h30 Brentford vs Borussia Monchengladbach (LS) BLV KIỀU PHONG m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b448723b3ab2268f6de57096ccf30f8c.png!w60",05h00 AcademiaDB vs Real Oruro (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KIEUPHONG/index.m3u8?expire=1892276520&sign=380ca9da2dd338e1e8536b9262077b28
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164601812119.png?win007=sell",01h30 Brentford vs Borussia Monchengladbach (LS) BLV KIỀU PHONG flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577474623.png?win007=sell",01h30 Newcastle United vs RCD Espanyol (LS) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577474623.png?win007=sell",01h30 Newcastle United vs RCD Espanyol (LS) BLV NGŨ CA flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577474623.png?win007=sell",01h30 Newcastle United vs RCD Espanyol (LS) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/QUANVU/index.m3u8?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577474623.png?win007=sell",01h30 Newcastle United vs RCD Espanyol (LS) BLV QUAN VŨ flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577474623.png?win007=sell",01h30 Newcastle United vs RCD Espanyol (LS) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/DUONGCHI/index.m3u8?expire=1873178820&sign=388075eab5f96a7da123562534b64d4e
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164577474623.png?win007=sell",01h30 Newcastle United vs RCD Espanyol (LS) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1665/1h53w17xgwh.png?win007=sell",01h30 Gazisehir Gaziantep vs Galatasaray (LS) BLV THỜI THIÊN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/THOITHIEN/index.m3u8?expire=1892878500&sign=462b3c5a61f05f83f8a3a1848b3d1603
@@ -1919,62 +1679,10 @@ https://hls.cdnokvip.com/live/VUONGANH/index.m3u8?expire=1861716660&sign=02fefa0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/MASIEU/index.m3u8?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/4971/1gpyrknv762x.png?win007=sell",02h15 Casa Pia AC vs Sporting CP (LS) BLV MÃ SIÊU flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (RK) SD 1
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2655/1gxmbqm710v.png?win007=sell",03h30 Atletico Nacional Medellin vs Alianza Petrolera (LS) BLV TÔN QUYỀN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",01h30 Brentford vs Borussia Monchengladbach (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0f66aafde07d8ce9a2ad882abfbe4aac.png",01h30 Gornik Zabrze vs LKS Nieciecza (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5806977bc3bf8d1369d270b77a5af9f7.png",01h30 Slask Wroclaw vs Miedz Legnica (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m305nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0636fa6adc628b663bad30b92e1aa319.png",01h30 First Wien 1894 vs SV Austria Salzburg (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+https://hls.cdnokvip.com/live/TONQUYEN1/index.m3u8?expire=1892554080&sign=54d0ae80ef2d79c7ebcacffc4019208d
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2655/1gxmbqm710v.png?win007=sell",03h30 Atletico Nacional Medellin vs Alianza Petrolera (LS) BLV TÔN QUYỀN flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5704cc856fc5f1ef26cb0d08413d3799.png",01h30 Umraniyespor vs Manisa Futbol Kulübü (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1983,30 +1691,6 @@ https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoisd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",01h30 Newcastle United vs RCD Espanyol (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/1d590fbc66db477bb5cb14304cd00c84.png",01h30 Gazisehir Gaziantep vs Galatasaray (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2147,3 +1831,11 @@ https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/bb5004650a388d73f47cc3ca08623cc8.png",05h00 Montevideo City Torque vs Boston River (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m204nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b448723b3ab2268f6de57096ccf30f8c.png!w60",05h00 AcademiaDB vs Real Oruro (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
