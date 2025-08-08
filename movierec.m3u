@@ -1167,26 +1167,6 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/eebfd9948d0e3b20b8b2f686805aff9f.png",02h15 Grindavik vs Leiknir Reykjavik 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/0079e1d6762376643d97b3c3a145c565/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/afbc53f331be28032f279f01f66b7509.png",02h15 IR Reykjavik vs Fjolnir 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/8d6d99f12f7b14959676202c8cedb110/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png",02h15 Casa Pia AC vs Sporting CP 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/ab2f54af1f4d0b863b0c5ac5fea9d437/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png",02h15 Casa Pia AC vs Sporting CP [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/689647ea827f3_39467/index.m3u8?expire=1755284074&sign=5972d65f0efb1aa211fff8b0a7879020
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png",02h15 Casa Pia AC vs Sporting CP [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/689647ea827f3_39467.flv?expire=1755284074&sign=5972d65f0efb1aa211fff8b0a7879020
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/94274f26a11fbbc80debd2140b7993ff.png",02h30 Donny Mills vs Aloysius Yapp [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1227,6 +1207,10 @@ https://2893950149.global.cdnfastest.com/live/689662ea17f06_18754.flv?expire=175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/42d2443a54c491b140095e34480e7ff0/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",04h30 Cerro Porteno vs FC Nacional Asuncion 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/ce7817b8c94cfadd9660fc99e57a09df/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07h15 Club Atlético Lanús vs Talleres Cordoba [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1235,30 +1219,6 @@ https://2893254555.global.cdnfastest.com/live/6895c4fd827f0_6308/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c4fd827f0_6308.flv?expire=1755250557&sign=45cc5e81cb99c4594b463d0dd71c153d
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/musd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/muhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/musd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/muhd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png",02h15 Casa Pia AC vs Sporting CP (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1351,34 +1311,6 @@ https://chcdn.livestreameuro.live/live/buisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/buihd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoi8.link
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/musd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/muhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/musd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/muhd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png",02h15 Casa Pia AC vs Sporting CP (CKhia) SD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1483,38 +1415,10 @@ https://ckcdn.livestreameuro.live/live/buisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/buihd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/4971/1gpyrknv762x.png?win007=sell",02h15 Casa Pia AC vs Sporting CP (LS) BLV MÃ SIÊU m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/MASIEU/index.m3u8?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/4971/1gpyrknv762x.png?win007=sell",02h15 Casa Pia AC vs Sporting CP (LS) BLV MÃ SIÊU flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2655/1gxmbqm710v.png?win007=sell",03h30 Atletico Nacional Medellin vs Alianza Petrolera (LS) BLV TÔN QUYỀN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TONQUYEN1/index.m3u8?expire=1892554080&sign=54d0ae80ef2d79c7ebcacffc4019208d
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2655/1gxmbqm710v.png?win007=sell",03h30 Atletico Nacional Medellin vs Alianza Petrolera (LS) BLV TÔN QUYỀN flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/musd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/muhd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/musd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png",02h00 Birmingham City vs Ipswich Town (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/muhd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png",02h15 Casa Pia AC vs Sporting CP (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
