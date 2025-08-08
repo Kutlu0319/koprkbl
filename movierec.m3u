@@ -1167,10 +1167,6 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",04h30 Cerro Porteno vs FC Nacional Asuncion 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/ce7817b8c94cfadd9660fc99e57a09df/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/bb5004650a388d73f47cc3ca08623cc8.png",05h00 Montevideo City Torque vs Boston River 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1227,6 +1223,18 @@ https://live.alilicloud.com/live/acf5027a54259e9de551a5669b387087/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/1f95d958bf9f9c920f781cf64d52cdc7/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/931992c55098868f21af4b2a6aaf019e.png",06h10 Middleham United FC vs East Central FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/3e0b440471d16ddf9b37b04b166d0bb5/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/3f59e39e608c1002d361c2e7e476d25d.png",06h30 University of Canterbury vs Selwyn United 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/e369e3439025fa3199a22a675488c68c/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/9a91a83ab703c7c9d26070d9d3df63f3.png",06h30 New York City Team B vs Chicago flame B 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/2a645f76c6431c01239a089d837cb1bc/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07h15 Club Atlético Lanús vs Talleres Cordoba [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1439,10 +1447,6 @@ https://qtcdn.livestreameuro.live/live/natrasd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1040/1gv1yf76pez.png?win007=sell",04h30 Cerro Porteno vs FC Nacional Asuncion (LS) BLV ĐỊCH NHÂN KIỆT m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/NHANKIET/index.m3u8?expire=1886143560&sign=f23c3aefc5d59e6caf02454ad06bba1f
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1040/1gv1yf76pez.png?win007=sell",04h30 Cerro Porteno vs FC Nacional Asuncion (LS) BLV ĐỊCH NHÂN KIỆT flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/5107/1gytytbqvj32.png?win007=sell",05h00 Club Atletico Tigre vs CA Huracan (LS) BLV TỪ NINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TUNINH1/index.m3u8?expire=1891146780&sign=21db2bd274e66eaaae0e233d68ac0778
