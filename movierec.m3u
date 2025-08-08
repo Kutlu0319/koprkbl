@@ -1167,74 +1167,6 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2f4808c395a3e5c0d1fff9daf48d6ce9.png",15h15 Real Madrid Castilla vs Andorra CF 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/fcde0d2771a78b3c17f2a7ca980798d0/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/499e8381f67005d1e79c1f7b51bb68d1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6895acfe17f06_5160/index.m3u8?expire=1755244414&sign=9d7d32401b30b1bef711a9f0ef0a69c1
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6895acfe17f06_5160.flv?expire=1755244414&sign=9d7d32401b30b1bef711a9f0ef0a69c1
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/8b9739069d74e0040185965c48ee60be.png",15h45 Guam (w) U20 vs Iran U20 (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/ab35b89a971006779f1fc2c814a0f9e5/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/8b9739069d74e0040185965c48ee60be.png",15h45 Guam (w) U20 vs Iran U20 (w) [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6895b33d17f06_4439/index.m3u8?expire=1755246013&sign=4cec0dd7e10063f5d3fc338f89d95348
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/8b9739069d74e0040185965c48ee60be.png",15h45 Guam (w) U20 vs Iran U20 (w) [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6895b33d17f06_4439.flv?expire=1755246013&sign=4cec0dd7e10063f5d3fc338f89d95348
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/38fb36e8c4619fd0afa04730baf2d344.png",16h00 Singapore (w) U20 vs Kyrgyzstan  U20 (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/beb4827e4c452e846ad6f37413ce74f7/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/38fb36e8c4619fd0afa04730baf2d344.png",16h00 Singapore (w) U20 vs Kyrgyzstan  U20 (w) [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6895b60a827f0_4593/index.m3u8?expire=1755246730&sign=a8307b9889e15982ab63f9e7419164b5
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/38fb36e8c4619fd0afa04730baf2d344.png",16h00 Singapore (w) U20 vs Kyrgyzstan  U20 (w) [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6895b60a827f0_4593.flv?expire=1755246730&sign=a8307b9889e15982ab63f9e7419164b5
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/8ab849603223f0194d9c5e5cac7b8dbb.png",16h00 Timor Leste (w) U20 vs Bangladesh (w) U20 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/fe4edfd72a2d0a9933d4745f783cda3e/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/8ab849603223f0194d9c5e5cac7b8dbb.png",16h00 Timor Leste (w) U20 vs Bangladesh (w) U20 [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6895b709827f0_4089/index.m3u8?expire=1755246985&sign=7769e1a519ad7b0c585437ed5792a390
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/8ab849603223f0194d9c5e5cac7b8dbb.png",16h00 Timor Leste (w) U20 vs Bangladesh (w) U20 [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6895b709827f0_4089.flv?expire=1755246985&sign=7769e1a519ad7b0c585437ed5792a390
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/3d84980e4dec8902b3bf627228141c2d.png",16h00 LNZ Cherkasy U21 vs Epitsentr U21 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/74c65a0e83cc7b1d01ba94e263f02349/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/c9bf281eb0f1cf13975e39dbe45c4c5e.png",16h00 University Azzurri FC vs Port Darwin FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/2f57b0b8e6307873eadec4c58af26358/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/f592cb409138b486af3530fd7af91911.png",16h00 Indonesia vs Thái Lan [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6895b72a827f0_12524/index.m3u8?expire=1755247018&sign=c4efa72b9cedb80602bbccbc1f7df637
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/f592cb409138b486af3530fd7af91911.png",16h00 Indonesia vs Thái Lan [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6895b72a827f0_12524.flv?expire=1755247018&sign=c4efa72b9cedb80602bbccbc1f7df637
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png",16h30 Manly United vs Sydney Olympic 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1267,6 +1199,10 @@ https://live.alilicloud.com/live/2e7901f67fb65e97582b6f2625a6d553/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/95752ba8bc1f6dd1fd061177263f29a6/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/25683fb1aac97e8ed8630d841fdd2dbb.png",17h00 Adelaide Raiders SC vs Campbelltown City SC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/ae69b3fe6bf686a723aca3ecf8fa16d7/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/25683fb1aac97e8ed8630d841fdd2dbb.png",17h00 Adelaide Raiders SC vs Campbelltown City SC [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1275,6 +1211,14 @@ https://2893254555.global.cdnfastest.com/live/6895c24d17f06_97/index.m3u8?expire
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c24d17f06_97.flv?expire=1755249869&sign=89cbcd77256de3cd643ba9c7f8d09d66
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/a240c65934961f7987a445090fab254c.png",17h00 Kryvbas U21 vs Metalist 1925 Kharkiv(U21) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/5ebe0086a8166af3c3552be4e33770c2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/e2b97426d7625e5cd01538ee80f50d2a.png",17h00 Edgeworth Eagles FC vs Charleston City Blues 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/2788132b915156d27fe559c38f57338b/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/e2b97426d7625e5cd01538ee80f50d2a.png",17h00 Edgeworth Eagles FC vs Charleston City Blues [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1283,22 +1227,34 @@ https://2893254555.global.cdnfastest.com/live/6895c0a2827f0_28/index.m3u8?expire
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c0a2827f0_28.flv?expire=1755249442&sign=541ba086a7b00c96c12db3ae044374e2
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",17h15 Broadbeach United vs Rochedale Rovers [hls]
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",17h25 Broadbeach United vs Rochedale Rovers 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a8cd56364b30a4b6066343033b995585/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",17h25 Broadbeach United vs Rochedale Rovers [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893254555.global.cdnfastest.com/live/6895c400827f0_103/index.m3u8?expire=1755250304&sign=71a8d9b36c981f1a5aa60d1d6e2a4e46
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",17h15 Broadbeach United vs Rochedale Rovers [flv]
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/40e331bba4de0186e268d8ba8e10f1d4.png",17h25 Broadbeach United vs Rochedale Rovers [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c400827f0_103.flv?expire=1755250304&sign=71a8d9b36c981f1a5aa60d1d6e2a4e46
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/352198e9196d8e59c72e21111c5f0401.png",17h15 Blacktown Spartans vs Macarthur Rams [hls]
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 Football Club Seoul vs Daegu Football Club 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6895c290827f0_4908/index.m3u8?expire=1755249936&sign=647b7de0045e56ba93e5f9bb4f44c4ce
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/352198e9196d8e59c72e21111c5f0401.png",17h15 Blacktown Spartans vs Macarthur Rams [flv]
+https://live.alilicloud.com/live/71446bf37dd523b91ecf5deee95862cc/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 Football Club Seoul vs Daegu Football Club [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6895c290827f0_4908.flv?expire=1755249936&sign=647b7de0045e56ba93e5f9bb4f44c4ce
+https://2893254555.global.cdnfastest.com/live/6895d405827f1_4439/index.m3u8?expire=1755254405&sign=ace9ca404f1e3693425ee71d208e748a
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 Football Club Seoul vs Daegu Football Club [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6895d405827f1_4439.flv?expire=1755254405&sign=ace9ca404f1e3693425ee71d208e748a
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ee2117f952745163fecfa4b74a6a2bea.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/99e03aa679c4a48cb778c659d79bc2b5/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ee2117f952745163fecfa4b74a6a2bea.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1315,6 +1271,78 @@ https://2893254555.global.cdnfastest.com/live/6895c4fd827f0_6308/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c4fd827f0_6308.flv?expire=1755250557&sign=45cc5e81cb99c4594b463d0dd71c153d
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/d183908a6d08e68c68eec0a37612a1d1.png",17h30 Tap Seac Party Prime Minister Village Football Team vs Lonjing FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/4d181e1a30e4c90f82559cf492ea9de6/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/00bb429c0a2d148a1ad0957162a25cb7.png",17h30 Queensland Lions (w) vs North Lakes United (W) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/bde98bd7cf2664709adcccd42e027384/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/00bb429c0a2d148a1ad0957162a25cb7.png",17h30 Queensland Lions (w) vs North Lakes United (W) [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6895ce7d17f06_4908/index.m3u8?expire=1755252989&sign=63d49d6355082f4f95471abb338c7654
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/00bb429c0a2d148a1ad0957162a25cb7.png",17h30 Queensland Lions (w) vs North Lakes United (W) [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6895ce7d17f06_4908.flv?expire=1755252989&sign=63d49d6355082f4f95471abb338c7654
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/26671012b1f898238821ab2be203e213.png",17h45 West Adelaide (w) vs Campbelltown City (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/8ba7759be6982fa82b39b69f39658ca8/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/90e36b6ebd58986473eef7ea901bf781.png",17h45 Adelaide City (w) vs Salisbury Inter (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/fc48d766180095740b53036b70b82f99/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",17h45 Flinders United (W) vs Metropolis United (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/fb93847635e873f665fe2d10bdb9e607/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/22b8a1add9247e3d7ab27d27e4f15fa8.png",17h45 West Torrens Birkalla (w) vs Adelaide Comets (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/0831a8655e892f7ed4fe4917ed688db3/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2de609652e29c1bc2072a42dc4858132.png",18h00 Darwin Olympics vs Mindil Aces 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/f0c45bc9fe29ea65267e7b598d8e0221/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0e5467034917e26c6e60a7162711c150.png",18h35 Dalian Yingbo FC vs Chengdu Rongcheng FC [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6895daab827f1_5153/index.m3u8?expire=1755256107&sign=7e03d78370263bf23aca1d3358bceb90
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/0e5467034917e26c6e60a7162711c150.png",18h35 Dalian Yingbo FC vs Chengdu Rongcheng FC [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6895daab827f1_5153.flv?expire=1755256107&sign=7e03d78370263bf23aca1d3358bceb90
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/9be56a2e8b63941e164b7f360d16db13.png",18h35 Cambodia (w) U20 vs China U20(w) [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6895d8e5827f1_12524/index.m3u8?expire=1755255653&sign=063cffb91e38a7c1fcdd6a022c72711b
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn.rapid-api.icu/football/team/9be56a2e8b63941e164b7f360d16db13.png",18h35 Cambodia (w) U20 vs China U20(w) [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6895d8e5827f1_12524.flv?expire=1755255653&sign=063cffb91e38a7c1fcdd6a022c72711b
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/f336520db254da6d6d5294b720d26d83.png",19h00 Henan FC vs Shenzhen Peng City FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/livehd/f7e7f4730c4018c8764dccc73e2d96d7/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/66307444901ddb38c881129b7ea0105e.png",19h00 Persebaya Surabaya vs PSIM Yogyakarta [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6895d72c827f1_79/index.m3u8?expire=1755255212&sign=870abc63f450b2a9069b0c06566bd6ae
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/66307444901ddb38c881129b7ea0105e.png",19h00 Persebaya Surabaya vs PSIM Yogyakarta [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6895d72c827f1_79.flv?expire=1755255212&sign=870abc63f450b2a9069b0c06566bd6ae
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b44ef8d86a20a825e2d53fe006e5b2dd.png",19h00 Việt Nam vs Philippines [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6895dc23827f1_4593/index.m3u8?expire=1755256483&sign=a871290af388acffd6c9d2e0f5dbfc61
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b44ef8d86a20a825e2d53fe006e5b2dd.png",19h00 Việt Nam vs Philippines [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6895dc23827f1_4593.flv?expire=1755256483&sign=a871290af388acffd6c9d2e0f5dbfc61
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png",07h15 Club Atlético Lanús vs Talleres Cordoba [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -1323,54 +1351,6 @@ https://2893254555.global.cdnfastest.com/live/6895c4fd827f0_6308/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6895c4fd827f0_6308.flv?expire=1755250557&sign=45cc5e81cb99c4594b463d0dd71c153d
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/8YWtIAKm-G267Pv40.png",15h00 Saudi Arabia (W)U20 vs Nepal (w) U20 (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/a8d58535fe5a74fe1645100041b8ab7b.png",15h00 Edgeworth Eagles Reserves vs Charlestown Azzurri Reserves (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/dMDXDm5A-ALHCCSaa.png",15h45 Guam (w) U20 vs Iran  U20 (w) (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CH) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CH) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/4f1NX37R-IgLB0hWN.png",16h00 Singapore (w) U20 vs Kyrgyzstan  U20 (w) (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/c9bf281eb0f1cf13975e39dbe45c4c5e.png",16h00 University Azzurri FC vs Port Darwin FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/8jpeC3RL-6LQh7ntA.png",16h00 Timor Leste (w) U20 vs Bangladesh (w) U20 (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/243e036f165b54aaa1e2e2a28335b1e3.png",16h30 Gungahlin United (w) vs Majura FC (W) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1435,58 +1415,118 @@ https://chcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/cohd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/8YWtIAKm-G267Pv40.png",15h00 Saudi Arabia (W)U20 vs Nepal (w) U20 (CKhia) Nhà đài
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/a8d58535fe5a74fe1645100041b8ab7b.png",15h00 Edgeworth Eagles Reserves vs Charlestown Azzurri Reserves (CKhia) Nhà đài
+https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/hplushd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/biphd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/26671012b1f898238821ab2be203e213.png",17h45 West Adelaide (w) vs Campbelltown City (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/dMDXDm5A-ALHCCSaa.png",15h45 Guam (w) U20 vs Iran  U20 (w) (CKhia) Nhà đài
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/90e36b6ebd58986473eef7ea901bf781.png",17h45 Adelaide City (w) vs Salisbury Inter (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) SD 1
+https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",17h45 Flinders United (W) vs Metropolis United (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) RaKhoi TV
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2de609652e29c1bc2072a42dc4858132.png",18h00 Darwin Olympics vs Mindil Aces (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoi8.link
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) HD 1
+https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) SD 2
+https://179245845.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) HD 2
+https://179245845.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) SD Nhanh
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (CKhia) HD Nhanh
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/4f1NX37R-IgLB0hWN.png",16h00 Singapore (w) U20 vs Kyrgyzstan  U20 (w) (CKhia) Nhà đài
+https://chcdn.livestreameuro.live/live/tichsd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/8jpeC3RL-6LQh7ntA.png",16h00 Timor Leste (w) U20 vs Bangladesh (w) U20 (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/c9bf281eb0f1cf13975e39dbe45c4c5e.png",16h00 University Azzurri FC vs Port Darwin FC (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+https://chcdn.livestreameuro.live/live/tichhd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/243e036f165b54aaa1e2e2a28335b1e3.png",16h30 Gungahlin United (w) vs Majura FC (W) (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1559,58 +1599,134 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV KEVILL m3u
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KEVILL/index.m3u8?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV KEVILL flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV LA THÀNH m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnokvip.com/live/LATHANH/index.m3u8?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV LA THÀNH flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV RICARDO m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/RICARDO/index.m3u8?expire=1890804960&sign=a6f6dbb20b7053144fee781388230cfb
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV RICARDO flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV LƯ TUẤN NGHĨA m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8?expire=1891840680&sign=01523056b17c783c758a799abdb1ed7b
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV LƯ TUẤN NGHĨA flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/DUONGCHI/index.m3u8?expire=1873178820&sign=388075eab5f96a7da123562534b64d4e
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV DƯƠNG CHÍ flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV HẠNG VŨ m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/HANGVU1/index.m3u8?expire=1890804960&sign=9ead10f20981ec0927284380f496dc60
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV HẠNG VŨ flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV KAKA m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (CKhia) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/KAKA/index.m3u8?expire=1855830720&sign=41cc2d2b462e9337ea8b30b0bf6518e8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164941038260.png?win007=sell",15h30 Borneo FC vs Bhayangkara Solo FC (LS) BLV KAKA flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV DƯƠNG KHANG m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/DUONGKHANG/index.m3u8?expire=1892360700&sign=9e67938737278491e8713e499d93ac6d
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV DƯƠNG KHANG flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONLAP/index.m3u8?expire=1891840680&sign=03dc93cf5d2d880ee948a696e129a587
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV TÔN LẬP flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV PEP m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/PEP/index.m3u8?expire=1893053880&sign=564c32b51eeac728648e7ecc50574dc7
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV PEP flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV NGŨ CA m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/biphd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV NGŨ CA flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV QUAN THẮNG m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV QUAN THẮNG flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/THOITHIEN/index.m3u8?expire=1892878500&sign=462b3c5a61f05f83f8a3a1848b3d1603
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h48bx1k9e1e.png?win007=sell",16h00 Singapore (W) U20 vs Kyrgyzstan (W) U20 (LS) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/26671012b1f898238821ab2be203e213.png",17h45 West Adelaide (w) vs Campbelltown City (w) (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/90e36b6ebd58986473eef7ea901bf781.png",17h45 Adelaide City (w) vs Salisbury Inter (w) (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",17h45 Flinders United (W) vs Metropolis United (w) (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2de609652e29c1bc2072a42dc4858132.png",18h00 Darwin Olympics vs Mindil Aces (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1.flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h59p6pr5a2w.png?win007=sell",16h30 Indonesia (W) U20 vs Myanmar (W) U20 (LS) BLV SONG NHI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/SONGNHI1/index.m3u8?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
@@ -1651,54 +1767,66 @@ https://hls.cdnokvip.com/live/QUANVU/index.m3u8?expire=1856940180&sign=ba4f215f9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/KIEUPHONG/index.m3u8?expire=1892276520&sign=380ca9da2dd338e1e8536b9262077b28
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7636/1gzcz9ra8h1c.png?win007=sell",16h30 Manly United vs Sydney Olympic (LS) BLV KIỀU PHONG flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/8YWtIAKm-G267Pv40.png",15h00 Saudi Arabia (W)U20 vs Nepal (w) U20 (RK) Nhà đài
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210618164010.png?win007=sell",17h00 Adelaide Raiders SC vs Campbelltown City SC (LS) BLV DƯƠNG HÙNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/a8d58535fe5a74fe1645100041b8ab7b.png",15h00 Edgeworth Eagles Reserves vs Charlestown Azzurri Reserves (RK) Nhà đài
+https://hls.cdnokvip.com/live/BLVDUONGHUNG1/index.m3u8?expire=1892728380&sign=f838ff4fb6091a2925ec658011875e7a
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210618164010.png?win007=sell",17h00 Adelaide Raiders SC vs Campbelltown City SC (LS) BLV DƯƠNG HÙNG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210618164010.png?win007=sell",17h00 Adelaide Raiders SC vs Campbelltown City SC (LS) BLV TỪ NINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/dMDXDm5A-ALHCCSaa.png",15h45 Guam (w) U20 vs Iran  U20 (w) (RK) Nhà đài
+https://hls.cdnokvip.com/live/TUNINH1/index.m3u8?expire=1891146780&sign=21db2bd274e66eaaae0e233d68ac0778
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210618164010.png?win007=sell",17h00 Adelaide Raiders SC vs Campbelltown City SC (LS) BLV TỪ NINH flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210618164010.png?win007=sell",17h00 Adelaide Raiders SC vs Campbelltown City SC (LS) BLV TRƯƠNG THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (RK) SD 1
+https://hls.cdnokvip.com/live/TRUONGTHANH/index.m3u8?expire=1841990040&sign=a6b7a90de4038295b000304e02b20e5a
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20210618164010.png?win007=sell",17h00 Adelaide Raiders SC vs Campbelltown City SC (LS) BLV TRƯƠNG THANH flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322173625.gif?win007=sell",17h00 Edgeworth Eagles FC vs Charleston City Blues (LS) BLV SÁCH SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (RK) HD 1
+https://hls.cdnokvip.com/live/SACHSIEU1/index.m3u8?expire=1892979900&sign=3f13b9d141ad4fb3786da91f9ab09590
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322173625.gif?win007=sell",17h00 Edgeworth Eagles FC vs Charleston City Blues (LS) BLV SÁCH SIÊU flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322173625.gif?win007=sell",17h00 Edgeworth Eagles FC vs Charleston City Blues (LS) BLV PHONG VÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (RK) SD 2
+https://hls.cdnokvip.com/live/PHONGVAN/index.m3u8?expire=1861716660&sign=0ce887abc0189ffdc7842fb929b2aeae
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322173625.gif?win007=sell",17h00 Edgeworth Eagles FC vs Charleston City Blues (LS) BLV PHONG VÂN flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322173625.gif?win007=sell",17h00 Edgeworth Eagles FC vs Charleston City Blues (LS) BLV CAO CẦU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (RK) HD 2
+https://hls.cdnokvip.com/live/CAOCAU1/index.m3u8?expire=1891329120&sign=0ad9cf8e479ade502cbd84c6287a35b5
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20200322173625.gif?win007=sell",17h00 Edgeworth Eagles FC vs Charleston City Blues (LS) BLV CAO CẦU flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (RK) SD Nhanh
+https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV TRIỆU TỬ LONG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV MÃ LÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png",15h30 Borneo FC vs Bhayangkara Presisi Indonesia FC (RK) HD Nhanh
+https://hls.cdnokvip.com/live/MALAN/index.m3u8?expire=1891840680&sign=cfff3b327816a0b851ddcad7cffd21bf
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV MÃ LÂN flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV LƯ TUẤN NGHĨA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/4f1NX37R-IgLB0hWN.png",16h00 Singapore (w) U20 vs Kyrgyzstan  U20 (w) (RK) Nhà đài
+https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8?expire=1891840680&sign=01523056b17c783c758a799abdb1ed7b
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV LƯ TUẤN NGHĨA flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/c9bf281eb0f1cf13975e39dbe45c4c5e.png",16h00 University Azzurri FC vs Port Darwin FC (RK) Nhà đài
+https://hls.cdnokvip.com/live/TONGGIANG/index.m3u8?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV TỐNG GIANG flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV HẠNG VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://static.flashscore.com/res/image/data/8jpeC3RL-6LQh7ntA.png",16h00 Timor Leste (w) U20 vs Bangladesh (w) U20 (RK) Nhà đài
+https://hls.cdnokvip.com/live/HANGVU1/index.m3u8?expire=1890804960&sign=9ead10f20981ec0927284380f496dc60
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV HẠNG VŨ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/741/1gxsf6qjyq26.png?win007=sell",17h30 FC Seoul vs Daegu FC (LS) BLV KHỔNG MINH flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743251092.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (LS) BLV ODIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/ODIN/index.m3u8?expire=1892979900&sign=edf2447a8675bf94b650662debde4ce7
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743251092.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (LS) BLV ODIN flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743251092.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (LS) BLV THẠCH TÚ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/THACHTU/index.m3u8?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743251092.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (LS) BLV THẠCH TÚ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743251092.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (LS) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/DUONGCHI/index.m3u8?expire=1873178820&sign=388075eab5f96a7da123562534b64d4e
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743251092.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (LS) BLV DƯƠNG CHÍ flv
 #EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/243e036f165b54aaa1e2e2a28335b1e3.png",16h30 Gungahlin United (w) vs Majura FC (W) (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1763,3 +1891,115 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h30 FC Seoul vs Daegu FC (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/biphd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b0433b87b9ce8fd60011eb17656a23a3.png",17h30 Jeonbuk Hyundai Motors vs FC Anyang (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/b97f737098da96f517929ce3855b9be3.png",17h45 Adelaide University (w) vs FFSA NTC Girls (w) (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/26671012b1f898238821ab2be203e213.png",17h45 West Adelaide (w) vs Campbelltown City (w) (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/90e36b6ebd58986473eef7ea901bf781.png",17h45 Adelaide City (w) vs Salisbury Inter (w) (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",17h45 Flinders United (W) vs Metropolis United (w) (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/2de609652e29c1bc2072a42dc4858132.png",18h00 Darwin Olympics vs Mindil Aces (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1.flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://img.thesports.com/football/team/60f6ea688905b5152ab327cd16f21f78.png",18h35 Dalian Yingbo vs Chengdu Rongcheng FC (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1.flv
