@@ -47,7 +47,7 @@ def process_m3u_playlist():
                 url_line = lines[i].strip()
                 
                 # URL'nin proxy formatında olup olmadığını kontrol et
-                if "zeroipday-zeroipday.hf.space/proxy/m3u" in url_line:
+                if "https://zeroipday-zeroipday.hf.space/proxy/dizigom" in url_line:
                     try:
                         # Proxy URL'sini parçalarına ayır
                         parsed_proxy_url = urllib.parse.urlparse(url_line)
