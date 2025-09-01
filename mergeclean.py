@@ -7,6 +7,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/troy8865/kblmod/refs/heads/main/Birlesik.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/trgoals.m3u",
+    "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/karams81/srbatv/refs/heads/main/playsport/Trendyol_1._Lig_2025-2026/Trendyol_1._Lig_2025-2026.m3u",
     "https://raw.githubusercontent.com/karams81/srbatv/refs/heads/main/playsport/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
 ]
