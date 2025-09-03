@@ -6,7 +6,7 @@ import requests
 import urllib.parse
 
 # İşlenecek olan M3U dosyasının URL'si
-SOURCE_URL = "https://raw.githubusercontent.com/zerodayip/m3u8file/refs/heads/main/dizigomdizi.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/Birlesik.m3u"
 # Çıktı dosyasının adı
 OUTPUT_FILE = "recfilm_processed.m3u"
 
