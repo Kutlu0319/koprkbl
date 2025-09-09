@@ -4,6 +4,7 @@ import re
 from datetime import datetime
 
 playlist_urls = [
+    "https://cine10giris.org.tr/ulusaltv.m3u",
     "https://raw.githubusercontent.com/troy8865/kblmod/refs/heads/main/Birlesik.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/trgoals.m3u",
