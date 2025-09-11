@@ -1,0 +1,32 @@
+import requests
+import re
+import time
+import xml.etree.ElementTree as ET
+import yaml
+from urllib.parse import unquote
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
+
+# === Load Config from YAML ===
+with open('config.yml', 'r') as file:
+    config = yaml.safe_load(file)
+
+M3U_SOURCE_FILE = config['m3u_source_file']
+SPECIAL_M3U_URLS = config['special_m3u_urls']
+EPG_SOURCES = config['epg_sources']
+GROUP_ORDER = config['group_order']
+
+# === (Rest of the script remains unchanged) ===
+# Paste the main script here, same as previous answer.
+# Replace hardcoded configs with config values where necessary.
+
+# Example: instead of
+#     m3u_urls = load_m3u_urls()
+# do:
+#     m3u_urls = load_m3u_urls_from_config()
+
+def load_m3u_urls():
+    with open(M3U_SOURCE_FILE, 'r') as f:
+        return [line.strip() for line in f if line.strip()] + SPECIAL_M3U_URLS
+
+# ... rest of the script continues as before ...
