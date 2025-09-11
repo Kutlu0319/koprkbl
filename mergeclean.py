@@ -9,7 +9,8 @@ playlist_urls = [
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/trgoals.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
-    "https://raw.githubusercontent.com/Kutlu0319/krnagrsi/refs/heads/main/umitm0d.m3u", 
+    "https://raw.githubusercontent.com/Kutlu0319/krnagrsi/refs/heads/main/justsporthd.m3u",
+    "https://raw.githubusercontent.com/Kutlu0319/krnagrsi/refs/heads/main/salamistv.m3u",
     "https://raw.githubusercontent.com/mehmetey03/raply/refs/heads/main/metv/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
 ]
 
