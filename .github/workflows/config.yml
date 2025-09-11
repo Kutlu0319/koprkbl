@@ -1,0 +1,22 @@
+# config.yml
+
+# Kullanılmayacak ama dursun, hata vermemesi için
+m3u_source_file: M3U_list.txt
+
+# Senin istediğin özel kaynaklar
+special_m3u_urls:
+  - "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u"
+  - "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda2.m3u"
+
+# EPG kaynakları
+epg_sources:
+  - "https://lichphatsong.xyz/schedule/epg.xml"
+  - "https://raw.githubusercontent.com/AndKen14/EPG/refs/heads/main/guide.xml"
+  - "https://raw.githubusercontent.com/AndKen14/EPG/refs/heads/main/guide2.xml"
+
+# Grup sıralaması ve isimleri
+group_order:
+  "VTV Channels": 1
+  "Movies": 2
+  "Live": 3
+  "Sports": 4
