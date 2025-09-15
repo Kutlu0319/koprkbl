@@ -9,6 +9,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/justsporthd1.m3u",
+    "https://raw.githubusercontent.com/Kutlu0319/raplysrb/refs/heads/main/trgoalas.m3u",
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/salamistv1.m3u",
     "https://raw.githubusercontent.com/mehmetey03/xyzvtt/refs/heads/main/xyzvt.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
