@@ -496,352 +496,254 @@ https://feive.zirvedesin5.sbs/yayint2.m3u8
 #EXTVLCOPT:http-referrer=https://monotv523.com/
 https://feive.zirvedesin5.sbs/yayint3.m3u8
 
+#EXTGRP:Trendyol 1. Lig 2025/2026
+#EXTINF:-1 tvg-id="1494309" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1494309.jpg" group-title="Trendyol 1. Lig 2025/2026",Adana Demirspor 0-3 Arca Çorum FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_ads_cor_2h_16agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494305" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494305.jpg" group-title="Trendyol 1. Lig 2025/2026",Alagöz Holding Iğdır FK 2-1 SMS Grup Sarıyerspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_igdir_sari_1h_9agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494310" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1494310.jpg" group-title="Trendyol 1. Lig 2025/2026",Amed Sportif Faaliyetler 2-2 Erzurumspor FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_amed_erz_2h_18agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494308" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494308.jpg" group-title="Trendyol 1. Lig 2025/2026",Arca Çorum FK 2-0 Amed Sportif Faaliyetler
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_corum_amed_1h_10agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494304" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1494304.jpg" group-title="Trendyol 1. Lig 2025/2026",Atakaş Hatayspor 1-3 Emre Gökdemir İnşaat Ankara Keçiörengücü
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_hatay_keci_1h_9agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494313" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1494313.jpg" group-title="Trendyol 1. Lig 2025/2026",Atko Grup Pendikspor 2-0 Bandırma Spor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_pen_ban_2h_16agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494299" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494299.jpg" group-title="Trendyol 1. Lig 2025/2026",Bandırma Spor 1-1 Sakaryaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_ban_sak_1h_10agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494301" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1494301.jpg" group-title="Trendyol 1. Lig 2025/2026",Boluspor  2-3 İmaj Altyapı Van Spor FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_bolu_van_1h_10agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494307" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1494307.jpg" group-title="Trendyol 1. Lig 2025/2026",Eminevim Ümraniyespor  2-1 Manisa FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_v2_umr_man_1h_8agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494311" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494311.jpg" group-title="Trendyol 1. Lig 2025/2026",Emre Gökdemir İnşaat Ankara Keçiörengücü 0-0 İstanbulspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_keci_ist_2h_16agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494302" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494302.jpg" group-title="Trendyol 1. Lig 2025/2026",Erzurumspor FK 2-0 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_erz_siv_1h_9agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494303" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Trendyol 1. Lig 2025/2026",Esenler Erokspor 2-2 Adana Demirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_erok_adana_1h_11agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494318" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1494318.jpg" group-title="Trendyol 1. Lig 2025/2026",İmaj Altyapı Van Spor FK 1-0 Esenler Erokspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_van_erok_2h_17agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494306" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1494306.jpg" group-title="Trendyol 1. Lig 2025/2026",İstanbulspor 0-0 Serik Spor Futbol A.Ş.
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_ist_serik_1h_9agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494312" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1494312.jpg" group-title="Trendyol 1. Lig 2025/2026",Manisa FK 2-1 Atakaş Hatayspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_man_hat_2h_17agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494314" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494314.jpg" group-title="Trendyol 1. Lig 2025/2026",Sakaryaspor 3-2 Alagöz Holding Iğdır FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_sak_igdir_2h_17agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494316" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1494316.jpg" group-title="Trendyol 1. Lig 2025/2026",Serik Spor Futbol A.Ş. 1-0 Eminevim Ümraniyespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_v2_serik_umr_2h_15agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494300" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1494300.jpg" group-title="Trendyol 1. Lig 2025/2026",Sipay Bodrum FK 1-1 Atko Grup Pendikspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_1_bod_pen_1h_10agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494315" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1494315.jpg" group-title="Trendyol 1. Lig 2025/2026",SMS Grup Sarıyerspor 1-1 Boluspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_sari_bolu_2h_16agu_ip&secure=1
+#EXTINF:-1 tvg-id="1494317" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1494317.jpg" group-title="Trendyol 1. Lig 2025/2026",Özbelsan Sivasspor 1-1 Sipay Bodrum FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20252026_2_v2_siv_bod_2h_17agu_ip&secure=1
+
 #EXTGRP:TRGOALS
 #EXTINF:-1 group-title="TRGOALS",A SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinas.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="A SPOR" group-title="TRGOALS",A SPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinas.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinatv.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="ATV" group-title="TRGOALS",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinatv.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 1 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayin1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="BEIN SPORTS 1 (1)" group-title="TRGOALS",BEIN SPORTS 1 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayin1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 1 (INAT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayininat.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="BEIN SPORTS 1 (INAT)" group-title="TRGOALS",BEIN SPORTS 1 (INAT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayininat.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 1 (ZIRVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinzirve.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="BEIN SPORTS 1 (ZIRVE)" group-title="TRGOALS",BEIN SPORTS 1 (ZIRVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinzirve.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinb2.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="BEIN SPORTS 2" group-title="TRGOALS",BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinb2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinb3.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="BEIN SPORTS 3" group-title="TRGOALS",BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinb3.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinb4.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="BEIN SPORTS 4" group-title="TRGOALS",BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinb4.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinb5.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="BEIN SPORTS 5" group-title="TRGOALS",BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinb5.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinbm1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="BEIN SPORTS MAX 1" group-title="TRGOALS",BEIN SPORTS MAX 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinbm1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",BEIN SPORTS MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinbm2.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="BEIN SPORTS MAX 2" group-title="TRGOALS",BEIN SPORTS MAX 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinbm2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EURO SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayineu1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="EURO SPORT 1" group-title="TRGOALS",EURO SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayineu1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EURO SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayineu2.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="EURO SPORT 2" group-title="TRGOALS",EURO SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayineu2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex1.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="EXXEN SPOR 1" group-title="TRGOALS",EXXEN SPOR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex2.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="EXXEN SPOR 2" group-title="TRGOALS",EXXEN SPOR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex3.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="EXXEN SPOR 3" group-title="TRGOALS",EXXEN SPOR 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex3.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex4.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="EXXEN SPOR 4" group-title="TRGOALS",EXXEN SPOR 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex4.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex5.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="EXXEN SPOR 5" group-title="TRGOALS",EXXEN SPOR 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex5.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex6.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="EXXEN SPOR 6" group-title="TRGOALS",EXXEN SPOR 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex6.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex7.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="EXXEN SPOR 7" group-title="TRGOALS",EXXEN SPOR 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex7.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",EXXEN SPOR 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinex8.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="EXXEN SPOR 8" group-title="TRGOALS",EXXEN SPOR 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinex8.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",FORMULA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinf1.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="FORMULA 1" group-title="TRGOALS",FORMULA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinf1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinnbatv.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="NBA TV" group-title="TRGOALS",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinnbatv.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",S SPORT PLUS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinss.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="S SPORT PLUS 1" group-title="TRGOALS",S SPORT PLUS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinss.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",S SPORT PLUS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinss2.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="S SPORT PLUS 2" group-title="TRGOALS",S SPORT PLUS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinss2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",SPOR SMART 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinsmarts.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="SPOR SMART 1" group-title="TRGOALS",SPOR SMART 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinsmarts.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",SPOR SMART 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayinsms2.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="SPOR SMART 2" group-title="TRGOALS",SPOR SMART 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayinsms2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TIVIBU SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayint1.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="TIVIBU SPOR 1" group-title="TRGOALS",TIVIBU SPOR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayint1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TIVIBU SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayint2.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="TIVIBU SPOR 2" group-title="TRGOALS",TIVIBU SPOR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayint2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TIVIBU SPOR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayint3.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="TIVIBU SPOR 3" group-title="TRGOALS",TIVIBU SPOR 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayint3.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayintrt1.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="TRT 1" group-title="TRGOALS",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayintrt1.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TRT SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayintrtspor.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="TRT SPOR 1" group-title="TRGOALS",TRT SPOR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayintrtspor.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TRT SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayintrtspor2.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="TRT SPOR 2" group-title="TRGOALS",TRT SPOR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayintrtspor2.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayintv8.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="TV 8" group-title="TRGOALS",TV 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayintv8.m3u8|referer=https://trgoals896.xyz/
 #EXTINF:-1 group-title="TRGOALS",TV 8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals896.xyz/
 https://iss.trgoalshls1.shop/yayintv85.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="TV 8.5" group-title="TRGOALS",TV 8.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://trgoals896.xyz/
-https://iss.trgoalshls1.shop/yayintv85.m3u8|referer=https://trgoals896.xyz/
 
 #EXTGRP:XYZSport
 #EXTINF:-1 group-title="XYZSport",Aspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/aspor/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-1/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-2/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-3/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-4/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-5/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-max-1/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Bein Sports Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/bein-sports-max-2/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",S Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/s-sport/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",S Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/s-sport-2/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",S Sport Plus 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/s-sport-plus-1/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",S Sport Plus 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/s-sport-plus-2/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Smart Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/smart-spor/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Smart Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/smart-spor-2/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Trt Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/trt-spor/playlist.m3u8
 #EXTINF:-1 group-title="XYZSport",Trt Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.xyzsports249.xyz/
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/trt-spor-2/playlist.m3u8
 
 #EXTGRP:⚽ SPOR
