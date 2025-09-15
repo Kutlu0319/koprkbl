@@ -7,11 +7,11 @@ playlist_urls = [
     "https://cine10giris.org.tr/ulusaltv.m3u",
     "https://raw.githubusercontent.com/troy8865/kblmod/refs/heads/main/Birlesik.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/selcuk.m3u",
-    "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/trgoals.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/Kutlu0319/krnagrsi/refs/heads/main/justsporthd.m3u",
     "https://raw.githubusercontent.com/Kutlu0319/krnagrsi/refs/heads/main/salamistv.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/raply/refs/heads/main/metv/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
+    "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
+    "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/Trendyol_1._Lig_2025-2026/Trendyol_1._Lig_2025-2026.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
