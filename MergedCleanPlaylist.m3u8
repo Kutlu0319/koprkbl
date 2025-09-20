@@ -587,6 +587,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_goz_fb_2h_16agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493390" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493390.jpg" group-title="Süper Lig 2025/2026",Göztepe 1-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_goz_kon_4h_29agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493412" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493412.jpg" group-title="Süper Lig 2025/2026",Göztepe 3-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_goz_bjk_6h_19eyl_ip&secure=1
 #EXTINF:-1 tvg-id="1493386" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493386.jpg" group-title="Süper Lig 2025/2026",Hesap.com Antalyaspor 1-2 Mısırlı.com.tr Fatih Karagümrük
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_ant_kara_4h_30agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493355" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493355.jpg" group-title="Süper Lig 2025/2026",Hesap.com Antalyaspor 2-1 Kasımpaşa
@@ -776,6 +778,72 @@ https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/smart-spor-2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/trt-spor/playlist.m3u8
 #EXTINF:-1 group-title="Umitmod",Trt Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/trt-spor-2/playlist.m3u8
+
+#EXTGRP:XYZSport
+#EXTINF:-1 group-title="XYZSport",Aspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/aspor/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-1/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-2/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-3/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-4/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-5/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports Max 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-max-1/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Bein Sports Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/bein-sports-max-2/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",S Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/s-sport/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",S Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/s-sport-2/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",S Sport Plus 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/s-sport-plus-1/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",S Sport Plus 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/s-sport-plus-2/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Smart Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/smart-spor/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Smart Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/smart-spor-2/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Trt Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
+https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/trt-spor/playlist.m3u8
+#EXTINF:-1 group-title="XYZSport",Trt Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.xyzsports248.xyz/
 https://dow16a1wo44i5e.a2e48a79a3e61720.live/live/trt-spor-2/playlist.m3u8
