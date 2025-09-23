@@ -7,8 +7,7 @@ URLS = [
     "https://raw.githubusercontent.com/ahmet21ahmet/F-n/main/scripts%2Fcanli-tv.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u",
     "https://raw.githubusercontent.com/mehmetey03/xyzvt/refs/heads/main/xyzvt.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/salamistv.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/justsporthd.m3u",
+
 ]
 
 # Çıktı dosyasının adı
