@@ -1198,9 +1198,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
 #EXTGRP:🎦 ENO SİNEMA
 #EXTINF:-1 xui-id="198432" tvg-id="" tvg-name="ENO AKSIYON 1" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_HtT-kpLPFsCFrEMCZq92ws.png" group-title="🎦 ENO SİNEMA",ENO AKSIYON 1
-http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOddG-uOX2IABOAo6eGloy8fE/m3u8
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdc0AfY83rJkedaeDooXSpV8
 #EXTINF:-1 xui-id="198434" tvg-id="" tvg-name="ENO ANIMASYON" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_HtT-kpLPFsCFrEMCZq92ws.png" group-title="🎦 ENO SİNEMA",ENO ANIMASYON
-http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdccshJrc0yNn9HSHePCfxb8/.m3u8
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOddeO6O2zGAeMi_AOtwO2cIQ
 #EXTINF:-1 xui-id="198435" tvg-id="" tvg-name="ENO VIZYON 1" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_HtT-kpLPFsCFrEMCZq92ws.png" group-title="🎦 ENO SİNEMA",ENO VIZYON 1
 http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdScE5ApuZKrIbZw33QWxtcI
 #EXTINF:-1 xui-id="198444" tvg-id="" tvg-name="ENO VIZYON 10" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_HtT-kpLPFsCFrEMCZq92ws.png" group-title="🎦 ENO SİNEMA",ENO VIZYON 10
@@ -1230,7 +1230,7 @@ http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdfvmkeyufiBMmx2owoJDWdY
 #EXTINF:-1 xui-id="198443" tvg-id="" tvg-name="ENO VIZYON 9" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_HtT-kpLPFsCFrEMCZq92ws.png" group-title="🎦 ENO SİNEMA",ENO VIZYON 9
 http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdT_hiq3qhXJsumNHKXE78hk
 #EXTINF:-1 xui-id="198433" tvg-id="" tvg-name="ENO WESTERN" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_HtT-kpLPFsCFrEMCZq92ws.png" group-title="🎦 ENO SİNEMA",ENO WESTERN
-http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOddG-uOX2IABOAo6eGloy8fE/m3u8
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdV8q0sADwzVDR9jKY1ms3rw
 
 #EXTGRP:🎦 FIX CINEMA
 #EXTINF:-1 xui-id="198458" tvg-id="" tvg-name="FIX CINEMA ACTION" tvg-logo="http://5.175.206.218:80/images/AuNOt3gX2RdNTeunqw1d_COceeYVhwPIKHyZ2ITYe28.png" group-title="🎦 FIX CINEMA",FIX CINEMA ACTION
