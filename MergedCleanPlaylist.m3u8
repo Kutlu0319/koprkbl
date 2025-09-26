@@ -849,8 +849,6 @@ https://angr.radyotvonline.net/webtv/smil:kecioren.smil/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="KIBRIS TV" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",KIBRIS TV
 https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
-#EXTINF:-1 tvg-name="KK TV" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",KK TV
-http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-logo="https://cine10giris.org.tr/resim/yerel/kocaeli.png" group-title="🌄 YEREL",KOCAELİ TV
 http://stream.castr.com/64c0d0ebaaa212486ecf0238/live_4faaaa102b8a11ee80f12783ea1667a8/index.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-logo="https://cine10giris.org.tr/resim/yerel/kocaeli.png" group-title="🌄 YEREL",KOCAELİ TV
@@ -946,7 +944,7 @@ https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="TV 2020" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 2020" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 2020
-https://spor.kuzeykibris.tv/m3u8/tv_2020.m3u8
+https://spor.kuzeykibris.tv/m3u8/tv_2020.m3
 #EXTINF:-1 tvg-name="TV 25 DOĞU" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 25 DOĞU
 https://cdn-tv25.yayin.com.tr/tv25/tv25/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 264 SAKARYA" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 264 SAKARYA
@@ -1001,22 +999,44 @@ https://edge1.socialsmart.tv/corumbelediyesilive/bant1/playlist.m3u8
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 
 #EXTGRP:🌓 BELGESEL
+#EXTINF:-1 tvg-id="87" tvg-logo="https://cine10giris.org.tr/resim/belgesel/bbc.earth.png" group-title="🌓 BELGESEL",BBC EARTH
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdctEi7qFlEus0-LGt-VJCLw/m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://cine10giris.org.tr/resim/belgesel/bein.gurme.png" group-title="🌓 BELGESEL",bEIN GURME
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdWSeMIzT890qpxpMWmTSSzE/m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://cine10giris.org.tr/resim/belgesel/bein.iz.png" group-title="🌓 BELGESEL",bEIN iZ
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdWkk-gsYoogNmED4HlCxZ0c/m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="https://cine10giris.org.tr/resim/belgesel/davinci.learing.png" group-title="🌓 BELGESEL",DA Vinci Learnıng
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdR5mOSf5Nu-IYNBYEJJAJC0/m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="https://cine10giris.org.tr/resim/belgesel/discovery.channel.png" group-title="🌓 BELGESEL",Discovery Channel
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdWfBE5_EVvyZIK9egbn-Ilk/m3u8
 #EXTINF:-1 tvg-id="21" tvg-logo="https://cine10giris.org.tr/resim/belgesel/dmax.png" group-title="🌓 BELGESEL",Dmax
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="87" tvg-logo="https://cine10giris.org.tr/resim/belgesel/history.png" group-title="🌓 BELGESEL",History
 http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdf-hewIUtEQ-uV7t4s4g020/m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="https://cine10giris.org.tr/resim/belgesel/id.png" group-title="🌓 BELGESEL",ID
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdZoYFUJJyIHLV9ron3GgmIk/m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo="https://cine10giris.org.tr/resim/belgesel/ciftci.png" group-title="🌓 BELGESEL",Köy Tv
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdSs-kdN63MKcG4mFJUcHLDo/m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="https://cine10giris.org.tr/resim/belgesel/love.nature.png" group-title="🌓 BELGESEL",Love Nature
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdT6X21WJQcrEnL-_u5WrJFU/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat. Geographic" tvg-logo="https://cine10giris.org.tr/resim/belgesel/nat.geo.wild.png" group-title="🌓 BELGESEL",Nat. Geographic
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-logo="https://cine10giris.org.tr/resim/belgesel/national.geographic.png" group-title="🌓 BELGESEL",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo="https://yt3.googleusercontent.com/Re-3P946MSAGqqwYjs6v_V0skou9ke7o7hsL8E2aUzeTZWR1WcHhJWjwKjFUueePfTggP3GXu70=s900-c-k-c0x00ffffff-no-rj" group-title="🌓 BELGESEL",Tarım Tv
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo="https://yt3.googleusercontent.com/TWSgLJEkOPBFXWbyqzBuG0-EeXmhVXUKHEoRn3GnJ_WkJeknuh2Q9MJrLAC6k_-YKb4HeslA=s900-c-k-c0x00ffffff-no-rj" group-title="🌓 BELGESEL",TGRT BELGESEL
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdf1lxF5fFajf9IZBi2JuJLw/m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://cine10giris.org.tr/resim/belgesel/tlc.png" group-title="🌓 BELGESEL",Tlc
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="https://cine10giris.org.tr/resim/belgesel/trtelgesel.png" group-title="🌓 BELGESEL",Trt Belgesel
+#EXTINF:-1 tvg-id="82" tvg-logo="https://yt3.googleusercontent.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="🌓 BELGESEL",Trt Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="90" tvg-logo="https://cine10giris.org.tr/resim/belgesel/viasat.explore.png" group-title="🌓 BELGESEL",Viasat Explore
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdTPlklLh8jQoHx4DXIHVaN8/m3u8
 #EXTINF:-1 tvg-id="87" tvg-logo="https://cine10giris.org.tr/resim/belgesel/viasat.history.png" group-title="🌓 BELGESEL",Viasat History
-http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdf-hewIUtEQ-uV7t4s4g020
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdc_fBz05v8ErFsHiQAsPx8Y/m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo="https://cine10giris.org.tr/resim/belgesel/yaban.png" group-title="🌓 BELGESEL",Yaban Tv
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdRd1NPEZd06XcfnT8ZzEf7I/m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo="https://cine10giris.org.tr/resim/belgesel/ciftci.png" group-title="🌓 BELGESEL",Çiftci Tv
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
