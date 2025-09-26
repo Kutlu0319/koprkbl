@@ -1422,7 +1422,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV" tvg-logo="https://cine10giris.org.tr/resim/haberler/eko.turk.png" group-title="📡 HABER", GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/haber.global.png" group-title="📡 HABER",HABER GLOBAL
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+youtube://UCtc-a9ZUIg0_5HpsPxEO7Qg
 #EXTINF:-1 tvg-id="" tvg-name="HABER TURK HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/haber.turk.png" group-title="📡 HABER", HABER TURK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/halk.png" group-title="📡 HABER", HALK TV
