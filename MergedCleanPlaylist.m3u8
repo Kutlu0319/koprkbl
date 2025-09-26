@@ -1004,7 +1004,7 @@ http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-logo="https://cine10giris.org.tr/resim/belgesel/dmax.png" group-title="🌓 BELGESEL",Dmax
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="87" tvg-logo="https://cine10giris.org.tr/resim/belgesel/history.png" group-title="🌓 BELGESEL",History
-https://goldvod.org/tv/vavoo?id=24153315684694fb309dba
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdf-hewIUtEQ-uV7t4s4g020/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat. Geographic" tvg-logo="https://cine10giris.org.tr/resim/belgesel/nat.geo.wild.png" group-title="🌓 BELGESEL",Nat. Geographic
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-logo="https://cine10giris.org.tr/resim/belgesel/national.geographic.png" group-title="🌓 BELGESEL",National Geographic
@@ -1016,7 +1016,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="82" tvg-logo="https://cine10giris.org.tr/resim/belgesel/trtelgesel.png" group-title="🌓 BELGESEL",Trt Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="87" tvg-logo="https://cine10giris.org.tr/resim/belgesel/viasat.history.png" group-title="🌓 BELGESEL",Viasat History
-https://goldvod.org/tv/vavoo?id=1900945213599b64fe115b
+http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdf-hewIUtEQ-uV7t4s4g020
 #EXTINF:-1 tvg-id="36" tvg-logo="https://cine10giris.org.tr/resim/belgesel/ciftci.png" group-title="🌓 BELGESEL",Çiftci Tv
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
