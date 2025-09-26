@@ -849,6 +849,8 @@ https://angr.radyotvonline.net/webtv/smil:kecioren.smil/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="KIBRIS TV" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",KIBRIS TV
 https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:-1 tvg-name="KK TV" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",KK TV
+http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-logo="https://cine10giris.org.tr/resim/yerel/kocaeli.png" group-title="🌄 YEREL",KOCAELİ TV
 http://stream.castr.com/64c0d0ebaaa212486ecf0238/live_4faaaa102b8a11ee80f12783ea1667a8/index.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-logo="https://cine10giris.org.tr/resim/yerel/kocaeli.png" group-title="🌄 YEREL",KOCAELİ TV
@@ -944,7 +946,7 @@ https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="TV 2020" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 2020" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 2020
-https://spor.kuzeykibris.tv/m3u8/tv_2020.m3
+https://spor.kuzeykibris.tv/m3u8/tv_2020.m3u8
 #EXTINF:-1 tvg-name="TV 25 DOĞU" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 25 DOĞU
 https://cdn-tv25.yayin.com.tr/tv25/tv25/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 264 SAKARYA" tvg-logo="https://i.imgur.com/RUlb6Gj.png" group-title="🌄 YEREL",TV 264 SAKARYA
@@ -1025,11 +1027,11 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo="https://yt3.googleusercontent.com/Re-3P946MSAGqqwYjs6v_V0skou9ke7o7hsL8E2aUzeTZWR1WcHhJWjwKjFUueePfTggP3GXu70=s900-c-k-c0x00ffffff-no-rj" group-title="🌓 BELGESEL",Tarım Tv
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 tvg-id="36" tvg-logo="https://yt3.googleusercontent.com/TWSgLJEkOPBFXWbyqzBuG0-EeXmhVXUKHEoRn3GnJ_WkJeknuh2Q9MJrLAC6k_-YKb4HeslA=s900-c-k-c0x00ffffff-no-rj" group-title="🌓 BELGESEL",TGRT BELGESEL
+#EXTINF:-1 tvg-id="36" tvg-logo="https://cine10giris.org.tr/resim/belgesel/tgrt.belgesel.png" group-title="🌓 BELGESEL",TGRT BELGESEL
 http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdf1lxF5fFajf9IZBi2JuJLw/m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://cine10giris.org.tr/resim/belgesel/tlc.png" group-title="🌓 BELGESEL",Tlc
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="https://yt3.googleusercontent.com/bnBf3_3Nw-sQkrjyj0U1Gb68Od0em3yzm9_VzgHqyxPvYyP069gRuRW-QdLI5qJ8QFl3m-y6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="🌓 BELGESEL",Trt Belgesel
+#EXTINF:-1 tvg-id="82" tvg-logo="https://cine10giris.org.tr/resim/belgesel/trt.belgesel.png" group-title="🌓 BELGESEL",Trt Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="90" tvg-logo="https://cine10giris.org.tr/resim/belgesel/viasat.explore.png" group-title="🌓 BELGESEL",Viasat Explore
 http://5.175.206.218:80/play/YK0EXSbv7E7xlzj__iYOdTPlklLh8jQoHx4DXIHVaN8/m3u8
@@ -1329,7 +1331,7 @@ https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/a.haber.png" group-title="📡 HABER", A HABER
 youtube://UCKQhfw-lzz0uKnE1fY1PsAA
-#EXTINF:-1 tvg-name="A News" tvg-logo="https://i.ytimg.com/vi/L4O-IO_dySQ/hqdefault_live.jpg" group-title="📡 HABER",A News
+#EXTINF:-1 tvg-name="A News" tvg-logo="https://avatars.mds.yandex.net/i?id=117c54dd15cc5b675102d149ef7b68ddd5e064b5-16312836-images-thumbs&n=13" group-title="📡 HABER",A News
 youtube://UC-LRBEUet4xX2fRB3JitFxg
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/a.para.png" group-title="📡 HABER", A Para
 youtube://UCzrGg6iyRDuUSnO0cQ5oLcA
