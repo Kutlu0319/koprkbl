@@ -1314,7 +1314,7 @@ youtube://UC-LRBEUet4xX2fRB3JitFxg
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/a.para.png" group-title="📡 HABER", A Para
 youtube://UCzrGg6iyRDuUSnO0cQ5oLcA
 #EXTINF:-1 tvg-id="" tvg-name="AKIT TV HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/akit.png" group-title="📡 HABER", AKIT TV
-youtube://https://akittv-live.ercdn.net/akittv/akittv.m3u8
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGU TURK HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/bengu.turk.png" group-title="📡 HABER",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/bloomberg.tv.png" group-title="📡 HABER", BLOOMBERG TV
@@ -1348,7 +1348,7 @@ youtube://UCgH3Vo5DVMsrbDSUoSecm0Q
 #EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/ntv.png" group-title="📡 HABER",NTV HD
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://cine10giris.org.tr/resim/haberler/sozcu.png" group-title="📡 HABER",SOZCU TV
-http://5.175.206.218:80/play/JLWK57rt0SVuPQh5lgA4YJGUKouT0jekVZ4-mKjF6QK4Nv-Bmh9eNmRNMpEBzBOf/m3u8
+youtube://UCOulx_rep5O4i9y6AyDqVvw
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="https://cine10giris.org.tr/resim/haberler/tele.1.png" group-title="📡 HABER", TELE 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/tgrt.haber.png" group-title="📡 HABER", TGRT HABER
@@ -1362,7 +1362,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://cine10giris.org.tr/resim/haberler/tv.100.png" group-title="📡 HABER",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="https://pbs.twimg.com/profile_images/1386412085366726662/og9I0wnd_400x400.jpg" group-title="📡 HABER",TV 5
-https://tv5-live.ercdn.net/tv5/tv5.m3u8
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NET HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/tv.net.png" group-title="📡 HABER",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULKE TV HD" tvg-logo="https://cine10giris.org.tr/resim/haberler/ulke.tv.png" group-title="📡 HABER", ULKE TV
