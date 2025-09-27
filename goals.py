@@ -6,29 +6,22 @@ import sys
 import time
 from urllib.parse import quote
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-def run_pygoals_script():
+# === PYGOALS KISMI ===
+def pygoals_main():
     print("🚀 PyGoals M3U8 Kanal İndirici Başlatılıyor...")
-    
     base = "https://trgoals"
     domain = ""
-    
-    print("\n🔍 Domain aranıyor: trgoals1393.xyz → trgoals2100.xyz")
     for i in range(1393, 2101):
         test_domain = f"{base}{i}.xyz"
         try:
             response = requests.head(test_domain, timeout=3)
             if response.status_code == 200:
                 domain = test_domain
-                print(f"✅ Domain bulundu: {domain}")
+                print(f"✅ PyGoals Domain bulundu: {domain}")
                 break
-            else:
-                print(f"⏳ Denenen domain: {test_domain} (Status: {response.status_code})")
-        except Exception as e:
-            print(f"⏳ Denenen domain: {test_domain} (Hata: {str(e)[:30]}...)")
+        except:
             continue
-    
+
     channel_ids = {
         "yayinzirve": "beIN Sports 1 ☪️",
         "yayininat": "beIN Sports 1 ⭐",
@@ -37,8 +30,8 @@ def run_pygoals_script():
         "yayinb3": "beIN Sports 3",
         "yayinb4": "beIN Sports 4",
         "yayinb5": "beIN Sports 5",
-        "yayinbm1": "BeIN Sports 1 Max",
-        "yayinbm2": "BeIN Sports 2 Max",
+        "yayinbm1": "beIN Sports 1 Max",
+        "yayinbm2": "beIN Sports 2 Max",
         "yayinss": "Saran Sports 1",
         "yayinss2": "Saran Sports 2",
         "yayint1": "Tivibu Sports 1",
@@ -63,56 +56,44 @@ def run_pygoals_script():
         "yayinex7": "Tâbii 7",
         "yayinex8": "Tâbii 8"
     }
-    
-    folder_name = "channels_files"
+
+    folder_name = "pygoals_channels"
     if os.path.exists(folder_name):
         shutil.rmtree(folder_name)
     os.makedirs(folder_name, exist_ok=True)
-    
+
     if not domain:
-        print("❌ Domain bulunamadı, işlem durduruldu.")
+        print("❌ PyGoals Domain bulunamadı, dosya oluşturulmayacak.")
         return
-    
-    created = 0
-    failed = 0
-    
-    for i, (channel_id, channel_name) in enumerate(channel_ids.items(), 1):
+
+    for channel_id, channel_name in channel_ids.items():
         try:
-            print(f"\n[{i}/{len(channel_ids)}] {channel_name} işleniyor...")
             url = f"{domain}/channel.html?id={channel_id}"
-            response = requests.get(url, headers=HEADERS, timeout=10)
+            response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
             if response.status_code != 200:
-                print(f"❌ HTTP Hatası: {response.status_code}")
-                failed += 1
                 continue
             match = re.search(r'const baseurl = "(.*?)"', response.text)
             if not match:
-                print("❌ BaseURL bulunamadı")
-                failed += 1
                 continue
             baseurl = match.group(1)
             encoded_url = quote(f"{baseurl}{channel_id}.m3u8", safe='')
             full_url = f"http://proxylendim101010.mywire.org/proxy.php?url={encoded_url}"
-            
+
             content = f"""#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5500000,AVERAGE-BANDWIDTH=8976000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25
 {full_url}
 """
             safe_name = re.sub(r'[^\w\s.-]', '_', channel_name).replace(' ', '_') + ".m3u8"
-            path = os.path.join(folder_name, safe_name)
-            with open(path, "w", encoding="utf-8") as f:
+            with open(os.path.join(folder_name, safe_name), "w", encoding="utf-8") as f:
                 f.write(content)
-            print(f"✅ {channel_name} → {safe_name}")
-            created += 1
+            print(f"✅ PyGoals {channel_name} dosyası oluşturuldu.")
             time.sleep(0.1)
         except Exception as e:
-            print(f"❌ Hata: {e}")
-            failed += 1
-    
-    print(f"\nPyGoals: Başarılı: {created}, Başarısız: {failed}, Klasör: {os.path.abspath(folder_name)}")
+            print(f"❌ PyGoals {channel_name} işlem hatası: {e}")
 
-
+# === SELCUK KISMI ===
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 CHANNELS = [
     {"id": "bein1", "source_id": "selcukbeinsports1", "name": "BeIN Sports 1", "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png", "group": "Spor"},
@@ -135,5 +116,74 @@ CHANNELS = [
     {"id": "eurosport2", "source_id": "selcukeurosport2", "name": "Eurosport 2", "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png", "group": "Spor"},
 ]
 
+def find_working_domain(start=6, end=100):
+    print("🔍 Sporcafe domainleri taranıyor...")
+    for i in range(start, end + 1):
+        url = f"https://www.sporcafe{i}.xyz/"
+        try:
+            res = requests.get(url, headers=HEADERS, timeout=5)
+            if res.status_code == 200 and "uxsyplayer" in res.text:
+                print(f"✅ Aktif domain: {url}")
+                return res.text, url
+        except:
+            continue
+    print("❌ Aktif domain bulunamadı.")
+    return None, None
+
+def find_stream_domain(html):
+    match = re.search(r'https?://(main\.uxsyplayer[0-9a-zA-Z\-]+\.click)', html)
+    return f"https://{match.group(1)}" if match else None
+
+def extract_base_url(html):
+    match = re.search(r'this\.adsBaseUrl\s*=\s*[\'"]([^\'"]+)', html)
+    return match.group(1) if match else None
+
+def fetch_streams(domain, referer):
+    result = []
+    for ch in CHANNELS:
+        full_url = f"{domain}/index.php?id={ch['source_id']}"
+        try:
+            r = requests.get(full_url, headers={**HEADERS, "Referer": referer}, timeout=5)
+            if r.status_code == 200:
+                base = extract_base_url(r.text)
+                if base:
+                    stream = f"{base}{ch['source_id']}/playlist.m3u8"
+                    print(f"✅ {ch['name']} → {stream}")
+                    result.append((ch, stream))
+        except Exception as e:
+            print(f"⚠️ {ch['name']} alınamadı: {e}")
+    return result
+
+def write_m3u(links, filename="selcuk.m3u", referer=""):
+    print(f"\n📝 M3U dosyası yazılıyor: {filename}")
+    lines = ["#EXTM3U"]
+    for ch, url in links:
+        lines.append(f'#EXTINF:-1 tvg-id="{ch["id"]}" tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}')
+        lines.append(f"#EXTVLCOPT:http-referrer={referer}")
+        lines.append(url)
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"✅ Tamamlandı. Kanal sayısı: {len(links)}")
+
+def selcuk_main():
+    html, referer = find_working_domain()
+    if not html:
+        return
+    stream_domain = find_stream_domain(html)
+    if not stream_domain:
+        print("❌ Yayın domaini bulunamadı.")
+        return
+    print(f"🔗 Yayın domaini: {stream_domain}")
+    streams = fetch_streams(stream_domain, referer)
+    if streams:
+        write_m3u(streams, filename="selcuk.m3u", referer=referer)
+    else:
+        print("❌ Hiçbir yayın alınamadı.")
+
+# === ANA FONKSİYON ===
+def main():
+    pygoals_main()
+    selcuk_main()
+
 if __name__ == "__main__":
-    run_pygoals_script()
+    main()
