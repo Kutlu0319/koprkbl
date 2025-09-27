@@ -1,0 +1,33 @@
+name: Kanal M3U8 YAML İndirici
+
+on:
+  workflow_dispatch:  # Elle tetiklenebilir
+  schedule:
+    - cron: '0 */6 * * *'  # Her 6 saatte bir otomatik çalıştırılır
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu klonla
+        uses: actions/checkout@v3
+
+      - name: Python 3 kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Bağımlılıkları yükle
+        run: |
+          pip install -r requirements.txt
+
+      - name: Scripti çalıştır
+        run: |
+          python script.py
+
+      - name: Üretilen dosyaları yükle (output klasörüne)
+        uses: actions/upload-artifact@v3
+        with:
+          name: m3u8-yaml-kanallar
+          path: serbay/
