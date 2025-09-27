@@ -2,7 +2,7 @@ name: cixis fayli Links
 
 on:
   schedule:
-    - cron: '0 */3 * * *'   # Her 3 saatte bir (00:00, 03:00, 06:00, ...)
+    - cron: '0 */3 * * *'   # Her 3 saatte bir çalışır
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install requests
 
-      - name: Run goals.py
+      - name: Run combined script
         run: python goals.py
 
       - name: Commit and Push changes
