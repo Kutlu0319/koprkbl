@@ -325,6 +325,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_5_gazi_koca_5h_14eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493380" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493380.jpg" group-title="Süper Lig 2025/2026",Gaziantep FK 2-1 Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_3_gazi_genc_3h_23agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493425" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Gaziantep FK 2-2 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_7_gazi_samsun_ip&secure=1
 #EXTINF:-1 tvg-id="1493370" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493370.jpg" group-title="Süper Lig 2025/2026",Gençlerbirliği 0-1 Hesap.com Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_genc_ant_2h_17agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493411" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493411.jpg" group-title="Süper Lig 2025/2026",Gençlerbirliği 1-0 ikas Eyüpspor
@@ -343,6 +345,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_ant_kara_4h_30agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493355" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493355.jpg" group-title="Süper Lig 2025/2026",Hesap.com Antalyaspor 2-1 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_ant_kas_1h_9agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493422" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493422.jpg" group-title="Süper Lig 2025/2026",ikas Eyüpspor 0-0 Göztepe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_7_eyup_goz_7h_27eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493398" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493398.jpg" group-title="Süper Lig 2025/2026",ikas Eyüpspor 0-2 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_5_eyup_gs_5h_13eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493357" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493357.jpg" group-title="Süper Lig 2025/2026",ikas Eyüpspor 1-4 Tümosan Konyaspor
@@ -367,6 +371,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_3_kara_goz_3h_22agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493359" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493359.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-2 Rams Başakşehir
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_kkara_basak_1h_17eylul_ip&secure=1
+#EXTINF:-1 tvg-id="1493423" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 3-4 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_7_kkara_ts_ip&secure=1
 #EXTINF:-1 tvg-id="1493392" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493392.jpg" group-title="Süper Lig 2025/2026",Rams Başakşehir 0-0 ikas Eyüpspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_basak_eyup_4h_31agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493413" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493413.jpg" group-title="Süper Lig 2025/2026",Rams Başakşehir 1-1 Corendon Alanyaspor
