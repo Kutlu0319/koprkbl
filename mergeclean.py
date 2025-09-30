@@ -6,7 +6,7 @@ from datetime import datetime
 playlist_urls = [
     "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
     "https://raw.githubusercontent.com/troy8865/Dnsm/refs/heads/main/stream/all_channels.m3u",
-    https://raw.githubusercontent.com/Kutlu0319/garibims/refs/heads/main/selcuk.m3u",
+    "https://raw.githubusercontent.com/Kutlu0319/garibims/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/myiptv2/iptv-playlist/refs/heads/main/kanallar.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
