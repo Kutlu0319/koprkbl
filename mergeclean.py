@@ -4,12 +4,11 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://cine10giris.org.tr/ulusaltv.m3u",
-    "https://raw.githubusercontent.com/troy8865/kblmod/refs/heads/main/Birlesik.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/selcuk.m3u",
+    "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
+    "https://raw.githubusercontent.com/troy8865/Dnsm/refs/heads/main/stream/all_channels.m3u",
+    https://raw.githubusercontent.com/Kutlu0319/garibims/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
-    "https://raw.githubusercontent.com/Kutlu0319/raplysrb/refs/heads/main/trgoalas.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/xyzvtt/refs/heads/main/xyzvt.m3u",
+    "https://raw.githubusercontent.com/myiptv2/iptv-playlist/refs/heads/main/kanallar.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/Trendyol_1._Lig_2025-2026/Trendyol_1._Lig_2025-2026.m3u",
 ]
