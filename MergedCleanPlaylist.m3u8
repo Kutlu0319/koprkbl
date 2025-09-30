@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 
 #EXTGRP:BEIN SPORTS KANALLARI
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://grtv58.live/
-https://gucci.zirvedesin16.sbs/yayinzirve.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
@@ -203,12 +199,6 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="Diğerleri", TV 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-
-#EXTGRP:EXXEN SPOR KANALLARI
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuBUwmDEIxAFg9_iEHtMvtbTTc9a6bD1t5dQxmBTZ_0U6towl04Kw3H8&s=10" group-title="EXXEN SPOR KANALLARI", EXXEN (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://grtv58.live/
-https://gucci.zirvedesin16.sbs/yayinex1.m3u8
 
 #EXTGRP:ExxenSpor
 #EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 1
@@ -1321,10 +1311,6 @@ https://gucci.zirvedesin16.sbs/yayint2.m3u8
 https://betnbetiptv30.site/711/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (3)
 https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://grtv58.live/
-https://gucci.zirvedesin16.sbs/yayint3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv16.live/
