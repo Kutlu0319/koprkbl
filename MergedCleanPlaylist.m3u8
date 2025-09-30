@@ -757,6 +757,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://95.85.109.219:7000/play/a067
 #EXTINF:-1,showtv
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
+#EXTINF:-1, SIRTV 🇶🇦
+https://94ee02ffc7e508f.sokii.shop/kooora/d4f9ab7dsssssss5abein111_hd?ts=1759249812&nonce=Z5us12fo&token=90671349
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1, SKY SPORT 🇲🇽
@@ -835,6 +837,8 @@ https://fitzonehub.click/live/foot2/chunks.m3u8
 https://s@calciomania.digital/live/foot2/chunks.m3u8
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://sportstvnow.org/1111.m3u8
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+https://s@saz.blitzen.store/tnt2.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor HD",TRT Spor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1411.xyz/
@@ -1014,6 +1018,9 @@ https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukbeinsports1/playlist.m3
 #EXTINF:-1 tvg-id="bein2" tvg-name="BeIN Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",BeIN Sports 2
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",BeIN Sports 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-id="bein4" tvg-name="BeIN Sports 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",BeIN Sports 4
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukbeinsports4/playlist.m3u8
