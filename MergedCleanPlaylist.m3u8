@@ -505,6 +505,8 @@ http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1, CANAL+ Sport 🇵🇱
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1, CBS SPORT 🇺🇸
+http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,cnnturk
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1, CT SPORT HD 🇨🇿
