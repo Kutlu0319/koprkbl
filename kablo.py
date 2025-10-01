@@ -2,6 +2,8 @@ import requests
 import json
 import gzip
 from io import BytesIO
+import time
+import os
 
 def get_canli_tv_m3u():
     """
@@ -26,7 +28,6 @@ def get_canli_tv_m3u():
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
 
-        # Gzip olup olmadığını kontrol et
         try:
             with gzip.GzipFile(fileobj=BytesIO(response.content)) as gz:
                 content = gz.read().decode("utf-8")
@@ -44,6 +45,7 @@ def get_canli_tv_m3u():
 
         with open("yeni.m3u", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
+            f.write(f"# OluşturulmaZamani: {time.time()}\n")  # Sürekli değişen satır
 
             kanal_sayisi = 0
             kanal_index = 1
@@ -70,6 +72,11 @@ def get_canli_tv_m3u():
 
                 kanal_sayisi += 1
                 kanal_index += 1
+
+        if os.path.exists("yeni.m3u"):
+            print("✅ yeni.m3u dosyası başarıyla oluşturuldu.")
+        else:
+            print("❌ yeni.m3u dosyası oluşturulamadı.")
 
         print(f"📺 M3U dosyası oluşturuldu: yeni.m3u ({kanal_sayisi} kanal)")
         return True
