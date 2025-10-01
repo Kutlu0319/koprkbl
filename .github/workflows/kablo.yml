@@ -31,8 +31,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -U setuptools wheel Kekik httpx parsel requests
 
-      - name: M3U Listesini Güncelle
+      - name: API'den M3U Listesini Al
         run: python kablo.py
+
+      - name: M3U Güncellemelerini Yap
+        run: |
+          # Eğer varsa kerim.py dosyan yoksa burayı silebilirsin
+          if test -f kerim.py; then python kerim.py; fi
 
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
@@ -44,6 +49,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add yeni.m3u
           git commit -m "📡 Kablo ve M3U güncellemesi yapıldı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
           git push
