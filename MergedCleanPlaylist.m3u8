@@ -771,6 +771,12 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://95.85.109.219:7000/play/a067
 #EXTINF:-1,showtv
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
+#EXTINF:-1, SIRTV 🇶🇦
+https://d28soor02c80fr.cloudfront.net/kooora/d4f9ab7dsd5abein111en?ts=1759344918&nonce=1iZBynq&token=1153317999
+#EXTINF:-1, SIRTV 🇶🇦
+https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111?ts=1759344894&nonce=tzlZyn2&token=698951669
+#EXTINF:-1, SIRTV 🇶🇦
+https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111_sd?ts=1759344894&nonce=BuGujwGf&token=110003313
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1, SKY SPORT 🇲🇽
@@ -789,6 +795,10 @@ https://three.04bf112a615942b3.sbs/yayinsmarts.m3u8
 https://three.04bf112a615942b3.sbs/yayinsms2.m3u8
 #EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
+#EXTINF:-1, Sony Ten 5 🇮🇳
+http://103.175.242.10:8080/sonyten5/index.m3u8
+#EXTINF:-1, Sony Ten 5 🇮🇳
+http://stvlive.net:8080/sonyten5/index.m3u8
 #EXTINF:-1, SPORT 1 HD 🇨🇿
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1, SPORT 2 HD 🇨🇿
