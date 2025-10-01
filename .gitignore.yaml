@@ -1,0 +1,7 @@
+# Diğer ignore satırların burada olabilir
+
+# Ancak .m3u dosyalarını genel olarak ignore etme:
+# *.m3u
+
+# Sadece yeni.m3u dosyasını izlemeye al (ignore dışı bırak)
+!yeni.m3u
