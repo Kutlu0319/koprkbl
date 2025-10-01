@@ -74,11 +74,11 @@ def get_canli_tv_m3u():
                 kanal_index += 1
 
         if os.path.exists("yeni.m3u"):
-            print("✅ yeni.m3u dosyası başarıyla oluşturuldu.")
+            print("✅ srbyknl.m3u dosyası başarıyla oluşturuldu.")
         else:
-            print("❌ yeni.m3u dosyası oluşturulamadı.")
+            print("❌ srbyknl.m3u dosyası oluşturulamadı.")
 
-        print(f"📺 M3U dosyası oluşturuldu: yeni.m3u ({kanal_sayisi} kanal)")
+        print(f"📺 M3U dosyası oluşturuldu: srbyknl.m3u ({kanal_sayisi} kanal)")
         return True
 
     except Exception as e:
