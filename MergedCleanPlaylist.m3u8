@@ -558,7 +558,7 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
 #EXTINF:-1, Digi Sport 4 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 #EXTINF:-1,dmax
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=U3hQTWdiSzFFcGF1M21tYml3dFoyZjVTbFpUK0dDd0M0NlFNNVo2ZEhPYz0=
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=UnpjTXgvbDFaZmtSUkVXdjAzZ2ZzMmNuc2poU0psMXY4N3YxUWVUOUh5Yz0=
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 #EXTINF:-1, DSPORTS 1 🇦🇷
@@ -706,7 +706,7 @@ http://185.236.230.212:9982/play/a09w
 #EXTINF:-1, Nova Sport 🇧🇬
 http://213.169.39.30:5102
 #EXTINF:-1,nowtv
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=Xl7Bug7aWeu57kVhkEtyJA&e=1759674834
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=hxIEINiga9W75JJQaA5vrg&e=1759676948
 #EXTINF:-1,ntv
 https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
 #EXTINF:-1, o2 Cпорт 🇷🇺
@@ -1073,9 +1073,6 @@ https://df16ea90s1u1080.05949e7ffb6b0bf5.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-id="smart2" tvg-name="Smart Spor 2" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Smart Spor 2
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://df16ea90s1u1080.05949e7ffb6b0bf5.live/live/selcuksmartspor2/playlist.m3u8
-#EXTINF:-1 tvg-id="tivibu1" tvg-name="Tivibu Spor 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://df16ea90s1u1080.05949e7ffb6b0bf5.live/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-id="tivibu2" tvg-name="Tivibu Spor 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://df16ea90s1u1080.05949e7ffb6b0bf5.live/live/selcuktivibuspor2/playlist.m3u8
