@@ -558,7 +558,7 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
 #EXTINF:-1, Digi Sport 4 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 #EXTINF:-1,dmax
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=TEw4bkxxbVNBazViMnJiMkpic09SQVE3YmpXMUhITktKS254TU9BcExoWT0=
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dWx0TXJZWlVaVGNiR1VmZWF4b05veDR1S25IeXlmWE1RY1dTVnhIejhzYz0=
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 #EXTINF:-1, DSPORTS 1 🇦🇷
@@ -706,7 +706,7 @@ http://185.236.230.212:9982/play/a09w
 #EXTINF:-1, Nova Sport 🇧🇬
 http://213.169.39.30:5102
 #EXTINF:-1,nowtv
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=yUGQ5zn_-7MN5dLcIzYtcw&e=1759635078
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=24hYZHT09we-G7XIG7pqYA&e=1759641576
 #EXTINF:-1,ntv
 https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
 #EXTINF:-1, o2 Cпорт 🇷🇺
@@ -976,6 +976,9 @@ https://betnbetiptv30.site/730/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-box-office-1-hd.png" group-title="SİNEMA KANALLARI", BEIN BOX OFFICE 1 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6745/index.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-box-office-3-hd.png" group-title="SİNEMA KANALLARI", BEIN BOX OFFICE 3 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6743/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/mmaxfamily150.jpg" group-title="SİNEMA KANALLARI", BEIN MOVIES FAMILY (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6878/index.m3u8
@@ -1166,6 +1169,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_fb_ala_1h_17eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493379" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493379.jpg" group-title="Süper Lig 2025/2026",Fenerbahçe 3-1 Kocaelispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_3_fb_koc_3h_23agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493430" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493430.jpg" group-title="Süper Lig 2025/2026",Galatasaray 1-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_gs_bjk_8h_4ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493369" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493369.jpg" group-title="Süper Lig 2025/2026",Galatasaray 3-0 Mısırlı.com.tr Fatih Karagümrük
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_gs_kara_2h_15agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493410" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493410.jpg" group-title="Süper Lig 2025/2026",Galatasaray 3-1 Tümosan Konyaspor
@@ -1186,6 +1191,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_genc_eyup_6h_20eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493389" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493389.jpg" group-title="Süper Lig 2025/2026",Gençlerbirliği 1-3 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_genc_fb_4h_31agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493431" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493431.jpg" group-title="Süper Lig 2025/2026",Gençlerbirliği 2-2 Corendon Alanyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_genc_ala_8h_4ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493371" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493371.jpg" group-title="Süper Lig 2025/2026",Göztepe 0-0 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_goz_fb_2h_16agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493390" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493390.jpg" group-title="Süper Lig 2025/2026",Göztepe 1-1 Tümosan Konyaspor
@@ -1216,6 +1223,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_kas_gazi_4h_30agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493374" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493374.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 0-1 Samsunspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_koca_samsun_2h_16agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493434" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493434.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 1-0 ikas Eyüpspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_v2_koc_eyup_8h_4ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493394" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493394.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 1-1 Zecorner Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_koca_kay_4h_30agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493415" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493415.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 1-1 Çaykur Rizespor
