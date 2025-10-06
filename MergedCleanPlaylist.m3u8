@@ -944,10 +944,6 @@ https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 http://185.57.68.33:80/110/index.m3u8
 
 #EXTGRP:S SPORTS KANALLARI
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/705/mono.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv58.live/
@@ -1085,10 +1081,6 @@ https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR KANALLARI", A SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR KANALLARI", A SPOR (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/709/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://demoyayiyin.sunxtvcloud.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
@@ -1354,10 +1346,6 @@ https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv58.live/
 https://audi.zirvedesin19.sbs/yayint3.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/712/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (3)
 https://goldvod.org/tv/vavoo?id=37949240505288959ad99c
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 4 (1)
@@ -1702,9 +1690,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 #EXTINF:-1 tvg-logo="https://www.tv41.com.tr/wp-content/uploads/2024/01/footer_logo.png" group-title="YEREL KANALLAR", TV 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tv48.com.tr/images/genel/logo_1.png" group-title="YEREL KANALLAR", TV 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv52.com.tr/data/genel/logo.png" group-title="YEREL KANALLAR", TV 52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
