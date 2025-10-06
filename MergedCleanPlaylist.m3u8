@@ -118,6 +118,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/VEXVELA6Z7PXH6/19066/index.m3u8
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6854/index.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-gurme-hd.png" group-title="BELGESEL KANALLARI", BEIN GURME
 https://goldvod.org/tv/vavoo?id=361703541447c2d8cea904
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-iz-hd.png" group-title="BELGESEL KANALLARI", BEIN IZ (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19078/index.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-iz-hd.png" group-title="BELGESEL KANALLARI", BEIN IZ (2)
 https://goldvod.org/tv/vavoo?id=16912230784a73b11d66ed
 #EXTINF:-1 tvg-logo="https://tr.wikipedia.org/wiki/Dosya:CGTN_Documentary_logo.png" group-title="BELGESEL KANALLARI", CGTN
@@ -550,7 +553,7 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
 #EXTINF:-1, Digi Sport 4 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 #EXTINF:-1,dmax
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=NGhDNUVDRGd2ZFFpVTVtWWdIVDJ0bHdHL1RkcmhROTBjeFdlQUJFeTR3RT0=
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=SFpCbzI3RUVJV1NwRXdKN1FTTjM1VU5tYnJMaDhyWlQ1SlN0b1JPZmw0az0=
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 #EXTINF:-1, DSPORTS 1 🇦🇷
@@ -698,7 +701,7 @@ http://185.236.230.212:9982/play/a09w
 #EXTINF:-1, Nova Sport 🇧🇬
 http://213.169.39.30:5102
 #EXTINF:-1,nowtv
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=EAl6zIwOn3rqURxHYXTS_A&e=1759721560
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=3NkU2Wnoa34o5ybr750g5Q&e=1759727620
 #EXTINF:-1,ntv
 https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
 #EXTINF:-1, o2 Cпорт 🇷🇺
@@ -1187,6 +1190,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_genc_ala_8h_4ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493371" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493371.jpg" group-title="Süper Lig 2025/2026",Göztepe 0-0 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_goz_fb_2h_16agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493432" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493432.jpg" group-title="Süper Lig 2025/2026",Göztepe 1-0 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_gtepe_basak_8h_5ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493390" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493390.jpg" group-title="Süper Lig 2025/2026",Göztepe 1-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_goz_kon_4h_29agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493412" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493412.jpg" group-title="Süper Lig 2025/2026",Göztepe 3-0 Beşiktaş
@@ -1211,6 +1216,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_kas_ts_2h_18agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493414" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Kasımpaşa 1-1 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_kas_fb_6h_21eylul_ip&secure=1
+#EXTINF:-1 tvg-id="1493433" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493433.jpg" group-title="Süper Lig 2025/2026",Kasımpaşa 1-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_kpasa_konya_8h_5ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493393" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493393.jpg" group-title="Süper Lig 2025/2026",Kasımpaşa 2-3 Gaziantep FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_4_kas_gazi_4h_30agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493374" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493374.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 0-1 Samsunspor
@@ -1223,6 +1230,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_koc_rize_6h_20eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493400" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493400.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-1 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_5_kara_kas_5h_13eylul_ip&secure=1
+#EXTINF:-1 tvg-id="1493429" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493429.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-2 Gaziantep FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_kgum_gazi_8h_5ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493378" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493378.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-2 Göztepe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_3_kara_goz_3h_22agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493359" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493359.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-2 Rams Başakşehir
@@ -1235,6 +1244,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_bas_ala_6h_21eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493372" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493372.jpg" group-title="Süper Lig 2025/2026",Rams Başakşehir 1-1 Zecorner Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_bas_kay_2h_17agu_ip&secure=1
+#EXTINF:-1 tvg-id="1493435" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493435.jpg" group-title="Süper Lig 2025/2026",Samsunspor 0-0 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_8_sams_fb_8h_5ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493383" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493383.jpeg" group-title="Süper Lig 2025/2026",Samsunspor 0-0 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_3_sam_kas_3h_17eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493408" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493408.jpg" group-title="Süper Lig 2025/2026",Samsunspor 1-2 Hesap.com Antalyaspor
@@ -1646,9 +1657,6 @@ https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/650389554529046528/PY0e8b1Y_400x400.png" group-title="YEREL KANALLAR", KARDELEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="YEREL KANALLAR", KASTAMONU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
 #EXTINF:-1 tvg-logo="https://kaytv.com.tr/resimler/logo.png" group-title="YEREL KANALLAR", KAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
