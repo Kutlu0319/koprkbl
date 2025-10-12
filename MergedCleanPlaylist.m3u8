@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 
 #EXTGRP:BEIN SPORTS KANALLARI
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinzirve.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
@@ -10,31 +14,55 @@ https://betnbetiptv30.site/701/mono.m3u8
 https://cdn-235689.betconnectcdnlive1.online/601/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (5)
 https://wandering-pond-ff44.androsd2390asd.workers.dev/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-2.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 2 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinb2.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-2.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/702/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-2.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 2 (3)
 https://goldvod.org/tv/vavoo?id=1447241506bdccfad8b85c
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-3-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 3 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinb3.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-3-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 3 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/703/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-3-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 3 (3)
 https://goldvod.org/tv/vavoo?id=17005958018c5d23b49ef0
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-4-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 4 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinb4.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-4-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 4 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/704/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-4-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 4 (3)
 https://goldvod.org/tv/vavoo?id=1872232768c7c65ceb9862
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-5-hd.webp" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 5 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinb5.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-5-hd.webp" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 5 (3)
 https://goldvod.org/tv/vavoo?id=2737963486b4d9c437a945
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-haber-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-1-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 1 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinbm1.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-1-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 1 (3)
 https://goldvod.org/tv/vavoo?id=4071474743dbe8a60b9395
+#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-2-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 2 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinbm2.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-max-2-hd.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS MAX 2 (3)
 https://goldvod.org/tv/vavoo?id=25896823596a84e43dd09
 
@@ -628,6 +656,12 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="Diğerleri", TV 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 
+#EXTGRP:EXXEN SPOR KANALLARI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuBUwmDEIxAFg9_iEHtMvtbTTc9a6bD1t5dQxmBTZ_0U6towl04Kw3H8&s=10" group-title="EXXEN SPOR KANALLARI", EXXEN (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinex1.m3u8
+
 #EXTGRP:ExxenSpor
 #EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -1219,6 +1253,14 @@ http://185.57.68.33:80/110/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/705/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinex2.m3u8
+#EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinex3.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (4)
 https://goldvod.org/tv/vavoo?id=3269372326de5ff1a4d9d7
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (5)
@@ -1368,6 +1410,10 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/nbatv.png" group-title="SPOR KANALLARI", NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://grtv54.live/img/skysportsf1.png" group-title="SPOR KANALLARI", SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayinf1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/sportstv.png" group-title="SPOR KANALLARI", SPORTS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -1403,27 +1449,27 @@ https://audi.zirvedesin19.sbs/yayinss.m3u8
 https://audi.zirvedesin19.sbs/yayinss2.m3u8
 
 #EXTGRP:StreamedSU - American Football
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona vs BYU" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwIgIIAiOmt4enqWy12YMKR1ugA.webp" group-title="StreamedSU - American Football",Arizona vs BYU
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona vs BYU" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQU+uZmHXcQAExAQQOnSAMgU5kHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="StreamedSU - American Football",Arizona vs BYU
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ESPN2/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Atlanta Falcons vs Buffalo Bills" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2bEQBEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - American Football",Atlanta Falcons vs Buffalo Bills
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Auburn vs Georgia" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphYgBTeJBDcQAExARtRkCBJGY2ghSZ8UXMGU315ouxuBgHY0RCA.webp" group-title="StreamedSU - American Football",Auburn vs Georgia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baltimore Ravens vs Los Angeles Rams" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxMgUI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",Baltimore Ravens vs Los Angeles Rams
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baltimore Ravens vs Los Angeles Rams" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhSqsABMQ9FCG4gSIPXr4htEc-p0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Baltimore Ravens vs Los Angeles Rams
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/baltimoreravens/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buffalo Bills vs. Atlanta Falcons" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBwgzhcyxDMb5CAwsgOF4fRAATF88aIYUmZm2B7YAYzeqgQBeHp0YCwKjpJCtLHkYAnAjkIQQA.webp" group-title="StreamedSU - American Football",Buffalo Bills vs. Atlanta Falcons
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/atlantafalcons/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers vs Dallas Cowboys" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxMhcI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",Carolina Panthers vs Dallas Cowboys
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers vs Dallas Cowboys" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7Vw8ciRDcQEEFpghDOkLiMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp" group-title="StreamedSU - American Football",Carolina Panthers vs Dallas Cowboys
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1433,42 +1479,47 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/washingtoncommanders/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Colorado vs Iowa State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0k7MCGBgeIbiBIgAJqpCJEJmAZAoCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - American Football",Colorado vs Iowa State
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Detroit Lions vs. Kansas City Chiefs" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAsQEYABMGl+2Yg5n1kIldPXIYYjPlyFhaMfm52MGQghPzheHp0YCwKVpJCtLHkYAnAVkIQQA.webp" group-title="StreamedSU - American Football",Detroit Lions vs. Kansas City Chiefs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/kansascitychiefs/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Florida Gators vs. Texas A&M Aggies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png" group-title="StreamedSU - American Football",Florida Gators vs. Texas A&M Aggies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Georgia Tech vs Virginia Tech" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3BLyMEHxDcQJEABMQEEIkRaNKEDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Georgia Tech vs Virginia Tech
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Florida Gators vs. Texas A&M Aggies" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIppDx65BgGNmCnvBlVuwhqzBhc+e0A.webp" group-title="StreamedSU - American Football",Florida Gators vs. Texas A&M Aggies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ACCN/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers vs Cincinnati Bengals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwLGQKnNNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - American Football",Green Bay Packers vs Cincinnati Bengals
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Georgia Bulldogs vs. Auburn Tigers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiBggU9cgwDGzBT3gyq3YQ1ZgwufA6A.webp" group-title="StreamedSU - American Football",Georgia Bulldogs vs. Auburn Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers vs Cincinnati Bengals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hVUPmE0ATENxARcIGCBQG9IXX2MEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Green Bay Packers vs Cincinnati Bengals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/greenbaypackers/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts vs Arizona Cardinals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2YEQBEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - American Football",Indianapolis Colts vs Arizona Cardinals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts vs Arizona Cardinals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATMGT7Q+IbiAi4QMEKv0mQFxCAIUmfFFw3l680Q6a0wGsaIhA.webp" group-title="StreamedSU - American Football",Indianapolis Colts vs Arizona Cardinals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/indianapoliscolts/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jacksonville Jaguars vs Seattle Seahawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxMgVOaa3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",Jacksonville Jaguars vs Seattle Seahawks
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jacksonville Jaguars vs Seattle Seahawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5hVZbmBTYQ3EBFy79IRAZBG+BCk0tcwZeEXmiUwJrTD2xoiEA.webp" group-title="StreamedSU - American Football",Jacksonville Jaguars vs Seattle Seahawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Las Vegas Raiders vs Tennessee Titans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2YEWI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",Las Vegas Raiders vs Tennessee Titans
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs vs Detroit Lions" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxMMR01vD09S2WuzBhSO50A.webp" group-title="StreamedSU - American Football",Kansas City Chiefs vs Detroit Lions
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/kansascitychiefs/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas Jayhawks vs. Texas Tech Red Raiders" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiBib65BgGNmCnvBlVuwhqzBhc+e0A.webp" group-title="StreamedSU - American Football",Kansas Jayhawks vs. Texas Tech Red Raiders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Las Vegas Raiders vs Tennessee Titans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAQQ4FOJDcQJbbvWqQfEIhMATAhSZ9NbMGXhF5ozU1pgHY0RCA.webp" group-title="StreamedSU - American Football",Las Vegas Raiders vs Tennessee Titans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1478,71 +1529,66 @@ https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/SECN/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins vs Los Angeles Chargers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2YEGI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",Miami Dolphins vs Los Angeles Chargers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins vs Los Angeles Chargers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm1Xr0IwQ3ECpAG+II4gggUOkDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Miami Dolphins vs Los Angeles Chargers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/miamidolphins/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints vs New England Patriots" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwLGWI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",New Orleans Saints vs New England Patriots
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Michigan Wolverines vs. USC Trojans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIppDZ65BgGNmCnvBlVuwhqzBhc+e0A.webp" group-title="StreamedSU - American Football",Michigan Wolverines vs. USC Trojans
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/NBC/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints vs New England Patriots" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBQ+YcCkghuICLh16QiXSBAATEDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",New Orleans Saints vs New England Patriots
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/neworleanssaints/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets vs Denver Broncos" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2bFjI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",New York Jets vs Denver Broncos
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets vs Denver Broncos" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJx45OCBDcQEXNpAATEIhJHdIPgQpMrXMGXX15olMCa0wDsaIhA.webp" group-title="StreamedSU - American Football",New York Jets vs Denver Broncos
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newyorkjets/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Notre Dame vs NC State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgyA7iF5otIACYgIuzSEMgY+kPAIUmfFFzXl680Q6a0wasaIhA.webp" group-title="StreamedSU - American Football",Notre Dame vs NC State
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/Peacock/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Oregon vs Indiana" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjgD4CSvxDcQJEABMQEEIkSGYuECAIUmfFFzBl19eaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Oregon vs Indiana
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/CBS/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers vs Cleveland Browns" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxMgYI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - American Football",Pittsburgh Steelers vs Cleveland Browns
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers vs Cleveland Browns" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhhuYMgBMw4FCG4gIuEDBB6jORCDMEKTPii4by9eaMdNaYDWNEQgA.webp" group-title="StreamedSU - American Football",Pittsburgh Steelers vs Cleveland Browns
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers vs San Francisco 49ers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2YEQMEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - American Football",Tampa Bay Buccaneers vs San Francisco 49ers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tennessee vs Arkansas" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzB0QAEzCacMENxAkNICCESJDh3XwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="StreamedSU - American Football",Tennessee vs Arkansas
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="South Carolina Gamecocks vs. LSU Tigers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiG0h65BgGNmCnvBlVuwhqzBhc+e0A.webp" group-title="StreamedSU - American Football",South Carolina Gamecocks vs. LSU Tigers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/SECN/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers vs San Francisco 49ers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxheq+nxAATENxAkQiFAaMgtiHCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Tampa Bay Buccaneers vs San Francisco 49ers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Texas Tech vs Kansas" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphK4wqviBTAADCG4hVAExCacJzSC36CFJn21t15evNHamtMOrGiIQA.webp" group-title="StreamedSU - American Football",Texas Tech vs Kansas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Texas vs Oklahoma" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAAJmxADgYbiD0kQakBBCJExwzgmFVTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Texas vs Oklahoma
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="USC vs Michigan" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQAqEhBw+qkABMDRxDG1GUBghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - American Football",USC vs Michigan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/NBC/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Utah vs Arizona State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMCD4JgTCCG4gSIFSD2JERvSGMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Utah vs Arizona State
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ESPN/index.m3u8
 
 #EXTGRP:StreamedSU - Baseball
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Chicago Cubs" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEARAQQXUyOmt4enqWy12YMKR1ugA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Chicago Cubs
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Chicago Cubs" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Chicago Cubs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/brewers/index.m3u8
 
 #EXTGRP:StreamedSU - Basketball
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Charlotte Hornets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELgbHjI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Basketball",Dallas Mavericks vs Charlotte Hornets
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Charlotte Hornets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="StreamedSU - Basketball",Dallas Mavericks vs Charlotte Hornets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1552,18 +1598,18 @@ https://gg.poocloud.in/mavericks/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/pacers/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Memphis Grizzlies vs Atlanta Hawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELgYgYIAiOmt4enqWy12YMKR1ugA.webp" group-title="StreamedSU - Basketball",Memphis Grizzlies vs Atlanta Hawks
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Memphis Grizzlies vs Atlanta Hawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="StreamedSU - Basketball",Memphis Grizzlies vs Atlanta Hawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/grizzlies/index.m3u8
-
-#EXTGRP:StreamedSU - Darts
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Grand Prix Darts (Day 6)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg.webp" group-title="StreamedSU - Darts",World Grand Prix Darts (Day 6)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Thunder at Pacers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp" group-title="StreamedSU - Basketball",Thunder at Pacers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/index.m3u8
+https://gg.poocloud.in/pacers/index.m3u8
+
+#EXTGRP:StreamedSU - Darts
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Grand Prix Darts (Day 7)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg.webp" group-title="StreamedSU - Darts",World Grand Prix Darts (Day 7)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -1576,16 +1622,6 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Dave Allen vs. Arslanbek Makhmudov" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",Dave Allen vs. Arslanbek Makhmudov
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/boxing/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="GLORY 104: Khbabez vs. Rajabzadeh" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",GLORY 104: Khbabez vs. Rajabzadeh
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/glory/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 261 Oliveira vs Gamrot" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",UFC Fight Night 261 Oliveira vs Gamrot
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -1598,107 +1634,82 @@ https://gg.poocloud.in/ufc/index.m3u8
 https://gg.poocloud.in/ufc/index.m3u8
 
 #EXTGRP:StreamedSU - Football
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bulgaria vs. Türki̇ye" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Bulgaria vs. Türki̇ye
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_bulgaria/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Croatia vs Gibraltar" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBcQBcyxHTW8PT1LZa7MGFI73QA.webp" group-title="StreamedSU - Football",Croatia vs Gibraltar
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Croatia vs Gibraltar" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="StreamedSU - Football",Croatia vs Gibraltar
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_croatia/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Denmark vs Greece" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBgMTI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Football",Denmark vs Greece
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Denmark vs Greece" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRVNENxAQQJXdpAATfcZiaCFJnxRcwZeEXmibTWmDtjREIA.webp" group-title="StreamedSU - Football",Denmark vs Greece
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_denmark/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Estonia vs Italy" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYEJyTNYIbiD64QK3Uf0gYIRMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Estonia vs Italy
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_estonia/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Faroe Islands vs. Czechia" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Faroe Islands vs. Czechia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_faroe-islands/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Iceland vs. France" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Iceland vs. France
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Iceland vs France" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBghmuEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",Iceland vs France
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_iceland/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lithuania vs Poland" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBgMQIEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",Lithuania vs Poland
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lithuania vs Poland" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOgATauBQhuICCBL7dIVcZAwQfYwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Lithuania vs Poland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_lithuania/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Finland" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBggILEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",Netherlands vs Finland
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Finland" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgF8wAE2CaIuENxB8QiGEZAnEISyBQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Netherlands vs Finland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_netherlands/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="North Macedonia vs. Kazakhstan" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",North Macedonia vs. Kazakhstan
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="North Macedonia vs Kazakhstan" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBjHGI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Football",North Macedonia vs Kazakhstan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_north-macedonia/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Northern Ireland vs. Germany" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Northern Ireland vs. Germany
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Northern Ireland vs Germany" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFwYgCxkdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",Northern Ireland vs Germany
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_northern-ireland/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portugal vs Ireland" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwAEzDdczYGBDb1IPiBQgYx1QfMhlhGMCZ8UXMGTX15ol01pg3YqIQQA.webp" group-title="StreamedSU - Football",Portugal vs Ireland
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_portugal/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Romania vs Austria" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBjGUI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Football",Romania vs Austria
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Romania vs Austria" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Romania vs Austria
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_romania/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="San Marino vs Cyprus" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBghmxEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",San Marino vs Cyprus
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="San Marino vs Cyprus" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h4CYGDAgQAExDcQJHSBQhVZnaphGCFJnxRcwZdfXminTWltFS6QA.webp" group-title="StreamedSU - Football",San Marino vs Cyprus
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_san-marino/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Scotland vs Belarus" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBjH4I6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Football",Scotland vs Belarus
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Scotland vs Belarus" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgkIemlxsQ3ECX24Qxg3xAwQZvgQpNrXMGXhF5olMCa0wjsaIhA.webp" group-title="StreamedSU - Football",Scotland vs Belarus
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_scotland/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Serbia vs Albania" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmlYE160+IbiB16diFSBIgTZiAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Serbia vs Albania
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_serbia/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Slovakia vs. Luxembourg" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Slovakia vs. Luxembourg
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Slovakia vs Luxembourg" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBgMGI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Football",Slovakia vs Luxembourg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_slovakia/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Slovenia vs. Switzerland" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Slovenia vs. Switzerland
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Slovenia vs Switzerland" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBgMQKnNNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",Slovenia vs Switzerland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_slovenia/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Spain vs Georgia" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ngBVekhDcQAExAkQEXCBgHTekHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="StreamedSU - Football",Spain vs Georgia
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_spain/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sweden vs. Kosovo" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Sweden vs. Kosovo
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sweden vs Kosovo" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAoQEY+ZHTW8PT1LZa7MGFI73QA.webp" group-title="StreamedSU - Football",Sweden vs Kosovo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_sweden/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ukraine vs. Azerbaijan" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Ukraine vs. Azerbaijan
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ukraine vs Azerbaijan" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiBggIIFTmmt4enqWy12YMKR1ugA.webp" group-title="StreamedSU - Football",Ukraine vs Azerbaijan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_ukraine/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wales vs. Belgium" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Wales vs. Belgium
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wales vs Belgium" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFwYgCDEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Football",Wales vs Belgium
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1710,11 +1721,11 @@ https://gg.poocloud.in/wc_wales/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bostonbruins/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames vs St. Louis Blues" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title="StreamedSU - Hockey",Calgary Flames vs St. Louis Blues
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres vs. Boston Bruins" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJiCuMIwCCCGT6vVpxCIYHqV-IvC1q5OZiABHCDhZrRWqgQwwHh6dGAsCnaSQrSJ5GAp9m4QQA.webp" group-title="StreamedSU - Hockey",Buffalo Sabres vs. Boston Bruins
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/calgaryflames/index.m3u8
+https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes vs Philadelphia Flyers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Hockey",Carolina Hurricanes vs Philadelphia Flyers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -1725,41 +1736,96 @@ https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/chicagoblackhawks/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche vs Dallas Stars" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UAJmBRg+YbiD0RcRmCEM49OZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Hockey",Colorado Avalanche vs Dallas Stars
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/coloradoavalanche/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings vs Toronto Maple Leafs" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAhOfEFBghuIEiA3bdOFCETa+BCk0tcwZeEXmiUwJrTD2xoiEA.webp" group-title="StreamedSU - Hockey",Detroit Red Wings vs Toronto Maple Leafs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Edmonton Oilers vs Vancouver Canucks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title="StreamedSU - Hockey",Edmonton Oilers vs Vancouver Canucks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Florida Panthers vs Ottawa Senators" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Hockey",Florida Panthers vs Ottawa Senators
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Minnesota Wild vs Columbus Blue Jackets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwgguIAiOmt4enqWy12YMKR1ugA.webp" group-title="StreamedSU - Hockey",Minnesota Wild vs Columbus Blue Jackets
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Minnesota Wild vs Columbus Blue Jackets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA.webp" group-title="StreamedSU - Hockey",Minnesota Wild vs Columbus Blue Jackets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators vs Utah Mammoth" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwgguDEdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Hockey",Nashville Predators vs Utah Mammoth
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Montreal Canadiens vs. Chicago Blackhawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIJSHrkGAY2bAwPeJKpTCDVmB1tcEIA.webp" group-title="StreamedSU - Hockey",Montreal Canadiens vs. Chicago Blackhawks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators vs Utah Mammoth" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Hockey",Nashville Predators vs Utah Mammoth
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils vs. Tampa Bay Lightning" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEkATHCEIgIIIRxC07k+vZCI3klx972GtiDmnFKWLEHAEJEREPwwwHh6dGAsClGSQrSJ5GApkayRQA.webp" group-title="StreamedSU - Hockey",New Jersey Devils vs. Tampa Bay Lightning
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders vs Washington Capitals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Hockey",New York Islanders vs Washington Capitals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newyorkislanders/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers vs. Pittsburgh Penguins" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgOIREIi8cnKQBMQt29kJmHl240v0XdubmiIgwwM5+wBD8YXh6dGAsChAOQrRx5GCJUaxRQA.webp" group-title="StreamedSU - Hockey",New York Rangers vs. Pittsburgh Penguins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/pittsburghpenguins/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators vs. Florida Panthers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQHEBBwhm5S+eyXEp4Neb0rNwiHPWYvpxuICGeEMEB2AEQ-DDAeHp0YCwK4ZJCtAnkYMlurG5AA.webp" group-title="StreamedSU - Hockey",Ottawa Senators vs. Florida Panthers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs. Carolina Hurricanes" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEkcQAExCEzICK2H0QLOyHc4rIWg8M5H1pIQ9pyc9jYgiM5sBDDAeHp0YCwKDpJCtAnkYMnAvnlAA.webp" group-title="StreamedSU - Hockey",Philadelphia Flyers vs. Carolina Hurricanes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins vs New York Rangers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lkkICLhAkQ3bRpAATXSBRbjZ+AQpM+KLmDLwiqzk1phHY0RCA.webp" group-title="StreamedSU - Hockey",Pittsburgh Penguins vs New York Rangers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/pittsburghpenguins/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks vs Anaheim Ducks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Hockey",San Jose Sharks vs Anaheim Ducks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Seattle Kraken vs Vegas Golden Knights" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Hockey",Seattle Kraken vs Vegas Golden Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Tampa Bay Lightning vs New Jersey Devils" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Hockey",Tampa Bay Lightning vs New Jersey Devils
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs vs. Detroit Red Wings" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNeOTpxCGQdoRzvDzEBjaung5u-RCfGji5iQua+ECCqBDDAeHp0YCwKrpJCtLHkYAnArkIQQA.webp" group-title="StreamedSU - Hockey",Toronto Maple Leafs vs. Detroit Red Wings
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals vs. New York Islanders" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShGAATXiAi9WwM5aHlJ9EISvZXNltZA+QnJw4bmLkiLQcVnwEMMB4enRgLApmkkK08eRgSfZ2EEA.webp" group-title="StreamedSU - Hockey",Washington Capitals vs. New York Islanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/newyorkislanders/index.m3u8
 
 #EXTGRP:Süper Lig 2025/2026
 #EXTINF:-1 tvg-id="1493368" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493368.jpg" group-title="Süper Lig 2025/2026",Beşiktaş 2-1 ikas Eyüpspor
@@ -1948,24 +2014,40 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
 
 #EXTGRP:TIVIBU SPOR KANALLARI
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayint1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/706/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (3)
 https://goldvod.org/tv/vavoo?id=1528949791210996169a6f
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayint2.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/711/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (3)
 https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayint3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yakatv19.live/
 https://betnbetiptv30.site/712/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (3)
 https://goldvod.org/tv/vavoo?id=37949240505288959ad99c
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 4 (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://grtv58.live/
+https://audi.zirvedesin19.sbs/yayint4.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 4 (3)
 https://goldvod.org/tv/vavoo?id=3307062704472686916fe7
 
@@ -2734,154 +2816,6 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
-
-#EXTGRP:TVPass - MLB
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Milwaukee Brewers (10/11 8:08 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Chicago Cubs @ Milwaukee Brewers (10/11 8:08 Pm Et)
-https://tvpass.org/live/TBSEast/sd
-
-#EXTGRP:TVPass - NBA
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Atlanta Hawks @ Memphis Grizzlies (10/11 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Atlanta Hawks @ Memphis Grizzlies (10/11 8:00 Pm Et)
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Dallas Mavericks (10/11 8:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Charlotte Hornets @ Dallas Mavericks (10/11 8:30 Pm Et)
-https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Indiana Pacers (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Oklahoma City Thunder @ Indiana Pacers (10/11 7:00 Pm Et)
-https://tvpass.org/live/NBATV/sd
-
-#EXTGRP:TVPass - NCAAF
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Air Force Falcons @ Unlv Rebels (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Air Force Falcons @ Unlv Rebels (10/11 3:30 Pm Et)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Alabama Crimson Tide @ Missouri Tigers (10/11 11:59 Am Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Alabama Crimson Tide @ Missouri Tigers (10/11 11:59 Am Et)
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Appalachian State Mountaineers @ Georgia State Panthers (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Appalachian State Mountaineers @ Georgia State Panthers (10/11 3:30 Pm Et)
-https://tvpass.org/live/NCAAF04/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Utah Utes (10/11 10:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arizona State Sun Devils @ Utah Utes (10/11 10:15 Pm Et)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas Razorbacks @ Tennessee Volunteers (10/11 4:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arkansas Razorbacks @ Tennessee Volunteers (10/11 4:15 Pm Et)
-https://tvpass.org/live/SECN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ball State Cardinals @ Western Michigan Broncos (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Ball State Cardinals @ Western Michigan Broncos (10/11 3:30 Pm Et)
-https://tvpass.org/live/NCAAF05/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Byu Cougars @ Arizona Wildcats (10/11 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Byu Cougars @ Arizona Wildcats (10/11 8:00 Pm Et)
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Charlotte 49Ers @ Army Black Knights (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Charlotte 49Ers @ Army Black Knights (10/11 12:00 Pm Et)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Clemson Tigers @ Boston College Eagles (10/11 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Clemson Tigers @ Boston College Eagles (10/11 7:30 Pm Et)
-https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Florida Gators @ Texas A&M Aggies (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Florida Gators @ Texas A&M Aggies (10/11 7:00 Pm Et)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Georgia Bulldogs @ Auburn Tigers (10/11 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Georgia Bulldogs @ Auburn Tigers (10/11 7:30 Pm Et)
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Houston Cougars @ Oklahoma State Cowboys (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Houston Cougars @ Oklahoma State Cowboys (10/11 12:00 Pm Et)
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Indiana Hoosiers @ Oregon Ducks (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Indiana Hoosiers @ Oregon Ducks (10/11 3:30 Pm Et)
-https://tvpass.org/live/NCAAF06/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Iowa Hawkeyes @ Wisconsin Badgers (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Iowa Hawkeyes @ Wisconsin Badgers (10/11 7:00 Pm Et)
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Iowa State Cyclones @ Colorado Buffaloes (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Iowa State Cyclones @ Colorado Buffaloes (10/11 3:30 Pm Et)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Kansas Jayhawks @ Texas Tech Red Raiders (10/11 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Kansas Jayhawks @ Texas Tech Red Raiders (10/11 7:30 Pm Et)
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Louisiana Ragin Cajuns @ James Madison Dukes (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Louisiana Ragin Cajuns @ James Madison Dukes (10/11 12:00 Pm Et)
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Miami (Oh) Redhawks @ Akron Zips (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Miami (Oh) Redhawks @ Akron Zips (10/11 12:00 Pm Et)
-https://tvpass.org/live/NCAAF01/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Michigan Wolverines @ Usc Trojans (10/11 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Michigan Wolverines @ Usc Trojans (10/11 7:30 Pm Et)
-https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Navy Midshipmen @ Temple Owls (10/11 4:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Navy Midshipmen @ Temple Owls (10/11 4:00 Pm Et)
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Nc State Wolfpack @ Notre Dame Fighting Irish (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Nc State Wolfpack @ Notre Dame Fighting Irish (10/11 3:30 Pm Et)
-https://tvpass.org/live/NCAAF08/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Nebraska Cornhuskers @ Maryland Terrapins (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Nebraska Cornhuskers @ Maryland Terrapins (10/11 3:30 Pm Et)
-https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="New Mexico Lobos @ Boise State Broncos (10/11 9:45 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",New Mexico Lobos @ Boise State Broncos (10/11 9:45 Pm Et)
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Northern Illinois Huskies @ Eastern Michigan Eagles (10/11 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Northern Illinois Huskies @ Eastern Michigan Eagles (10/11 1:00 Pm Et)
-https://tvpass.org/live/NCAAF02/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Northwestern Wildcats @ Penn State Nittany Lions (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Northwestern Wildcats @ Penn State Nittany Lions (10/11 3:30 Pm Et)
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ohio State Buckeyes @ Illinois Fighting Illini (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Ohio State Buckeyes @ Illinois Fighting Illini (10/11 12:00 Pm Et)
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Oklahoma Sooners @ Texas Longhorns (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Oklahoma Sooners @ Texas Longhorns (10/11 3:30 Pm Et)
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Old Dominion Monarchs @ Marshall Thundering Herd (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Old Dominion Monarchs @ Marshall Thundering Herd (10/11 3:30 Pm Et)
-https://tvpass.org/live/NCAAF07/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Pittsburgh Panthers @ Florida State Seminoles (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Pittsburgh Panthers @ Florida State Seminoles (10/11 12:00 Pm Et)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Purdue Boilermakers @ Minnesota Golden Gophers (10/11 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Purdue Boilermakers @ Minnesota Golden Gophers (10/11 7:30 Pm Et)
-https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Rice Owls @ Utsa Roadrunners (10/11 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Rice Owls @ Utsa Roadrunners (10/11 7:30 Pm Et)
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="San Diego State Aztecs @ Nevada Wolf Pack (10/11 10:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",San Diego State Aztecs @ Nevada Wolf Pack (10/11 10:30 Pm Et)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="San Jose State Spartans @ Wyoming Cowboys (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",San Jose State Spartans @ Wyoming Cowboys (10/11 7:00 Pm Et)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="South Carolina Gamecocks @ Lsu Tigers (10/11 7:45 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",South Carolina Gamecocks @ Lsu Tigers (10/11 7:45 Pm Et)
-https://tvpass.org/live/SECN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Stanford Cardinal @ Smu Mustangs (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Stanford Cardinal @ Smu Mustangs (10/11 12:00 Pm Et)
-https://tvpass.org/live/WPIX/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Tcu Horned Frogs @ Kansas State Wildcats (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Tcu Horned Frogs @ Kansas State Wildcats (10/11 3:30 Pm Et)
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Toledo Rockets @ Bowling Green Falcons (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Toledo Rockets @ Bowling Green Falcons (10/11 12:00 Pm Et)
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Troy Trojans @ Texas State Bobcats (10/11 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Troy Trojans @ Texas State Bobcats (10/11 8:00 Pm Et)
-https://tvpass.org/live/NCAAF11/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Uab Blazers @ Florida Atlantic Owls (10/11 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Uab Blazers @ Florida Atlantic Owls (10/11 6:00 Pm Et)
-https://tvpass.org/live/NCAAF09/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ucf Knights @ Cincinnati Bearcats (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Ucf Knights @ Cincinnati Bearcats (10/11 12:00 Pm Et)
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ucla Bruins @ Michigan State Spartans (10/11 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Ucla Bruins @ Michigan State Spartans (10/11 12:00 Pm Et)
-https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ul Monroe Warhawks @ Coastal Carolina Chanticleers (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Ul Monroe Warhawks @ Coastal Carolina Chanticleers (10/11 7:00 Pm Et)
-https://tvpass.org/live/NCAAF10/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Umass Minutemen @ Kent State Golden Flashes (10/11 2:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Umass Minutemen @ Kent State Golden Flashes (10/11 2:30 Pm Et)
-https://tvpass.org/live/NCAAF03/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Utah State Aggies @ Hawaii Rainbow Warriors (10/11 11:59 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Utah State Aggies @ Hawaii Rainbow Warriors (10/11 11:59 Pm Et)
-https://tvpass.org/live/NCAAF12/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Virginia Tech Hokies @ Georgia Tech Yellow Jackets (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Virginia Tech Hokies @ Georgia Tech Yellow Jackets (10/11 3:30 Pm Et)
-https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wake Forest Demon Deacons @ Oregon State Beavers (10/11 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Wake Forest Demon Deacons @ Oregon State Beavers (10/11 3:30 Pm Et)
-https://tvpass.org/live/WPIX/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Washington State Cougars @ Ole Miss Rebels (10/11 12:45 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Washington State Cougars @ Ole Miss Rebels (10/11 12:45 Pm Et)
-https://tvpass.org/live/SECN/sd
-
-#EXTGRP:TVPass - NHL
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Anaheim Ducks @ San Jose Sharks (10/11 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Anaheim Ducks @ San Jose Sharks (10/11 10:00 Pm Et)
-https://tvpass.org/live/NHL14/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres @ Boston Bruins (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Buffalo Sabres @ Boston Bruins (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL03/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Columbus Blue Jackets @ Minnesota Wild (10/11 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Columbus Blue Jackets @ Minnesota Wild (10/11 8:00 Pm Et)
-https://tvpass.org/live/NHL11/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars @ Colorado Avalanche (10/11 9:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Dallas Stars @ Colorado Avalanche (10/11 9:00 Pm Et)
-https://tvpass.org/live/NHL13/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Los Angeles Kings @ Winnipeg Jets (10/11 1:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Los Angeles Kings @ Winnipeg Jets (10/11 1:30 Pm Et)
-https://tvpass.org/live/NHL01/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Montréal Canadiens @ Chicago Blackhawks (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Montréal Canadiens @ Chicago Blackhawks (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL05/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils @ Tampa Bay Lightning (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New Jersey Devils @ Tampa Bay Lightning (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL08/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers @ Pittsburgh Penguins (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Rangers @ Pittsburgh Penguins (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL10/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators @ Florida Panthers (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Ottawa Senators @ Florida Panthers (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL07/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers @ Carolina Hurricanes (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Philadelphia Flyers @ Carolina Hurricanes (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="St Louis Blues @ Calgary Flames (10/11 4:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",St Louis Blues @ Calgary Flames (10/11 4:00 Pm Et)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs @ Detroit Red Wings (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Toronto Maple Leafs @ Detroit Red Wings (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL06/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah Mammoth @ Nashville Predators (10/11 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Utah Mammoth @ Nashville Predators (10/11 8:00 Pm Et)
-https://tvpass.org/live/NHL12/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ Edmonton Oilers (10/11 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ Edmonton Oilers (10/11 10:00 Pm Et)
-https://tvpass.org/live/NHL15/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vegas Golden Knights @ Seattle Kraken (10/11 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vegas Golden Knights @ Seattle Kraken (10/11 10:00 Pm Et)
-https://tvpass.org/live/NHL16/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals @ New York Islanders (10/11 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Washington Capitals @ New York Islanders (10/11 7:00 Pm Et)
-https://tvpass.org/live/NHL09/sd
-
-#EXTGRP:TVPass - PPV
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Charles Oliveira V Rafael Fiziev (10/11 5:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="TVPass - PPV",Ufc Fight Night: Charles Oliveira V Rafael Fiziev (10/11 5:00 Pm Et)
-https://tvpass.org/live/tnt-sports-1/sd
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Wwe Crown Jewel 2025 (10/11 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="TVPass - PPV",Wwe Crown Jewel 2025 (10/11 8:00 Pm Et)
-https://tvpass.org/live/PPV02/sd
 
 #EXTGRP:ULUSAL KANALLAR
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="ULUSAL KANALLAR", 360 TV
