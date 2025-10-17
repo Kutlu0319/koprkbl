@@ -2223,17 +2223,12 @@ https://gg.poocloud.in/raptors/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 1 Evening)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="StreamedSU - Darts",PDC: German Darts Championship (Day 1 Evening)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 2 Evening)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="StreamedSU - Darts",PDC: German Darts Championship (Day 2 Evening)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 3 Afternoon)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="StreamedSU - Darts",PDC: German Darts Championship (Day 3 Afternoon)
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 3 Evening)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="StreamedSU - Darts",PDC: German Darts Championship (Day 3 Evening)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -2367,7 +2362,7 @@ https://gg.poocloud.in/seriea_genoa/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heidenheim vs. Bremen" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Heidenheim vs. Bremen
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heidenheim vs. Bremen" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSA78YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",Heidenheim vs. Bremen
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -2499,6 +2494,11 @@ https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah Mammoth vs San Jose Sharks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM0QpjI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Hockey",Utah Mammoth vs San Jose Sharks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/utahmammoth/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals vs Minnesota Wild" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp" group-title="StreamedSU - Hockey",Washington Capitals vs Minnesota Wild
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
