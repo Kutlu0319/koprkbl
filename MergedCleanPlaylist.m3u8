@@ -983,6 +983,8 @@ https://wo.cma.footballii.ir/hls2/b3_high.m3u8
 http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1, CANAL + SPORT 🇫🇷
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1, CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
 http://185.236.230.212:9982/play/a0b9
 #EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
@@ -1047,10 +1049,16 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 http://172.93.102.112:8989/279390_.m3u8
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1, DSPORTS 2 🇦🇷
 http://181.78.106.127:9000/play/ca026/index.m3u8
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1, ESPN 1 NORTE 🇵🇦
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1, ESPN 2 NORTE 🇵🇦
+http://45.71.254.1:8000/play/a0e7/index.m3u8
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 #EXTINF:11,ESPN 2 🇦🇷
@@ -1168,9 +1176,13 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31614/index.m3u8
 #EXTINF:-1, NETO SPORTS 🇸🇦
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://185.236.230.212:9982/play/a0an
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+#EXTINF:-1, NOVA SPORT 2 🇨🇿
+http://91.219.133.62:1234/udp/239.1.2.91:1234
 #EXTINF:-1,NOVA SPORT 5 🇨🇿
 http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1,NOVA SPORT 5 🇨🇿
@@ -1243,6 +1255,8 @@ https://d28soor02c80fr.cloudfront.net/kooora/d4f9ab7dsd5abein111en?ts=1759344918
 https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111?ts=1759344894&nonce=tzlZyn2&token=698951669
 #EXTINF:-1, SIRTV 🇶🇦
 https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111_sd?ts=1759344894&nonce=BuGujwGf&token=110003313
+#EXTINF:-1, SKY SPORT 8 🇳🇿
+http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1, SkySports 2 New Zealand 🇳🇿
