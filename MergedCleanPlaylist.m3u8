@@ -874,15 +874,35 @@ https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Arena Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1,Arena_Sport_1 HD 🇷🇸
+http://185.166.252.230/Arena1/index.m3u8
+#EXTINF:-1,Arena_Sport_1 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_1/index.m3u8
+#EXTINF:-1,Arena_Sport_10 HD 🇷🇸
+http://185.166.252.230/Arena10/index.m3u8
+#EXTINF:-1,Arena_Sport_2 HD 🇷🇸
+http://185.166.252.230/Arena2/index.m3u8
 #EXTINF:-1,Arena_Sport_2 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_2/index.m3u8
 #EXTINF:-1,Arena_Sport_3 HD 🇷🇸
+http://185.166.252.230/Arena3/index.m3u8
+#EXTINF:-1,Arena_Sport_3 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_3/index.m3u8
+#EXTINF:-1,Arena_Sport_4 HD 🇷🇸
+http://185.166.252.230/Arena4/index.m3u8
 #EXTINF:-1,Arena_Sport_4 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1,Arena_Sport_5 HD 🇷🇸
+http://185.166.252.230/Arena5/index.m3u8
+#EXTINF:-1,Arena_Sport_5 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_5/index.m3u8
+#EXTINF:-1,Arena_Sport_6 HD 🇷🇸
+http://185.166.252.230/Arena6/index.m3u8
+#EXTINF:-1,Arena_Sport_7 HD 🇷🇸
+http://185.166.252.230/Arena7/index.m3u8
+#EXTINF:-1,Arena_Sport_8 HD 🇷🇸
+http://185.166.252.230/Arena8/index.m3u8
+#EXTINF:-1,Arena_Sport_9 HD 🇷🇸
+http://185.166.252.230/Arena9/index.m3u8
 #EXTINF:-1, AYM SPORT 🇺🇸
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1, BATIFA-TV 🇸🇦
@@ -1087,6 +1107,12 @@ http://212.102.60.80/Infosport/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1, JOJ SPORT HD 🇸🇰
 http://185.236.230.212:9982/play/a0ax
+#EXTINF:-1, K Sports 1 🌏
+https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, K Sports 2 🌏
+https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, K Sports 3 🌏
+https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,L'Équipe 🇫🇷
 https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 #EXTINF:-1,La liga Inside 🇪🇸
@@ -1121,6 +1147,14 @@ http://77.46.130.252:99/maxsport3
 http://213.169.39.30:5130
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://77.46.130.252:99/maxsport4
+#EXTINF:-1, MAXSPORT_1 🇭🇷
+http://185.166.252.230/MaxSport1/index.m3u8
+#EXTINF:-1, MAXSPORT_1 🇭🇷
+http://23.88.66.93/MAXSPORT_1/index.m3u8
+#EXTINF:-1, MAXSPORT_2 🇭🇷
+http://185.166.252.230/MaxSport2/index.m3u8
+#EXTINF:-1, MAXSPORT_2 🇭🇷
+http://23.88.66.93/MAXSPORT_2/index.m3u8
 #EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31483/index.m3u8
 #EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
