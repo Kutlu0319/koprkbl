@@ -967,10 +967,18 @@ http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4
 http://185.236.230.212:9982/play/a0b9
 #EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
 http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1,Canal+ Sport 2 🇫🇷
+http://178.33.239.54:8080/544/index.m3u8
 #EXTINF:-1, CANAL+ Sport 2 🇵🇱
 http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,Canal+ Sport 3 🇫🇷
+http://178.33.239.54:8080/545/index.m3u8
 #EXTINF:-1, CANAL+ Sport 3 🇵🇱
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,Canal+ Sport 360 🇫🇷
+http://178.33.239.54:8080/700/index.m3u8
+#EXTINF:-1,Canal+ Sport 🇫🇷
+http://178.33.239.54:8080/541/index.m3u8
 #EXTINF:-1, CANAL+ Sport 🇵🇱
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1, CBS SPORT 🇺🇸
@@ -1079,6 +1087,8 @@ http://212.102.60.80/Infosport/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1, JOJ SPORT HD 🇸🇰
 http://185.236.230.212:9982/play/a0ax
+#EXTINF:-1,L'Équipe 🇫🇷
+https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 #EXTINF:-1, LAX SPORTS 🇺🇸
@@ -1159,6 +1169,10 @@ http://213.169.39.30:5210
 http://87.246.60.6:11021
 #EXTINF:-1, Ring 🇧🇬
 http://87.246.60.6:11021
+#EXTINF:-1,RMC Sport 1 🇫🇷
+http://178.33.239.54:8080/524/index.m3u8
+#EXTINF:-1,RMC Sport 1 🇫🇷
+http://5.9.119.146:8883/rmc1/index.m3u8
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1, RTSH Sport 🇦🇱
