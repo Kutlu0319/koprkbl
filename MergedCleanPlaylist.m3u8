@@ -718,12 +718,22 @@ http://45.195.15.240:8000/play/a097/index.m3u8
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1, Diema Sport 1 🇧🇬
 http://213.169.39.30:5134
+#EXTINF:-1, Diema Sport 1 🇧🇬
+http://92.247.25.42:11170/
 #EXTINF:-1, Diema Sport 2 🇧🇬
 http://213.169.39.30:5136
+#EXTINF:-1, Diema Sport 2 🇧🇬
+http://92.247.25.42:11172/
 #EXTINF:-1, Diema Sport 3 🇧🇬
 http://213.169.39.30:5216
+#EXTINF:-1, Diema Sport 3 🇧🇬
+http://92.247.25.42:11171/
+#EXTINF:-1, Digi Sport 1 🇷🇴
+http://91.201.172.14:35005/
 #EXTINF:-1, Digi Sport 1 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1, Digi Sport 2 🇷🇴
+http://91.201.172.14:35006/
 #EXTINF:-1, Digi Sport 2 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
 #EXTINF:-1, Digi Sport 3 🇷🇴
@@ -828,18 +838,26 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 http://213.169.39.30:5138
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://77.46.130.252:99/maxsport1
+#EXTINF:-1, MAX SPORT 1 🇧🇬
+http://92.247.25.42:11176/
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://213.169.39.30:5140
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://77.46.130.252:99/maxsport2
+#EXTINF:-1, MAX SPORT 2 🇧🇬
+http://92.247.25.42:11177/
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://77.46.130.252:99/maxsport3
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://92.247.25.42:11178/
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://77.46.130.252:99/maxsport4
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://92.247.25.42:11173/
 #EXTINF:-1, MAXSPORT_1 🇭🇷
 http://185.166.252.230/MaxSport1/index.m3u8
 #EXTINF:-1, MAXSPORT_1 🇭🇷
@@ -890,6 +908,14 @@ https://storage.googleapis.com/unzertungishe1/mux_video_ts/index-1.m3u8
 https://7pal.short.gy/prsport1
 #EXTINF:-1, PremierSports2 🇬🇧
 https://7pal.short.gy/prsport2
+#EXTINF:-1, PSN 1 Sports 🇺🇸
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1, PSN 2 Sports 🇺🇸
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1, PSN 4 Sports 🇺🇸
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1, PSN 5 Sports 🇺🇸
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1, Q Sport Kyrgyzstan HD 🇰🇬
 http://95.85.109.219:7000/play/a05u
 #EXTINF:-1, REAL MADRID TV 🇪🇸
@@ -934,6 +960,10 @@ http://95.85.109.219:7000/play/a068
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, Setanta Sport 🇺🇦
 http://95.85.109.219:7000/play/a067
+#EXTINF:-1, Setenta Sport 1 🇷🇺
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1, Setenta Sport 2 🇷🇺
+http://cdntv.online/low/9mlxywika2/1022.m3u8
 #EXTINF:-1, SIRTV 🇶🇦
 https://d28soor02c80fr.cloudfront.net/kooora/d4f9ab7dsd5abein111en?ts=1759344918&nonce=1iZBynq&token=1153317999
 #EXTINF:-1, SIRTV 🇶🇦
@@ -1061,6 +1091,8 @@ http://185.236.230.212:9982/play/a09a
 #EXTINF:-1, ZIGGO SPORT LIVE 🇳🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 #EXTINF:-1, Беларусь 5 🇧🇾
+http://cdntv.online/low/9mlxywika2/778.m3u8
+#EXTINF:-1, Беларусь 5 🇧🇾
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
@@ -1072,10 +1104,16 @@ http://46.149.191.217:9010/play/a019
 http://188.191.160.238:7780/udp/239.195.3.16:1234
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.18:1234
+#EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/55.m3u8
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/211/index.m3u8
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
@@ -1088,6 +1126,8 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 #EXTINF:-1, СЕТАНТА+ UA 🇺🇦
