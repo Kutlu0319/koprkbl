@@ -968,6 +968,18 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_2_HD_AL/index.m3u8?token=test
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1, TELEFE 🇦🇷
