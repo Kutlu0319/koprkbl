@@ -1355,6 +1355,38 @@ https://gg.poocloud.in/seattleseahawks/index.m3u8
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bluejays/index.m3u8
 
+#EXTGRP:StreamedSU - Fight
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Saturday Night Collision" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",AEW: Saturday Night Collision
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",AEW: Wednesday Night Dynamite
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA: Impact" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",TNA: Impact
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Friday Night Smackdown" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",WWE: Friday Night Smackdown
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: NXT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",WWE: NXT
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+
 #EXTGRP:StreamedSU - Football
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AEK Athens vs. Aberdeen" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",AEK Athens vs. Aberdeen
 #EXTVLCOPT:http-origin=https://embedsports.top
@@ -1546,7 +1578,7 @@ https://gg.poocloud.in/bundesliga_frankfurt/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_freiburg/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galatasaray vs. Bodø/Glimt" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Galatasaray vs. Bodø/Glimt
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galatasaray vs. Bodø/Glimt" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEVEAGN65Bmqzie8EVW4EurMGFz5zQA.webp" group-title="StreamedSU - Football",Galatasaray vs. Bodø/Glimt
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1806,6 +1838,33 @@ https://gg.poocloud.in/epl_wolves/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_young-boys/index.m3u8
+
+#EXTGRP:StreamedSU - Hockey
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames vs Winnipeg Jets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwgguxkdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - Hockey",Calgary Flames vs Winnipeg Jets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/calgaryflames/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Montreal Canadiens vs Buffalo Sabres" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Hockey",Montreal Canadiens vs Buffalo Sabres
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/montrealcanadiens/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers vs Minnesota Wild" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp" group-title="StreamedSU - Hockey",New York Rangers vs Minnesota Wild
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/newyorkrangers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs Seattle Kraken" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp" group-title="StreamedSU - Hockey",Philadelphia Flyers vs Seattle Kraken
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vegas Golden Knights vs Carolina Hurricanes" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMwgtjI6a3h6epbLXZgwpHS6A.webp" group-title="StreamedSU - Hockey",Vegas Golden Knights vs Carolina Hurricanes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 
 #EXTGRP:Süper Lig 2025/2026
 #EXTINF:-1 tvg-id="1493438" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Beşiktaş 1-2 Gençlerbirliği
