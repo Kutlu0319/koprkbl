@@ -1647,11 +1647,6 @@ https://gg.poocloud.in/epl_aston-villa/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_atalanta/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletic Bilbao vs Qarabağ" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFKFwMwKENxB9cIEiBim9RiCAgEKTPhrZgy8IvNEamtMM7GiIQA.webp" group-title="StreamedSU - Football",Athletic Bilbao vs Qarabağ
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_athletic-club/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletic Club vs. Getafe CF" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Athletic Club vs. Getafe CF
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -1797,11 +1792,6 @@ https://gg.poocloud.in/bundesliga_frankfurt/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_freiburg/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galatasaray vs Bodø/Glimt" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLdYYPhrAgQ3EBH0gUukABMQJI4fgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Galatasaray vs Bodø/Glimt
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_galatasaray/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Girona FC vs. Real Oviedo" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Girona FC vs. Real Oviedo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
