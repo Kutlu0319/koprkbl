@@ -915,6 +915,8 @@ https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 http://145.239.5.177/557/mpegts
 #EXTINF:-1, BEIN 1 🇫🇷
 http://5.9.119.146:8883/beinfr1/index.m3u8
+#EXTINF:-1, BEIN 1 🇫🇷
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/1263.m3u8
 #EXTINF:-1, BEIN 2 🇫🇷
 http://145.239.5.177/558/mpegts
 #EXTINF:-1, BEIN 2 🇫🇷
@@ -933,6 +935,8 @@ https://ab.footballii.ir/hls2/bein1_low.m3u8
 https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://balance.footballii.ir/hls2/bein1.m3u8
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/6920.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
@@ -1043,6 +1047,10 @@ http://190.102.246.93:9005/play/a02l
 http://190.60.56.41:8000/play/a00p/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
 #EXTINF:-1, ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
 #EXTINF:-1, ESPN PREMIUM 🇦🇷
@@ -1093,6 +1101,8 @@ http://212.102.60.80/Infosport/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1, JOJ SPORT HD 🇸🇰
 http://185.236.230.212:9982/play/a0ax
+#EXTINF:-1,KTV SPORTS 🇮🇳
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1, K Sports 1 🌏
 https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, K Sports 2 🌏
