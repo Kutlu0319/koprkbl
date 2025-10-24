@@ -861,6 +861,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTGRP:Other
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1,A SPORTS 🇮🇳
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 #EXTINF:-1, ARENA 2 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ARENA 3 🇷🇸
@@ -1065,6 +1067,8 @@ http://45.167.255.254:8010/play/a045/index.m3u8
 http://45.167.255.254:8010/play/a046/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 🇲🇽
 http://45.167.255.254:8010/play/a047/index.m3u8
+#EXTINF:-1, Fox Sports 🇮🇳
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1,GOLTV 🇪🇸
 http://176.65.146.237:8401/play/a09k/index.m3u8
 #EXTINF:-1,HT SPOR 🇹🇷
@@ -1243,6 +1247,8 @@ http://@195.181.169.152:8080/Super_Sport_2_HD_AL/index.m3u8?token=test
 http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
 #EXTINF:-1, Super Sport 4 🇦🇱
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
+#EXTINF:-1,T SPORTS 🇮🇳
+https://cdn.bdixtv24.vip/tsports/index.m3u8
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1, TELEFE 🇦🇷
