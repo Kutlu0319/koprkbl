@@ -1608,7 +1608,7 @@ https://gg.poocloud.in/nba_brooklynnets/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Ensino Lugo CB Women vs Gernika KESB Women" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUxYQ9eGHBxeIXWpIgjMdSAAmIFCBOTCMYPgEoeYMpsYKxzx-TCvxYhBAA.webp" group-title="StreamedSU - Basketball",Ensino Lugo CB Women vs Gernika KESB Women
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Estudiantes Women vs Sedis Bàsquet Women" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1F8KOPiETcQmnDpIgIukIYAmughSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Basketball",Estudiantes Women vs Sedis Bàsquet Women
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1670,7 +1670,7 @@ https://gg.poocloud.in/nba_torontoraptors/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Machineseeker European Championship (Day 4 Evening)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="StreamedSU - Darts",Machineseeker European Championship (Day 4 Evening)
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Machineseeker European Championship (Day 4 Afternoon)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="StreamedSU - Darts",Machineseeker European Championship (Day 4 Afternoon)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1682,6 +1682,11 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Joseph Parker vs Fabio Wardley" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",Joseph Parker vs Fabio Wardley
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC 321 Aspinall vs Gane" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="StreamedSU - Fight",UFC 321 Aspinall vs Gane
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -1869,6 +1874,11 @@ https://gg.poocloud.in/ll_rma/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ll_rso/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rijeka vs Sparta Prague" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYasL3iQQ3EH10gjOIwb0k1BCkz4ouYMtvrzRdprTAOxoiEA.webp" group-title="StreamedSU - Football",Rijeka vs Sparta Prague
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/uecl_rijeka/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sassuolo vs. Roma" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png" group-title="StreamedSU - Football",Sassuolo vs. Roma
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -1904,6 +1914,23 @@ https://gg.poocloud.in/bundesliga_bremen/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_wolves/index.m3u8
+
+#EXTGRP:StreamedSU - Motor Sports
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Mexican Grand Prix - FP1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png" group-title="StreamedSU - Motor Sports",Mexican Grand Prix - FP1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Mexican Grand Prix - FP3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png" group-title="StreamedSU - Motor Sports",Mexican Grand Prix - FP3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Mexican Grand Prix - Race" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png" group-title="StreamedSU - Motor Sports",Mexican Grand Prix - Race
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/f1/index.m3u8
 
 #EXTGRP:Süper Lig 2025/2026
 #EXTINF:-1 tvg-id="1493438" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493438.jpg" group-title="Süper Lig 2025/2026",Beşiktaş 1-2 Gençlerbirliği
