@@ -1597,7 +1597,11 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 #EXTINF:-1, LALIGATV 🇬🇧
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/8640.m3u8
 #EXTINF:-1, M La Liga 🇪🇸
+http://172.93.102.112:8989/278844_.m3u8
+#EXTINF:-1, M La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681574283?profile=pass
+#EXTINF:-1, M LC 🇪🇸
+http://172.93.102.112:8989/278845_.m3u8
 #EXTINF:-1, M4 sport 🇭🇺
 http://46.149.191.217:9010/play/a017
 #EXTINF:-1, M4 sport 🇭🇺
@@ -1679,6 +1683,8 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1, Q Sport Kyrgyzstan HD 🇰🇬
 http://95.85.109.219:7000/play/a05u
 #EXTINF:-1, REAL MADRID TV 🇪🇸
+http://172.93.102.112:8989/278854_.m3u8
+#EXTINF:-1, REAL MADRID TV 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1, RING HD 🇧🇬
 http://213.169.39.30:5210
@@ -1744,6 +1750,8 @@ http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
 #EXTINF:-1,T SPORTS 🇮🇳
 https://cdn.bdixtv24.vip/tsports/index.m3u8
+#EXTINF:-1,TD 🇪🇸
+http://172.93.102.112:8989/278856_.m3u8
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1, TELEFE 🇦🇷
@@ -1776,10 +1784,14 @@ https://balance.footballii.ir/hls2/tv3.m3u8
 http://172.93.102.112:8989/158753_.m3u8
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+#EXTINF:-1,VAMOS 🇪🇸
+http://172.93.102.112:8989/278843_.m3u8
 #EXTINF:-1,  Varzesh TV 🇸🇦
 https://balance.footballii.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1,  Varzesh TV 🇸🇦
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1,VIX LALIGA 🇪🇸
+http://172.93.102.112:8989/279308_.m3u8
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, ZIGGO SPORT 1 🇳🇱
