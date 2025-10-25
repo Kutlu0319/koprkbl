@@ -1394,10 +1394,14 @@ http://145.239.5.177/557/mpegts
 http://5.9.119.146:8883/beinfr1/index.m3u8
 #EXTINF:-1, BEIN 1 🇫🇷
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/1263.m3u8
+#EXTINF:-1,Bein 1 🇹🇭
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195bein1.m3u8
 #EXTINF:-1, BEIN 2 🇫🇷
 http://145.239.5.177/558/mpegts
 #EXTINF:-1, BEIN 2 🇫🇷
 http://5.9.119.146:8883/beinfr2/index.m3u8
+#EXTINF:-1,Bein 2 🇹🇭
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195bein2.m3u8
 #EXTINF:-1, BEIN 3 🇫🇷
 http://145.239.5.177/559/mpegts
 #EXTINF:-1, BEIN 3 🇫🇷
@@ -1762,6 +1766,8 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1, SPORTYTV 🇨🇿
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1,SPOTV 2 🇮🇩
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195sportv2.m3u8
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1, Super Sport 1 🇦🇱
@@ -1798,6 +1804,8 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 https://s@saz.blitzen.store/tnt2.m3u8
+#EXTINF:-1,True Tennis 🇹🇭
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195tennis.m3u8
 #EXTINF:-1,True Vision Sports 🇹🇭
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
