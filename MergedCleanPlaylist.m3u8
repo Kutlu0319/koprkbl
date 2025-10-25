@@ -5,10 +5,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv59.live/
 https://alfaromeo.zirvedesin22.sbs/yayinzirve.m3u8
-#EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/701/mono.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-sports-hd-1.png" group-title="BEIN SPORTS KANALLARI", BEIN SPORTS 1 (4)
 #EXTVLCOPT:http-referrer=https://m7rslt2kec3vrrkozfeyx5k362zyfbli.sdedx0bsx4hhoecmwlbxddcwrnwuo6hj.online/
 https://cdn-235689.betconnectcdnlive1.online/601/tracks-v1a1/mono.m3u8
@@ -158,10 +154,6 @@ https://goldvod.org/tv/vavoo?id=178850393550c13d869fbf
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
 #EXTGRP:D SMART KANALLARI
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="D SMART KANALLARI", SMART SPOR (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/707/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="D SMART KANALLARI", SMART SPOR 2 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
@@ -1377,10 +1369,6 @@ https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 http://185.57.68.33:80/110/index.m3u8
 
 #EXTGRP:S SPORTS KANALLARI
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="S SPORTS KANALLARI", S SPORT (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/705/mono.m3u8
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv59.live/
@@ -1395,10 +1383,6 @@ https://goldvod.org/tv/vavoo?id=3269372326de5ff1a4d9d7
 https://goldvod.org/tv/vavoo?id=1507829436cb5aa4fb5b34
 #EXTINF:-1 tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="S SPORTS KANALLARI", S SPORT + (6)
 https://goldvod.org/tv/vavoo?id=376048776421ffc14b9074
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="S SPORTS KANALLARI", S SPORT 2 (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/730/mono.m3u8
 
 #EXTGRP:SİNEMA KANALLARI
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/bein-box-office-1-hd.png" group-title="SİNEMA KANALLARI", BEIN BOX OFFICE 1 (1)
@@ -1512,11 +1496,7 @@ https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktivibuspor4/playlist.m3
 #EXTGRP:SPOR KANALLARI
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR KANALLARI", A SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR KANALLARI", A SPOR (3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/709/mono.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-logo="https://digiturkpaketler.com/img/kanallar/eurosport-1-hd.png" group-title="SPOR KANALLARI", EURO SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 https://demoyayiyin.sunxtvcloud.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
@@ -2200,6 +2180,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_3_kara_goz_3h_22agu_ip&secure=1
 #EXTINF:-1 tvg-id="1493359" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493359.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-2 Rams Başakşehir
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_kkara_basak_1h_17eylul_ip&secure=1
+#EXTINF:-1 tvg-id="1493447" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493447.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 2-2 Zecorner Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_10_kara_kay_10h_24ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1493423" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493423.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 3-4 Trabzonspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_7_kara_ts_7h_27eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493392" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493392.jpg" group-title="Süper Lig 2025/2026",Rams Başakşehir 0-0 ikas Eyüpspor
@@ -2310,30 +2292,18 @@ https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv59.live/
 https://alfaromeo.zirvedesin22.sbs/yayint1.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/706/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 1 (3)
 https://goldvod.org/tv/vavoo?id=1528949791210996169a6f
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv59.live/
 https://alfaromeo.zirvedesin22.sbs/yayint2.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/711/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 2 (3)
 https://goldvod.org/tv/vavoo?id=37466838109fc1c67c228d
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://grtv59.live/
 https://alfaromeo.zirvedesin22.sbs/yayint3.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yakatv19.live/
-https://betnbetiptv30.site/712/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 3 (3)
 https://goldvod.org/tv/vavoo?id=37949240505288959ad99c
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TIVIBU SPOR KANALLARI", TIVIBU SPOR 4 (1)
@@ -3108,56 +3078,6 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
-
-#EXTGRP:TVPass - MLB
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 Pm Et)
-https://tvpass.org/live/WNYWDT1/sd
-
-#EXTGRP:TVPass - NBA
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Atlanta Hawks @ Orlando Magic (10/24 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Atlanta Hawks @ Orlando Magic (10/24 7:00 Pm Et)
-https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ New York Knicks (10/24 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Boston Celtics @ New York Knicks (10/24 7:30 Pm Et)
-https://tvpass.org/live/NBA14/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 Pm Et)
-https://tvpass.org/live/NBA19/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons @ Houston Rockets (10/24 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Detroit Pistons @ Houston Rockets (10/24 8:00 Pm Et)
-https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Portland Trail Blazers (10/24 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Golden State Warriors @ Portland Trail Blazers (10/24 10:00 Pm Et)
-https://tvpass.org/live/NBA11/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Miami Heat @ Memphis Grizzlies (10/24 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Miami Heat @ Memphis Grizzlies (10/24 8:00 Pm Et)
-https://tvpass.org/live/NBA10/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks @ Toronto Raptors (10/24 6:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Milwaukee Bucks @ Toronto Raptors (10/24 6:30 Pm Et)
-https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 Pm Et)
-https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Los Angeles Clippers (10/24 10:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Phoenix Suns @ Los Angeles Clippers (10/24 10:30 Pm Et)
-https://tvpass.org/live/NBA18/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 Pm Et)
-https://tvpass.org/live/NBA09/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Sacramento Kings (10/24 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Utah Jazz @ Sacramento Kings (10/24 10:00 Pm Et)
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Dallas Mavericks (10/24 8:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Washington Wizards @ Dallas Mavericks (10/24 8:30 Pm Et)
-https://tvpass.org/live/NBA20/sd
-
-#EXTGRP:TVPass - NCAAF
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 Pm Et)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="California Golden Bears @ Virginia Tech Hokies (10/24 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",California Golden Bears @ Virginia Tech Hokies (10/24 7:30 Pm Et)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Columbia Vs. Dartmouth (10/24 6:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Columbia Vs. Dartmouth (10/24 6:00 Pm Et)
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="North Texas Mean Green @ Charlotte 49Ers (10/24 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",North Texas Mean Green @ Charlotte 49Ers (10/24 7:00 Pm Et)
-https://tvpass.org/live/ESPN2/sd
-
-#EXTGRP:TVPass - NHL
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames @ Winnipeg Jets (10/24 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Calgary Flames @ Winnipeg Jets (10/24 8:10 Pm Et)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks @ New Jersey Devils (10/24 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",San Jose Sharks @ New Jersey Devils (10/24 7:10 Pm Et)
-https://tvpass.org/live/NHL14/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 Pm Et)
-https://tvpass.org/live/NHL19/sd
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals @ Columbus Blue Jackets (10/24 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Washington Capitals @ Columbus Blue Jackets (10/24 7:10 Pm Et)
-https://tvpass.org/live/NHL30/sd
 
 #EXTGRP:ULUSAL KANALLAR
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="ULUSAL KANALLAR", 360 TV
