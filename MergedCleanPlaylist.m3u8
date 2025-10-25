@@ -1348,6 +1348,12 @@ https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7075.m3u8
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7076.m3u8
 #EXTINF:-1, Arena Sport 6 🇭🇷
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7077.m3u8
+#EXTINF:-1,Arena_Sport P1 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Arena_Sport P2 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Arena_Sport P2 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/Premium_3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Arena_Sport_1 HD 🇷🇸
 http://185.166.252.230/Arena1/index.m3u8
 #EXTINF:-1,Arena_Sport_1 HD 🇷🇸
@@ -1470,6 +1476,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://89.29.219.116:9981/stream/channelid/681459364?profile=pass
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
+#EXTINF:-1, DAZN La Liga 🇪🇸
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DAZN PRO LEAGUE 1 🇧🇪
 http://185.236.230.212:9982/play/a09q
 #EXTINF:-1,DAZN TV 🇬🇧
@@ -1606,6 +1614,8 @@ https://fusion4k.aayushmansinghrajpurohit95.workers.dev/8640.m3u8
 http://172.93.102.112:8989/278844_.m3u8
 #EXTINF:-1, M La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681574283?profile=pass
+#EXTINF:-1, M La Liga 🇪🇸
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, M LC 🇪🇸
 http://172.93.102.112:8989/278845_.m3u8
 #EXTINF:-1, M4 sport 🇭🇺
