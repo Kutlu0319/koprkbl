@@ -1312,6 +1312,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets.m3u8
 
 #EXTGRP:Other
+#EXTINF:-1, 4Football 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1,A SPORTS 🇮🇳
@@ -1404,6 +1406,8 @@ http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1, Bein sports 1 ENG 🇬🇧
+https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://ab.footballii.ir/hls2/bein1_low.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
@@ -1412,6 +1416,8 @@ https://ab.footballii.ir/hls2/bein1_src.m3u8
 https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/6920.m3u8
+#EXTINF:-1, Bein sports 2 ENG 🇬🇧
+https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
@@ -1792,6 +1798,8 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 https://s@saz.blitzen.store/tnt2.m3u8
+#EXTINF:-1,True Vision Sports 🇹🇭
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
