@@ -3,10 +3,10 @@ import re
 
 # Birleştirilecek M3U listelerinin URL'leri
 URLS = [
-    "https://cine10giris.org.tr/ulusaltv.m3u",
-    "https://raw.githubusercontent.com/ahmet21ahmet/F-n/main/scripts%2Fcanli-tv.m3u",
+    "https://raw.githubusercontent.com/bayzero1905/m3u/refs/heads/main/ssiptv.m3u",
+    "https://raw.githubusercontent.com/bayzero1905/m3u/refs/heads/main/tvbox.m3u",
     "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/xyzvt/refs/heads/main/xyzvt.m3u",
+    "https://raw.githubusercontent.com/myiptv2/iptv-playlist/refs/heads/main/kanallar.m3u",
 
 ]
 
@@ -15,9 +15,7 @@ OUTPUT_FILE = "birlesik_liste.m3u"
 
 # Sonuç listesinden çıkarılacak, istenmeyen kategoriler
 EXCLUDED_CATEGORIES = {
-    "🎦 GLOBAL BOX",
-    "🎦 ENO SİNEMA",
-    "🎦 FIX CINEMA"
+  
 }
 
 def get_group_title(info_line):
