@@ -1465,6 +1465,8 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 #EXTINF:-1, Dazn 5 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 #EXTINF:-1, DAZN La Liga 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
+#EXTINF:-1, DAZN La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681459364?profile=pass
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
@@ -1554,6 +1556,8 @@ http://45.167.255.254:8010/play/a046/index.m3u8
 http://45.167.255.254:8010/play/a047/index.m3u8
 #EXTINF:-1, Fox Sports 🇮🇳
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1,Fubo Sports 🇺🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
 #EXTINF:-1,GOLTV 🇪🇸
 http://176.65.146.237:8401/play/a09k/index.m3u8
 #EXTINF:-1,HT SPOR 🇹🇷
