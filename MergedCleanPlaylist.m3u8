@@ -1716,6 +1716,8 @@ http://cdntv.online/low/9mlxywika2/1022.m3u8
 http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1, SkySports 2 New Zealand 🇳🇿
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
@@ -1792,6 +1794,10 @@ https://balance.footballii.ir/hls2/varzeshtv.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1,VIX LALIGA 🇪🇸
 http://172.93.102.112:8989/279308_.m3u8
+#EXTINF:-1,VIX LALIGA 🇪🇸
+http://190.61.116.105:8002/play/a0gh/index.m3u8
+#EXTINF:-1,VIX LALIGA 🇪🇸
+http://38.159.227.123:8000/play/a0a7/index.m3u8
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, ZIGGO SPORT 1 🇳🇱
