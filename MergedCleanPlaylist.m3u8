@@ -1650,6 +1650,8 @@ http://23.88.66.93/MAXSPORT_1/index.m3u8
 http://185.166.252.230/MaxSport2/index.m3u8
 #EXTINF:-1, MAXSPORT_2 🇭🇷
 http://23.88.66.93/MAXSPORT_2/index.m3u8
+#EXTINF:-1, MMN Sport 🇸🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1, NETO SPORTS 🇸🇦
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
@@ -1866,6 +1868,8 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1, Матч! 🇷🇺
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1, Суспільне Kiev Спорт HD 🇺🇦
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 #EXTINF:-1, Футбол 3 (SD) 🇷🇺
