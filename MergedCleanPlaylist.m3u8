@@ -1256,6 +1256,8 @@ https://tiger-hub.vercel.app/Arena-Sports/3/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Arena-Sports/4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ARENA 5 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ARENA 5 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ARENA 6 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ARENA 7 🇷🇸
@@ -1366,6 +1368,8 @@ http://het104a.4rouwanda-shop.store/live/9787488847/index.m3u8
 http://het104a.4rouwanda-shop.store/live/610303030/index.m3u8
 #EXTINF:-1, beIN SPORTS HD 6 🇶🇦
 http://het104a.4rouwanda-shop.store/live/1515000000/index.m3u8
+#EXTINF:-1, BEIN SPORTS MAX 7 🇫🇷
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/1269.m3u8
 #EXTINF:-1, beIN SPORTS SD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
 #EXTINF:-1, beIN SPORTS SD 2 🇶🇦
