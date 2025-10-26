@@ -1575,8 +1575,6 @@ https://play.live8818.com/nami/sd-6MuTcBtyVxWbzv27s9.m3u8?FUCKLALIGA2
 #EXTINF:-1, IDMANTV 🇹🇷
 http://149.255.154.198/idman/tracks-v1a1/mono.m3u8
 #EXTINF:-1, IDMANTV 🇹🇷
-http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, IDMANTV 🇹🇷
 https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:-1, IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8
@@ -1670,6 +1668,8 @@ http://185.236.230.212:9982/play/a09w
 http://213.169.39.30:5102
 #EXTINF:-1, Okko Спорт 🇷🇺
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1, Premier Sport 1 UK 🇬🇧
 https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Premier Sport 2 UK 🇬🇧
