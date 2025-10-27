@@ -4,15 +4,13 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamedSU.m3u8",
-    "https://raw.githubusercontent.com/ahmet21ahmet/Trgoalsvsdengetv/main/Birlesik.m3u",
+    "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/selcuk.m3u",
+    "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/trgoalas.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/myiptv2/iptv-playlist/refs/heads/main/kanallar.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
     "https://raw.githubusercontent.com/bayzero1905/m3u/refs/heads/main/tvbox.m3u",
-    "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/S%C3%BCper_Lig_2025-2026/S%C3%BCper_Lig_2025-2026.m3u",
-    "https://raw.githubusercontent.com/ahmet21ahmet/Atv/refs/heads/main/playsport/Trendyol_1._Lig_2025-2026/Trendyol_1._Lig_2025-2026.m3u",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamedSU.m3u8",
+    "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
