@@ -9,7 +9,6 @@ playlist_urls = [
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/myiptv2/iptv-playlist/refs/heads/main/kanallar.m3u",
     "https://raw.githubusercontent.com/bayzero1905/m3u/refs/heads/main/tvbox.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamedSU.m3u8",
     "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
 ]
 
