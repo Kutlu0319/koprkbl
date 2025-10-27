@@ -8,7 +8,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor HD",A Spor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinas.m3u8
+https://seven.04bf112a615942b17.sbs/yayinas.m3u8
 #EXTINF:-1,A SPORTS 🇮🇳
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 #EXTINF:-1, ARENA 2 🇷🇸
@@ -84,7 +84,7 @@ http://185.166.252.230/Arena9/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinatv.m3u8
+https://seven.04bf112a615942b17.sbs/yayinatv.m3u8
 #EXTINF:-1, AYM SPORT 🇺🇸
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1, BEIN 1 🇫🇷
@@ -108,11 +108,11 @@ http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 #EXTINF:-1 tvg-id="BeinMax1.tr" tvg-name="Bein Max 1 HD",Bein Max 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinbm1.m3u8
+https://seven.04bf112a615942b17.sbs/yayinbm1.m3u8
 #EXTINF:-1 tvg-id="BeinMax2.tr" tvg-name="Bein Max 2 HD",Bein Max 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinbm2.m3u8
+https://seven.04bf112a615942b17.sbs/yayinbm2.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
@@ -122,11 +122,11 @@ https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="Bein Sports 1 HD",Bein Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayin1.m3u8
+https://seven.04bf112a615942b17.sbs/yayin1.m3u8
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="Bein Sports 1 HD (VIP)",Bein Sports 1 HD (VIP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinzirve.m3u8
+https://seven.04bf112a615942b17.sbs/yayinzirve.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://ab.footballii.ir/hls2/bein1_low.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
@@ -140,19 +140,19 @@ https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeinSports2.tr" tvg-name="Bein Sports 2 HD",Bein Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinb2.m3u8
+https://seven.04bf112a615942b17.sbs/yayinb2.m3u8
 #EXTINF:-1 tvg-id="BeinSports3.tr" tvg-name="Bein Sports 3 HD",Bein Sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinb3.m3u8
+https://seven.04bf112a615942b17.sbs/yayinb3.m3u8
 #EXTINF:-1 tvg-id="BeinSports4.tr" tvg-name="Bein Sports 4 HD",Bein Sports 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinb4.m3u8
+https://seven.04bf112a615942b17.sbs/yayinb4.m3u8
 #EXTINF:-1 tvg-id="BeinSports5.tr" tvg-name="Bein Sports 5 HD",Bein Sports 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinb5.m3u8
+https://seven.04bf112a615942b17.sbs/yayinb5.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
@@ -304,35 +304,35 @@ https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor1.tr" tvg-name="Exxen Spor 1 HD",Exxen Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex1.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex1.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor2.tr" tvg-name="Exxen Spor 2 HD",Exxen Spor 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex2.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex2.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor3.tr" tvg-name="Exxen Spor 3 HD",Exxen Spor 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex3.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex3.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor4.tr" tvg-name="Exxen Spor 4 HD",Exxen Spor 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex4.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex4.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor5.tr" tvg-name="Exxen Spor 5 HD",Exxen Spor 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex5.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex5.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor6.tr" tvg-name="Exxen Spor 6 HD",Exxen Spor 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex6.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex6.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor7.tr" tvg-name="Exxen Spor 7 HD",Exxen Spor 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex7.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex7.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor8.tr" tvg-name="Exxen Spor 8 HD",Exxen Spor 8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinex8.m3u8
+https://seven.04bf112a615942b17.sbs/yayinex8.m3u8
 #EXTINF:-1,FOX SPORTS 1 🇲🇽
 http://45.167.255.254:8010/play/a045/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 🇲🇽
@@ -438,7 +438,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBA TV HD",NBA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinnbatv.m3u8
+https://seven.04bf112a615942b17.sbs/yayinnbatv.m3u8
 #EXTINF:-1, NETO SPORTS 🇸🇦
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
@@ -498,15 +498,15 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport 1 HD",S Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinss.m3u8
+https://seven.04bf112a615942b17.sbs/yayinss.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2 HD",S Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinss2.m3u8
+https://seven.04bf112a615942b17.sbs/yayinss2.m3u8
 #EXTINF:-1 tvg-id="SSportPlus.tr" tvg-name="S Sport Plus HD",S Sport Plus HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinssp2.m3u8
+https://seven.04bf112a615942b17.sbs/yayinssp2.m3u8
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus22/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Setanta Georgia 🇬🇪
@@ -538,11 +538,11 @@ https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="Smart Spor 1 HD",Smart Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinsmarts.m3u8
+https://seven.04bf112a615942b17.sbs/yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="Smart Spor 2 HD",Smart Spor 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayinsms2.m3u8
+https://seven.04bf112a615942b17.sbs/yayinsms2.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹
@@ -598,25 +598,25 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor 1 HD",Tivibu Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayint1.m3u8
+https://seven.04bf112a615942b17.sbs/yayint1.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2 HD",Tivibu Spor 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayint2.m3u8
+https://seven.04bf112a615942b17.sbs/yayint2.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibu Spor 3 HD",Tivibu Spor 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayint3.m3u8
+https://seven.04bf112a615942b17.sbs/yayint3.m3u8
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 https://s@saz.blitzen.store/tnt2.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor HD",TRT Spor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayintrtspor.m3u8
+https://seven.04bf112a615942b17.sbs/yayintrtspor.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yıldız HD",TRT Spor Yıldız HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayintrtspor2.m3u8
+https://seven.04bf112a615942b17.sbs/yayintrtspor2.m3u8
 #EXTINF:-1,True Tennis 🇹🇭
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195tennis.m3u8
 #EXTINF:-1,True Vision Sports 🇹🇭
@@ -634,11 +634,11 @@ https://balance.footballii.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayintv8.m3u8
+https://seven.04bf112a615942b17.sbs/yayintv8.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5 HD",TV8.5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
-https://six.04bf112a615942b16.sbs/yayintv85.m3u8
+https://seven.04bf112a615942b17.sbs/yayintv85.m3u8
 #EXTINF:-1,UNIMAS 🇺🇸
 http://172.93.102.112:8989/158753_.m3u8
 #EXTINF:-1, UZ SPORT 🇺🇿
