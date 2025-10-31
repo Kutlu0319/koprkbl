@@ -1,38 +1,27 @@
-name: XYZ Sports M3U
+name: Run XYZsports Script
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'   # Her 15 dakikada bir (UTC)
-  workflow_dispatch:          # Manuel tetikleme
+  push:
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Kodları al
-        uses: actions/checkout@v4
+    - uses: actions/checkout@v3
 
-      - name: Python kur
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
 
-      - name: Gerekli kütüphaneler
-        run: pip install httpx
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install selenium webdriver-manager
 
-      - name: Scripti çalıştır
-        run: python xyzsports.py
-
-      - name: Repo'ya commit et (sadece değişiklik varsa)
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add xyzvt.m3u
-          if ! git diff --cached --quiet; then
-            git commit -m "Update xyzvt.m3u"
-            git push
-          else
-            echo "Değişiklik yok, commit atılmadı."
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Run script
+      run: |
+        python xyzsports.py
