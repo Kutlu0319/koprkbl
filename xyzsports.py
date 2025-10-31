@@ -1,11 +1,15 @@
-from httpx import Client
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import re
 import sys
+import time
 
 class XYZsportsManager:
     def __init__(self, cikti_dosyasi):
         self.cikti_dosyasi = cikti_dosyasi
-        self.httpx = Client(timeout=10, verify=False, http2=False)
         self.channel_ids = [
             "bein-sports-1", "bein-sports-2", "bein-sports-3",
             "bein-sports-4", "bein-sports-5", "bein-sports-max-1",
@@ -13,37 +17,43 @@ class XYZsportsManager:
             "trt-spor", "trt-spor-2", "aspor", "s-sport",
             "s-sport-2", "s-sport-plus-1", "s-sport-plus-2"
         ]
+        # Selenium ayarları
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--ignore-certificate-errors")
+        chrome_options.add_argument("--user-agent=Mozilla/5.0")
+        self.driver = webdriver.Chrome(options=chrome_options)
 
-    def find_working_domain(self, start=248, end=600):
-        headers = {"User-Agent": "Mozilla/5.0"}
-
+    def find_working_domain(self, start=248, end=350):
         # Öncelikle sabit domain deneniyor
         fixed_domain = 248
         fixed_url = f"https://www.xyzsports{fixed_domain}.xyz/"
         try:
-            r = self.httpx.get(fixed_url, headers=headers)
-            print(f"Öncelikle sabit domain deneniyor: {fixed_url} | Durum: {r.status_code}")
-            if r.status_code == 200 and "uxsyplayer" in r.text:
-                return r.text, fixed_url
+            self.driver.get(fixed_url)
+            time.sleep(5)  # JS render için bekleme
+            html = self.driver.page_source
+            print(f"Öncelikle sabit domain deneniyor: {fixed_url}")
+            if "uxsyplayer" in html:
+                return html, fixed_url
         except Exception as e:
             print(f"Sabit domain hatası: {e}")
 
-        # Dinamik domain taraması
         for i in range(start, end + 1):
             url = f"https://www.xyzsports{i}.xyz/"
             try:
-                for attempt in range(2):  # 520 hatası için tekrar dene
-                    r = self.httpx.get(url, headers=headers)
-                    print(f"[{i}] Deneme {attempt+1}: {url} | Durum: {r.status_code}")
-                    if r.status_code == 200 and "uxsyplayer" in r.text:
-                        print(f"✅ Çalışan domain bulundu: {url}")
-                        return r.text, url
-                    elif r.status_code == 520:
-                        print("⚠️ Cloudflare 520 hatası, tekrar denenecek...")
-                    else:
-                        break
+                self.driver.get(url)
+                time.sleep(5)
+                html = self.driver.page_source
+                if "uxsyplayer" in html:
+                    print(f"Çalışan domain bulundu: {url}")
+                    return html, url
+                else:
+                    print(f"[{i}] Denenen domain: {url} | uxsyplayer yok")
             except Exception as e:
-                print(f"❌ Hata ({url}): {e}")
+                print(f"Hata ({url}): {e}")
                 continue
         return None, None
 
@@ -74,11 +84,10 @@ class XYZsportsManager:
         if not player_domain:
             raise RuntimeError("Player domain bulunamadı!")
 
-        r = self.httpx.get(f"{player_domain}/index.php?id={self.channel_ids[0]}", headers={
-            "User-Agent": "Mozilla/5.0",
-            "Referer": referer_url
-        })
-        base_url = self.extract_base_stream_url(r.text)
+        self.driver.get(f"{player_domain}/index.php?id={self.channel_ids[0]}")
+        time.sleep(5)
+        r_html = self.driver.page_source
+        base_url = self.extract_base_stream_url(r_html)
         if not base_url:
             raise RuntimeError("Base stream URL bulunamadı!")
 
@@ -89,6 +98,8 @@ class XYZsportsManager:
 
         print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
         print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
+
+        self.driver.quit()
 
 
 if __name__ == "__main__":
