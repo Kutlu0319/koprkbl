@@ -17,43 +17,33 @@ class XYZsportsManager:
             "s-sport-2", "s-sport-plus-1", "s-sport-plus-2"
         ]
 
-    def start_driver(self):
-        options = Options()
-        options.add_argument("--headless")
-        options.add_argument("--disable-gpu")
-        options.add_argument("--no-sandbox")
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--ignore-certificate-errors")
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    def get_driver(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--window-size=1920,1080")
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
         return driver
 
-    def find_working_domain(self, driver, start=248, end=350):
-        fixed_domain = 248
-        fixed_url = f"https://www.xyzsports{fixed_domain}.xyz/"
-        try:
-            driver.get(fixed_url)
-            time.sleep(3)
-            html = driver.page_source
-            print(f"Öncelikle sabit domain deneniyor: {fixed_url}")
-            if "uxsyplayer" in html:
-                return html, fixed_url
-        except Exception as e:
-            print(f"Sabit domain hatası: {e}")
-
+    def find_working_domain(self, start=248, end=350):
+        driver = self.get_driver()
         for i in range(start, end + 1):
             url = f"https://www.xyzsports{i}.xyz/"
             try:
                 driver.get(url)
-                time.sleep(3)
-                html = driver.page_source
-                if "uxsyplayer" in html:
+                time.sleep(2)  # sayfanın yüklenmesi için bekle
+                if "uxsyplayer" in driver.page_source:
                     print(f"Çalışan domain bulundu: {url}")
-                    return html, url
+                    driver.quit()
+                    return driver.page_source, url
                 else:
-                    print(f"[{i}] Deneme: {url} | uxsyplayer yok")
+                    print(f"Denenen domain: {url} | uxsyplayer yok")
             except Exception as e:
                 print(f"Hata ({url}): {e}")
                 continue
+        driver.quit()
         return None, None
 
     def find_dynamic_player_domain(self, html):
@@ -75,31 +65,29 @@ class XYZsportsManager:
         return "\n".join(m3u)
 
     def calistir(self):
-        driver = self.start_driver()
-        try:
-            html, referer_url = self.find_working_domain(driver)
-            if not html:
-                raise RuntimeError("Çalışan domain bulunamadı!")
+        html, referer_url = self.find_working_domain()
+        if not html:
+            raise RuntimeError("Çalışan domain bulunamadı!")
 
-            player_domain = self.find_dynamic_player_domain(html)
-            if not player_domain:
-                raise RuntimeError("Player domain bulunamadı!")
+        player_domain = self.find_dynamic_player_domain(html)
+        if not player_domain:
+            raise RuntimeError("Player domain bulunamadı!")
 
-            driver.get(f"{player_domain}/index.php?id={self.channel_ids[0]}")
-            time.sleep(3)
-            base_url = self.extract_base_stream_url(driver.page_source)
-            if not base_url:
-                raise RuntimeError("Base stream URL bulunamadı!")
+        driver = self.get_driver()
+        driver.get(f"{player_domain}/index.php?id={self.channel_ids[0]}")
+        time.sleep(2)
+        base_url = self.extract_base_stream_url(driver.page_source)
+        driver.quit()
 
-            m3u_icerik = self.build_m3u8_content(base_url, referer_url)
+        if not base_url:
+            raise RuntimeError("Base stream URL bulunamadı!")
 
-            with open(self.cikti_dosyasi, "w", encoding="utf-8") as f:
-                f.write(m3u_icerik)
+        m3u_icerik = self.build_m3u8_content(base_url, referer_url)
+        with open(self.cikti_dosyasi, "w", encoding="utf-8") as f:
+            f.write(m3u_icerik)
 
-            print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
-            print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
-        finally:
-            driver.quit()
+        print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
+        print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
 
 if __name__ == "__main__":
     try:
