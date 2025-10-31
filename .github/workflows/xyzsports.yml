@@ -37,7 +37,7 @@ jobs:
 
     - name: Upload M3U artifact
       if: success()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: xyzvt-m3u
         path: xyzvt.m3u
