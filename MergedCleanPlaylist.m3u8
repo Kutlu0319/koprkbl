@@ -1,110 +1,88 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 
+#EXTGRP:DeaTHLesS
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport 3 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport 4 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport 5 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport Max 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:beIN Sport Max 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Euro Sport 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Euro Sport 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 1 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 2 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 3 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 3 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 4 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 4 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 5 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 5 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 6 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 6 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 7 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 7 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen 8 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen 8 HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Exxen HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Exxen HD
+https://biraz.1387503.xyz/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:S Sport 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:S Sport 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Smart Sport 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Smart Sport 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 3 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 3 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 4 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 4 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 5 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 5 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb5.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 6 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 6 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb6.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 7 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 7 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb7.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii 8 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii 8 HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb8.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tabii HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tabii HD
+https://biraz.1387503.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tivibu Sport 1 HD
+https://biraz.1387503.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tivibu Sport 2 HD
+https://biraz.1387503.xyz/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tivibu Sport 3 HD
+https://biraz.1387503.xyz/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tivibu Sport 4 HD
+https://biraz.1387503.xyz/checklist/androstreamlivets4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="DeaTHLesS",TR:Tivibu Sport HD
+https://biraz.1387503.xyz/checklist/androstreamlivets.m3u8
+
 #EXTGRP:Other
-#EXTINF:-1, 4Football 🇸🇪
-http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
-#EXTINF:-1,4Sports 🇸🇦
-https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor HD",A Spor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinas.m3u8
-#EXTINF:-1,A SPORTS 🇮🇳
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
-#EXTINF:-1, ARENA 2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA 3 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA 4 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA 5 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ARENA 5 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA 6 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/6/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA 7 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/7/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA 8 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/8/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA PREM 2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7072.m3u8
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/842.m3u8
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7073.m3u8
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/843.m3u8
-#EXTINF:-1, Arena Sport 3 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7074.m3u8
-#EXTINF:-1, Arena Sport 4 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7075.m3u8
-#EXTINF:-1, Arena Sport 5 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7076.m3u8
-#EXTINF:-1, Arena Sport 6 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7077.m3u8
-#EXTINF:-1,Arena_Sport P1 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Arena_Sport P2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Arena_Sport P2 🇷🇸
-https://tiger-hub.vercel.app/Arena-Sports/Premium_3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Arena_Sport_1 HD 🇷🇸
-http://185.166.252.230/Arena1/index.m3u8
-#EXTINF:-1,Arena_Sport_1 HD 🇷🇸
-http://78.108.251.7/Arena_Sport_1/index.m3u8
-#EXTINF:-1,Arena_Sport_10 HD 🇷🇸
-http://185.166.252.230/Arena10/index.m3u8
-#EXTINF:-1,Arena_Sport_2 HD 🇷🇸
-http://185.166.252.230/Arena2/index.m3u8
-#EXTINF:-1,Arena_Sport_2 HD 🇷🇸
-http://78.108.251.7/Arena_Sport_2/index.m3u8
-#EXTINF:-1,Arena_Sport_3 HD 🇷🇸
-http://185.166.252.230/Arena3/index.m3u8
-#EXTINF:-1,Arena_Sport_3 HD 🇷🇸
-http://78.108.251.7/Arena_Sport_3/index.m3u8
-#EXTINF:-1,Arena_Sport_4 HD 🇷🇸
-http://185.166.252.230/Arena4/index.m3u8
-#EXTINF:-1,Arena_Sport_4 HD 🇷🇸
-http://78.108.251.7/Arena_Sport_4/index.m3u8
-#EXTINF:-1,Arena_Sport_5 HD 🇷🇸
-http://185.166.252.230/Arena5/index.m3u8
-#EXTINF:-1,Arena_Sport_5 HD 🇷🇸
-http://78.108.251.7/Arena_Sport_5/index.m3u8
-#EXTINF:-1,Arena_Sport_6 HD 🇷🇸
-http://185.166.252.230/Arena6/index.m3u8
-#EXTINF:-1,Arena_Sport_7 HD 🇷🇸
-http://185.166.252.230/Arena7/index.m3u8
-#EXTINF:-1,Arena_Sport_8 HD 🇷🇸
-http://185.166.252.230/Arena8/index.m3u8
-#EXTINF:-1,Arena_Sport_9 HD 🇷🇸
-http://185.166.252.230/Arena9/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinatv.m3u8
-#EXTINF:-1, AYM SPORT 🇺🇸
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1, BEIN 1 🇫🇷
-http://145.239.5.177/557/mpegts
-#EXTINF:-1, BEIN 1 🇫🇷
-http://5.9.119.146:8883/beinfr1/index.m3u8
-#EXTINF:-1, BEIN 1 🇫🇷
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/1263.m3u8
-#EXTINF:-1,Bein 1 🇹🇭
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195bein1.m3u8
-#EXTINF:-1, BEIN 2 🇫🇷
-http://145.239.5.177/558/mpegts
-#EXTINF:-1, BEIN 2 🇫🇷
-http://5.9.119.146:8883/beinfr2/index.m3u8
-#EXTINF:-1,Bein 2 🇹🇭
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195bein2.m3u8
-#EXTINF:-1, BEIN 3 🇫🇷
-http://145.239.5.177/559/mpegts
-#EXTINF:-1, BEIN 3 🇫🇷
-http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 #EXTINF:-1 tvg-id="BeinMax1.tr" tvg-name="Bein Max 1 HD",Bein Max 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -113,12 +91,6 @@ https://seven.04bf112a615942b17.sbs/yayinbm1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinbm2.m3u8
-#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1, Bein sports 1 ENG 🇬🇧
-https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-name="Bein Sports 1 HD",Bein Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -127,16 +99,6 @@ https://seven.04bf112a615942b17.sbs/yayin1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinzirve.m3u8
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_low.m3u8
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_src.m3u8
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://balance.footballii.ir/hls2/bein1.m3u8
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/6920.m3u8
-#EXTINF:-1, Bein sports 2 ENG 🇬🇧
-https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeinSports2.tr" tvg-name="Bein Sports 2 HD",Bein Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -153,154 +115,6 @@ https://seven.04bf112a615942b17.sbs/yayinb4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinb5.m3u8
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-#EXTINF:-1, beIN SPORTS HD 2 🇶🇦
-http://het104a.4rouwanda-shop.store/live/69854211/index.m3u8
-#EXTINF:-1, beIN SPORTS HD 3 🇶🇦
-http://het104a.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:-1, beIN SPORTS HD 4 🇶🇦
-http://het104a.4rouwanda-shop.store/live/9787488847/index.m3u8
-#EXTINF:-1, beIN SPORTS HD 5 🇶🇦
-http://het104a.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:-1, beIN SPORTS HD 6 🇶🇦
-http://het104a.4rouwanda-shop.store/live/1515000000/index.m3u8
-#EXTINF:-1, BEIN SPORTS MAX 7 🇫🇷
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/1269.m3u8
-#EXTINF:-1, beIN SPORTS SD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
-#EXTINF:-1, beIN SPORTS SD 2 🇶🇦
-http://het104a.4rouwanda-shop.store/live/10011244/index.m3u8
-#EXTINF:-1, beIN SPORTS SD 3 🇶🇦
-http://het104a.4rouwanda-shop.store/live/161988840/index.m3u8
-#EXTINF:-1, beIN SPORTS SD 4 🇶🇦
-http://het104a.4rouwanda-shop.store/live/0103088447/index.m3u8
-#EXTINF:-1, beIN SPORTS SD 5 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/115451004/index.m3u8
-#EXTINF:-1, beIN SPORTS SD 6 🇶🇦
-http://het104a.4rouwanda-shop.store/live/788550011/index.m3u8
-#EXTINF:-1, BELARUS 5 🇧🇾
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-#EXTINF:-1, BELARUS 5 🇧🇾
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZudleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-#EXTINF:-1, CANAL + Sport 🇫🇷
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
-http://185.236.230.212:9982/play/a0b9
-#EXTINF:-1,Canal+ Sport 360 🇫🇷
-http://178.33.239.54:8080/700/index.m3u8
-#EXTINF:-1,Canal+ Sport 🇫🇷
-http://178.33.239.54:8080/541/index.m3u8
-#EXTINF:-1, CBC SPORT 🇦🇿
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/477943.m3u8
-#EXTINF:-1, CT SPORT HD 🇨🇿
-http://185.236.230.212:9982/play/a0b3
-#EXTINF:-1, CT SPORT HD 🇨🇿
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1, Dazn 1 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:-1, Dazn 1 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-#EXTINF:-1, Dazn 2 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:-1, Dazn 3 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:-1, Dazn 4 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:-1, Dazn 5 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-#EXTINF:-1, DAZN La Liga 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
-#EXTINF:-1, DAZN La Liga 🇪🇸
-http://89.29.219.116:9981/stream/channelid/681459364?profile=pass
-#EXTINF:-1, DAZN La Liga 🇪🇸
-http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
-#EXTINF:-1, DAZN La Liga 🇪🇸
-https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
-#EXTINF:-1, DAZN PRO LEAGUE 1 🇧🇪
-http://185.236.230.212:9982/play/a09q
-#EXTINF:-1,DAZN TV 🇬🇧
-https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
-#EXTINF:-1, Diema Sport 1 🇧🇬
-http://213.169.39.30:5134
-#EXTINF:-1, Diema Sport 1 🇧🇬
-http://92.247.25.42:11170/
-#EXTINF:-1, Diema Sport 2 🇧🇬
-http://213.169.39.30:5136
-#EXTINF:-1, Diema Sport 2 🇧🇬
-http://92.247.25.42:11172/
-#EXTINF:-1, Diema Sport 3 🇧🇬
-http://213.169.39.30:5216
-#EXTINF:-1, Diema Sport 3 🇧🇬
-http://92.247.25.42:11171/
-#EXTINF:-1, Digi Sport 1 🇷🇴
-http://91.201.172.14:35005/
-#EXTINF:-1, Digi Sport 1 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
-#EXTINF:-1, Digi Sport 2 🇷🇴
-http://91.201.172.14:35006/
-#EXTINF:-1, Digi Sport 2 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
-#EXTINF:-1, Digi Sport 3 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
-#EXTINF:-1, Digi Sport 4 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://172.93.102.112:8989/279390_.m3u8
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1, DSPORTS 2 🇦🇷
-http://181.78.106.127:9000/play/ca026/index.m3u8
-#EXTINF:-1, Eleven Sport 1 🇵🇱
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/2030.m3u8
-#EXTINF:-1, ESPN 1 NORTE 🇵🇦
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-#EXTINF:-1, ESPN 1 NORTE 🇵🇦
-https://cdn01.oplay.tv/espn/index.m3u8
-#EXTINF:-1, ESPN 2 NORTE 🇵🇦
-http://45.71.254.1:8000/play/a0e7/index.m3u8
-#EXTINF:-1, ESPN 2 🇦🇷
-http://181.205.130.194:4000/play/a07i
-#EXTINF:11,ESPN 2 🇦🇷
-http://45.228.234.30:16000/play/a01l/index.m3u8
-#EXTINF:-1, ESPN 3 🇨🇴
-http://190.102.246.93:9005/play/a02l
-#EXTINF:-1, ESPN 5 🇨🇴
-http://190.60.56.41:8000/play/a00p/index.m3u8
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/763.m3u8
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
-#EXTINF:-1, ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a00x
-#EXTINF:-1, ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a029
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-#EXTINF:-1, ESPN VIVO 🇦🇷
-https://cdn01.oplay.tv/espn/index.m3u8
-#EXTINF:-1, ESPN VIVO 🇨🇴
-http://190.60.56.41:8000/play/a00z/index.m3u8
-#EXTINF:-1, ESPN 🇦🇷
-http://181.78.117.219:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN 🇦🇷
-http://200.12.41.194:8000/play/a060/index.m3u8
-#EXTINF:-1,ESPN 🇦🇷
-http://45.228.234.30:16000/play/a01k/index.m3u8
-#EXTINF:-1, ESPN 🇺🇸
-https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor1.tr" tvg-name="Exxen Spor 1 HD",Exxen Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -333,168 +147,10 @@ https://seven.04bf112a615942b17.sbs/yayinex7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinex8.m3u8
-#EXTINF:-1,FOX SPORTS 1 🇲🇽
-http://45.167.255.254:8010/play/a045/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 🇲🇽
-http://45.167.255.254:8010/play/a046/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 🇲🇽
-http://45.167.255.254:8010/play/a047/index.m3u8
-#EXTINF:-1, Fox Sports 🇮🇳
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1,Fubo Sports 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
-#EXTINF:-1,GOLTV 🇪🇸
-http://176.65.146.237:8401/play/a09k/index.m3u8
-#EXTINF:-1,HT SPOR 🇹🇷
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1, HYP 🇪🇸
-http://172.93.102.112:8989/278842_.m3u8
-#EXTINF:-1, HYP 🇪🇸
-http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
-#EXTINF:-1, HYP 🇪🇸
-http://89.29.219.116:9981/stream/channelid/366103458?profile=pass
-#EXTINF:-1, HYP 🇪🇸
-https://play.live8818.com/nami/sd-6MuTcBtyVxWbzv27s9.m3u8?FUCKLALIGA2
-#EXTINF:-1, IDMANTV 🇹🇷
-http://149.255.154.198/idman/tracks-v1a1/mono.m3u8
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str.yodacdn.net/idman/index.m3u8
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-#EXTINF:-1, INFOSPORT 🇫🇷
-http://212.102.60.80/Infosport/index.m3u8
-#EXTINF:-1, ITV DEPORTES 🇲🇽
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1, JOJ SPORT HD 🇸🇰
-http://185.236.230.212:9982/play/a0ax
-#EXTINF:-1,KTV SPORTS 🇮🇳
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1, K Sports 1 🌏
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, K Sports 2 🌏
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, K Sports 3 🌏
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,L'Équipe 🇫🇷
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
-#EXTINF:-1,La liga Inside 🇪🇸
-https://is.gd/P9HFAg?LaligaInside.m3u8
-#EXTINF:-1, LALIGATV 🇬🇧
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/8640.m3u8
-#EXTINF:-1, M La Liga 🇪🇸
-http://172.93.102.112:8989/278844_.m3u8
-#EXTINF:-1, M La Liga 🇪🇸
-http://89.29.219.116:9981/stream/channelid/681574283?profile=pass
-#EXTINF:-1, M La Liga 🇪🇸
-https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, M LC 🇪🇸
-http://172.93.102.112:8989/278845_.m3u8
-#EXTINF:-1, M4 sport 🇭🇺
-http://46.149.191.217:9010/play/a017
-#EXTINF:-1, M4 sport 🇭🇺
-http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1, MASR 🇶🇦
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1, MASR 🇶🇦
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
-#EXTINF:-1, MASR 🇶🇦
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
-#EXTINF:-1, MAX SPORT 1 🇧🇬
-http://213.169.39.30:5138
-#EXTINF:-1, MAX SPORT 1 🇧🇬
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1, MAX SPORT 1 🇧🇬
-http://92.247.25.42:11176/
-#EXTINF:-1, MAX SPORT 2 🇧🇬
-http://213.169.39.30:5140
-#EXTINF:-1, MAX SPORT 2 🇧🇬
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1, MAX SPORT 2 🇧🇬
-http://92.247.25.42:11177/
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://213.169.39.30:5142
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://92.247.25.42:11178/
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://213.169.39.30:5130
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://77.46.130.252:99/maxsport4
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://92.247.25.42:11173/
-#EXTINF:-1, MAXSPORT_1 🇭🇷
-http://185.166.252.230/MaxSport1/index.m3u8
-#EXTINF:-1, MAXSPORT_1 🇭🇷
-http://23.88.66.93/MAXSPORT_1/index.m3u8
-#EXTINF:-1, MAXSPORT_2 🇭🇷
-http://185.166.252.230/MaxSport2/index.m3u8
-#EXTINF:-1, MAXSPORT_2 🇭🇷
-http://23.88.66.93/MAXSPORT_2/index.m3u8
-#EXTINF:-1, MMN Sport 🇸🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBA TV HD",NBA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinnbatv.m3u8
-#EXTINF:-1, NETO SPORTS 🇸🇦
-https://netohls.wns.live/hls/stream.m3u8
-#EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
-http://178.23.88.55/Nova_Sport/index.m3u8
-#EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
-http://185.236.230.212:9982/play/a0an
-#EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
-#EXTINF:-1, NOVA SPORT 2 🇨🇿
-http://91.219.133.62:1234/udp/239.1.2.91:1234
-#EXTINF:-1,NOVA SPORT 5 🇨🇿
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
-#EXTINF:-1, NOVA SPORT 5 🇸🇰
-http://185.236.230.212:9982/play/a09w
-#EXTINF:-1, Nova Sport 🇧🇬
-http://213.169.39.30:5102
-#EXTINF:-1, Okko Спорт 🇷🇺
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1, Premier Sport 1 UK 🇬🇧
-https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Premier Sport 2 UK 🇬🇧
-https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PremierSports1 🇬🇧
-https://7pal.short.gy/prsport1
-#EXTINF:-1, PremierSports2 🇬🇧
-https://7pal.short.gy/prsport2
-#EXTINF:-1, Prima Sport 1 🇷🇴
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
-#EXTINF:-1, Prima Sport 1 🇷🇴
-https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1, PSN 1 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1, PSN 2 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1, PSN 4 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1, PSN 5 Sports 🇺🇸
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTINF:-1, Q Sport Kyrgyzstan HD 🇰🇬
-http://95.85.109.219:7000/play/a05u
-#EXTINF:-1, REAL MADRID TV 🇪🇸
-http://172.93.102.112:8989/278854_.m3u8
-#EXTINF:-1, REAL MADRID TV 🇪🇸
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1, RING HD 🇧🇬
-http://213.169.39.30:5210
-#EXTINF:-1,RMC Sport 1 🇫🇷
-http://178.33.239.54:8080/524/index.m3u8
-#EXTINF:-1,RMC Sport 1 🇫🇷
-http://5.9.119.146:8883/rmc1/index.m3u8
-#EXTINF:-1, RTA SPORT 🇸🇦
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1, RTSH Sport 🇦🇱
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport 1 HD",S Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -507,34 +163,6 @@ https://seven.04bf112a615942b17.sbs/yayinss2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinssp2.m3u8
-#EXTINF:-1,SERVUS TV 🇩🇪
-https://s6.hopslan.com/servus22/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Setanta Georgia 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1, SETANTA SPORT 1 HD 🇺🇦
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Setanta Sport 1 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1, SETANTA SPORT 2 HD 🇺🇦
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Setanta Sport 🇺🇦
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1, Setenta Sport 1 🇷🇺
-http://cdntv.online/low/9mlxywika2/1021.m3u8
-#EXTINF:-1, Setenta Sport 2 🇷🇺
-http://cdntv.online/low/9mlxywika2/1022.m3u8
-#EXTINF:-1, SKY SPORT 8 🇳🇿
-http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
-http://181.78.106.127:9000/play/ca030/index.m3u8
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://181.78.109.48:9998/play/a06r/index.m3u8
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1, SkySports 2 New Zealand 🇳🇿
-https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="Smart Spor 1 HD",Smart Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -543,58 +171,6 @@ https://seven.04bf112a615942b17.sbs/yayinsmarts.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayinsms2.m3u8
-#EXTINF:-1, SOLH SPORT 🇦🇫
-http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹
-https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
-#EXTINF:-1, SPORT 1 HD 🇨🇿
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1, SPORT 2 HD 🇨🇿
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1, SPORT ITALIA 🇮🇹
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-#EXTINF:-1,SPORTS TV 🇹🇷
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1, SPORTYTV 🇨🇿
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1,SPOTV 2 🇮🇩
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195sportv2.m3u8
-#EXTINF:-1,STAR SPORTS 1 🇮🇳
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1, Super Sport 1 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1, Super Sport 1 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
-#EXTINF:-1, Super Sport 2 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-#EXTINF:-1, Super Sport 2 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_2_HD_AL/index.m3u8?token=test
-#EXTINF:-1, Super Sport 3 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
-#EXTINF:-1, Super Sport 4 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
-#EXTINF:-1,T SPORTS 🇮🇳
-https://cdn.bdixtv24.vip/tsports/index.m3u8
-#EXTINF:-1,TD 🇪🇸
-http://172.93.102.112:8989/278856_.m3u8
-#EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1, TELEFE 🇦🇷
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1,TELEMUNDO 🇲🇽
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-#EXTINF:-1,TELEMUNDO 🇲🇽
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1, TELETRAK 🇨🇱
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1, Telewebion Sport 2 🇸🇦
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
-#EXTINF:-1, Telewebion Sport 3 🇸🇦
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
-#EXTINF:-1, Telewebion Sport 🇸🇦
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor 1 HD",Tivibu Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -607,8 +183,6 @@ https://seven.04bf112a615942b17.sbs/yayint2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayint3.m3u8
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-https://s@saz.blitzen.store/tnt2.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor HD",TRT Spor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -617,20 +191,6 @@ https://seven.04bf112a615942b17.sbs/yayintrtspor.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayintrtspor2.m3u8
-#EXTINF:-1,True Tennis 🇹🇭
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195tennis.m3u8
-#EXTINF:-1,True Vision Sports 🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
-#EXTINF:-1, Turkmenistan Sport 🇹🇲
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1, Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1, Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1,TV2 🇪🇸
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1, TV3 🇸🇦
-https://balance.footballii.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
@@ -639,76 +199,6 @@ https://seven.04bf112a615942b17.sbs/yayintv8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1441.xyz/
 https://seven.04bf112a615942b17.sbs/yayintv85.m3u8
-#EXTINF:-1,UNIMAS 🇺🇸
-http://172.93.102.112:8989/158753_.m3u8
-#EXTINF:-1, UZ SPORT 🇺🇿
-https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
-#EXTINF:-1,VAMOS 🇪🇸
-http://172.93.102.112:8989/278843_.m3u8
-#EXTINF:-1,  Varzesh TV 🇸🇦
-https://balance.footballii.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1,  Varzesh TV 🇸🇦
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:-1,VIX LALIGA 🇪🇸
-http://172.93.102.112:8989/279308_.m3u8
-#EXTINF:-1,VIX LALIGA 🇪🇸
-http://190.61.116.105:8002/play/a0gh/index.m3u8
-#EXTINF:-1,VIX LALIGA 🇪🇸
-http://38.159.227.123:8000/play/a0a7/index.m3u8
-#EXTINF:-1, X SPORT 🇷🇺
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1, ZIGGO SPORT 1 🇳🇱
-http://185.236.230.212:9982/play/a09f
-#EXTINF:-1, ZIGGO SPORT 2 HD 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
-#EXTINF:-1,ZIGGO SPORT 2 🇳🇱
-http://185.236.230.212:9982/play/a099
-#EXTINF:-1, ZIGGO SPORT 3 HD 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
-#EXTINF:-1, ZIGGO SPORT 6 HD 🇳🇱
-http://185.236.230.212:9982/play/a09a
-#EXTINF:-1, ZIGGO SPORT 6 🇳🇱
-http://185.236.230.212:9982/play/a09a
-#EXTINF:-1, ZIGGO SPORT LIVE 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
-#EXTINF:-1, Беларусь 5 🇧🇾
-http://cdntv.online/low/9mlxywika2/778.m3u8
-#EXTINF:-1, Беларусь 5 🇧🇾
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
-#EXTINF:-1, Беларусь 5 🇧🇾
-https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Беларусь 5 🇧🇾
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1, Матч! 4 HD 🇷🇺
-http://46.149.191.217:9010/play/a019
-#EXTINF:-1, МАТЧ! ФУТБOЛ 1HD 🇷🇺
-http://188.191.160.238:7780/udp/239.195.3.16:1234
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
-http://188.191.160.238:7780/udp/239.195.3.18:1234
-#EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/57.m3u8
-#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
-http://185.57.68.33:8091/110/playlist.m3u8
-#EXTINF:-1, Матч! 🇷🇺
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1, Матч! 🇷🇺
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Матч! 🇷🇺
-http://cdntv.online/low/9mlxywika2/48.m3u8
-#EXTINF:-1, Матч! 🇷🇺
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1, Матч! 🇷🇺
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1, Суспільне Kiev Спорт HD 🇺🇦
-https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
-#EXTINF:-1, Футбол 3 (SD) 🇷🇺
-http://185.57.68.33:80/110/index.m3u8
 
 #EXTGRP:Spor
 #EXTINF:-1 tvg-id="aspor" tvg-name="A Spor" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png" group-title="Spor",A Spor
@@ -765,3 +255,69 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3
 #EXTINF:-1 tvg-id="tivibu4" tvg-name="Tivibu Spor 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor4/playlist.m3u8
+
+#EXTGRP:Umitmod
+#EXTINF:-1 group-title="Umitmod",Aspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/aspor/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-1/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-2/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-3/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-4/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-5/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports Max 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-max-1/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Bein Sports Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-max-2/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",S Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/s-sport/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",S Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/s-sport-2/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",S Sport Plus 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/s-sport-plus-1/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",S Sport Plus 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/s-sport-plus-2/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Smart Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/smart-spor/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Smart Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/smart-spor-2/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Trt Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/trt-spor/playlist.m3u8
+#EXTINF:-1 group-title="Umitmod",Trt Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.xyzsports259.xyz/
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/trt-spor-2/playlist.m3u8
