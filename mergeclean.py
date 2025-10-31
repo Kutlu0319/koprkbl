@@ -7,6 +7,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/trgoalas.m3u",
     "https://raw.githubusercontent.com/Kutlu0319/srbandroid/refs/heads/main/androiptv.m3u8",
+    "https://raw.githubusercontent.com/mehmetey03/xyzvt/refs/heads/main/xyzvt.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
