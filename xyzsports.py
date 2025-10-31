@@ -1,8 +1,7 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 import re
 import sys
 import time
@@ -17,24 +16,24 @@ class XYZsportsManager:
             "trt-spor", "trt-spor-2", "aspor", "s-sport",
             "s-sport-2", "s-sport-plus-1", "s-sport-plus-2"
         ]
-        # Selenium ayarları
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--disable-gpu")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--ignore-certificate-errors")
-        chrome_options.add_argument("--user-agent=Mozilla/5.0")
-        self.driver = webdriver.Chrome(options=chrome_options)
 
-    def find_working_domain(self, start=248, end=350):
-        # Öncelikle sabit domain deneniyor
+    def start_driver(self):
+        options = Options()
+        options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--ignore-certificate-errors")
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+        return driver
+
+    def find_working_domain(self, driver, start=248, end=350):
         fixed_domain = 248
         fixed_url = f"https://www.xyzsports{fixed_domain}.xyz/"
         try:
-            self.driver.get(fixed_url)
-            time.sleep(5)  # JS render için bekleme
-            html = self.driver.page_source
+            driver.get(fixed_url)
+            time.sleep(3)
+            html = driver.page_source
             print(f"Öncelikle sabit domain deneniyor: {fixed_url}")
             if "uxsyplayer" in html:
                 return html, fixed_url
@@ -44,14 +43,14 @@ class XYZsportsManager:
         for i in range(start, end + 1):
             url = f"https://www.xyzsports{i}.xyz/"
             try:
-                self.driver.get(url)
-                time.sleep(5)
-                html = self.driver.page_source
+                driver.get(url)
+                time.sleep(3)
+                html = driver.page_source
                 if "uxsyplayer" in html:
                     print(f"Çalışan domain bulundu: {url}")
                     return html, url
                 else:
-                    print(f"[{i}] Denenen domain: {url} | uxsyplayer yok")
+                    print(f"[{i}] Deneme: {url} | uxsyplayer yok")
             except Exception as e:
                 print(f"Hata ({url}): {e}")
                 continue
@@ -76,31 +75,31 @@ class XYZsportsManager:
         return "\n".join(m3u)
 
     def calistir(self):
-        html, referer_url = self.find_working_domain()
-        if not html:
-            raise RuntimeError("Çalışan domain bulunamadı!")
+        driver = self.start_driver()
+        try:
+            html, referer_url = self.find_working_domain(driver)
+            if not html:
+                raise RuntimeError("Çalışan domain bulunamadı!")
 
-        player_domain = self.find_dynamic_player_domain(html)
-        if not player_domain:
-            raise RuntimeError("Player domain bulunamadı!")
+            player_domain = self.find_dynamic_player_domain(html)
+            if not player_domain:
+                raise RuntimeError("Player domain bulunamadı!")
 
-        self.driver.get(f"{player_domain}/index.php?id={self.channel_ids[0]}")
-        time.sleep(5)
-        r_html = self.driver.page_source
-        base_url = self.extract_base_stream_url(r_html)
-        if not base_url:
-            raise RuntimeError("Base stream URL bulunamadı!")
+            driver.get(f"{player_domain}/index.php?id={self.channel_ids[0]}")
+            time.sleep(3)
+            base_url = self.extract_base_stream_url(driver.page_source)
+            if not base_url:
+                raise RuntimeError("Base stream URL bulunamadı!")
 
-        m3u_icerik = self.build_m3u8_content(base_url, referer_url)
+            m3u_icerik = self.build_m3u8_content(base_url, referer_url)
 
-        with open(self.cikti_dosyasi, "w", encoding="utf-8") as f:
-            f.write(m3u_icerik)
+            with open(self.cikti_dosyasi, "w", encoding="utf-8") as f:
+                f.write(m3u_icerik)
 
-        print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
-        print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
-
-        self.driver.quit()
-
+            print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
+            print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
+        finally:
+            driver.quit()
 
 if __name__ == "__main__":
     try:
