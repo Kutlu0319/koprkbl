@@ -5,7 +5,7 @@ import sys
 class XYZsportsManager:
     def __init__(self, cikti_dosyasi):
         self.cikti_dosyasi = cikti_dosyasi
-        self.httpx = Client(timeout=10, verify=False)
+        self.httpx = Client(timeout=10, verify=False, http2=False)
         self.channel_ids = [
             "bein-sports-1", "bein-sports-2", "bein-sports-3",
             "bein-sports-4", "bein-sports-5", "bein-sports-max-1",
@@ -14,9 +14,10 @@ class XYZsportsManager:
             "s-sport-2", "s-sport-plus-1", "s-sport-plus-2"
         ]
 
-    def find_working_domain(self, start=248, end=350):
+    def find_working_domain(self, start=248, end=600):
         headers = {"User-Agent": "Mozilla/5.0"}
 
+        # Öncelikle sabit domain deneniyor
         fixed_domain = 248
         fixed_url = f"https://www.xyzsports{fixed_domain}.xyz/"
         try:
@@ -27,17 +28,22 @@ class XYZsportsManager:
         except Exception as e:
             print(f"Sabit domain hatası: {e}")
 
+        # Dinamik domain taraması
         for i in range(start, end + 1):
             url = f"https://www.xyzsports{i}.xyz/"
             try:
-                r = self.httpx.get(url, headers=headers)
-                if r.status_code == 200 and "uxsyplayer" in r.text:
-                    print(f"Çalışan domain bulundu: {url}")
-                    return r.text, url
-                else:
-                    print(f"Denenen domain: {url} | Durum: {r.status_code}")
+                for attempt in range(2):  # 520 hatası için tekrar dene
+                    r = self.httpx.get(url, headers=headers)
+                    print(f"[{i}] Deneme {attempt+1}: {url} | Durum: {r.status_code}")
+                    if r.status_code == 200 and "uxsyplayer" in r.text:
+                        print(f"✅ Çalışan domain bulundu: {url}")
+                        return r.text, url
+                    elif r.status_code == 520:
+                        print("⚠️ Cloudflare 520 hatası, tekrar denenecek...")
+                    else:
+                        break
             except Exception as e:
-                print(f"Hata ({url}): {e}")
+                print(f"❌ Hata ({url}): {e}")
                 continue
         return None, None
 
@@ -83,6 +89,7 @@ class XYZsportsManager:
 
         print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
         print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
+
 
 if __name__ == "__main__":
     try:
