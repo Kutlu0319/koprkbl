@@ -1,8 +1,9 @@
-name: Run XYZsports Script
+name: Run XYZSports M3U Script
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -10,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -20,8 +22,22 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install selenium webdriver-manager
+        pip install selenium undetected-chromedriver
 
-    - name: Run script
+    - name: Install Chrome
+      run: |
+        sudo apt update
+        sudo apt install -y wget unzip
+        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo apt install -y ./google-chrome-stable_current_amd64.deb
+
+    - name: Run XYZSports script
       run: |
         python xyzsports.py
+
+    - name: Upload M3U artifact
+      if: success()
+      uses: actions/upload-artifact@v3
+      with:
+        name: xyzvt-m3u
+        path: xyzvt.m3u
