@@ -1,10 +1,9 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 import re
 import sys
-import time
+import undetected_chromedriver.v2 as uc
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 class XYZsportsManager:
     def __init__(self, cikti_dosyasi):
@@ -18,14 +17,11 @@ class XYZsportsManager:
         ]
 
     def get_driver(self):
-        chrome_options = Options()
-        chrome_options.add_argument("--headless=new")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--disable-gpu")
-        chrome_options.add_argument("--window-size=1920,1080")
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-        return driver
+        options = uc.ChromeOptions()
+        options.headless = True  # GitHub Actions için headless
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        return uc.Chrome(options=options)
 
     def find_working_domain(self, start=248, end=350):
         driver = self.get_driver()
@@ -33,12 +29,16 @@ class XYZsportsManager:
             url = f"https://www.xyzsports{i}.xyz/"
             try:
                 driver.get(url)
-                time.sleep(2)  # sayfanın yüklenmesi için bekle
-                if "uxsyplayer" in driver.page_source:
+                try:
+                    # Sayfanın yüklenmesini ve uxsyplayer içeriğini bekle
+                    WebDriverWait(driver, 5).until(
+                        lambda d: "uxsyplayer" in d.page_source
+                    )
                     print(f"Çalışan domain bulundu: {url}")
+                    html = driver.page_source
                     driver.quit()
-                    return driver.page_source, url
-                else:
+                    return html, url
+                except:
                     print(f"Denenen domain: {url} | uxsyplayer yok")
             except Exception as e:
                 print(f"Hata ({url}): {e}")
@@ -75,7 +75,7 @@ class XYZsportsManager:
 
         driver = self.get_driver()
         driver.get(f"{player_domain}/index.php?id={self.channel_ids[0]}")
-        time.sleep(2)
+        WebDriverWait(driver, 5).until(lambda d: "baseStreamUrl" in d.page_source)
         base_url = self.extract_base_stream_url(driver.page_source)
         driver.quit()
 
@@ -88,6 +88,7 @@ class XYZsportsManager:
 
         print(f"M3U dosyası oluşturuldu: {self.cikti_dosyasi}")
         print(f"Toplam kanal sayısı: {len(self.channel_ids)}")
+
 
 if __name__ == "__main__":
     try:
