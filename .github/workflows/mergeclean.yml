@@ -2,7 +2,7 @@ name: 🚀 Update Auto Merged Clean Playlist 📺
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # ⏰ Every 10 minutes
+    - cron: '*/10 * * * *'  # ⏰ Every 60 minutes
   workflow_dispatch:        # 🔘 Manual trigger
 
 permissions:
