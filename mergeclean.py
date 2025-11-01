@@ -13,6 +13,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/NetSPOR.m3u",
     "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/Touch.m3u",
     "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/RDS.m3u",
+    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/YouTUBE.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
