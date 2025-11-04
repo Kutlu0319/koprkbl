@@ -1492,6 +1492,9 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",A SPOR FHD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxMTgzNjUwNmQ4Y2I5NjI0ZTc3Mw==
+#EXTINF:-1 group-title="TURKIYE DEATHLESS",A Spor HD [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",A SPOR HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzExMzc1Mzk0OTZlNTIzZmZiOGU=
@@ -1876,6 +1879,14 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 1 50 FPS |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports 1 [FHD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/bs11.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports 1 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0Mjg5ODQ3MDM0NGYyODhmNGUyMWQ=
@@ -1891,6 +1902,10 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 1 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMDExMzM5NGM1NGQ1MDg4MjVjOQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports 2 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/bs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 2 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NTE1MzkxNDNiYjI0MThlNTc4YzQ=
@@ -1906,6 +1921,10 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 2 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDk0NjYxOTEzNjRiMjRkOWU2OGQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports 3 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/bs3.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 3 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDA1OTU4MDE1OTM3NWQxMjdhNjA=
@@ -1921,6 +1940,10 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 3 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MzQ1MTQ5NDNhODRjNTc4OTY5MWU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports 4 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/bs4.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 4 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NzIyMzI3NjhjZDJhZGJlOGM1MjY=
@@ -1939,6 +1962,10 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 4K FEED(UYDU) |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzY3MzA2MjdlMzcwYTkxYThjM2Y=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports 5 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/bs5.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS 5 FHD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDAzMTU2MDEyYjkzOTg5OTIwODk=
@@ -1969,6 +1996,8 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS HABER |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MDYwNzk2MTIxYmRlOWNiNTE5YmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",Bein Sports Max 1
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/beIN_Sport_Max_1_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS MAX 1 FHD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNzE0NzQ3NDMyMzIyNzQ3ZTlhZmI=
@@ -1981,6 +2010,8 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS MAX 1 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MzI0MzA1MzViYTQ0MDhkZjI4NmE=
+#EXTINF:-1 group-title="TURKIYE DEATHLESS",Bein Sports Max 2
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/beIN_Sport_Max_2_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",BEIN SPORTS MAX 2 FHD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MDc5MzYyNDI4YjQ0MGNiYmMwYjI=
@@ -3835,147 +3866,12 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ON 6 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4OTY2MTAyMDA0MmI2MzYwYzM4Zg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ORDU BUYUKSEHIR BELEDIYESI (OBB) |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc2MDk4MTY2ODJjNzY2Njk1ZGRmYQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",OSCAR COLLERDE |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NzkwODY3NjE1NjJlZmJmZDU3MTI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",OUTDOOR |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MzYyOTI4NzMzN2YxM2IyMzgwNQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PAK PIRPIR TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMjA4NDMwNjk0NzlhNjRkMDE3Mzg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PAL STATION YABANCI M ZIK |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDE1NDg1MzY4ZjcxZmJlNmY3OTE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PAMUKKALE TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNDk5NDk0NDY5NTAyMDczZDJhMDE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PAMUKKALE |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NDc4ODY1NzEwNzU4Mzk4OGZhYTE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PATRON BEBEK HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0ODAyODQ4MDYyN2YyNDI1Nzc1NTc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PAW PETROL |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MDE0Mjc3MTY5NDY4OWJhZjI5MTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PEPE TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MjQyOTkzOTZlM2NmOGY1MmNiODM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PEPEE TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDI2MzMxNTcwYzEyZDgxOTI2NzY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PEPPA PIG |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NjM3MzY4NDk1NTJiZDZjYjc4NzY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PIJAMA MASKE |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTM5MTUwNThiZjhlM2VkZTcwZDc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PIJAMA MASKELILER TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMjUwNjE4NjRjOWJiYWVmMWFjZg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PIRIL TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NTY3MjAzODQzNDk3NjFhMDFjZDY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PISI TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0OTA1MjU0NGVjOTY4MWM5YWMyNg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",PISI |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MjgxNjU4MjNhNTBhZGE2MzE0MzQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POKEMON HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNjkxMDM1OTdiMmYxY2ExNDZjNWQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POKEMON TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzczMTU4NTc3NTRlYjRmNDU2OGU2ZQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER DANCE |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMzQ0MTY0NjYwZjZkNWQ1YTViZWQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER FM YABANCI M ZIK |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyOTk0MTcyOTFmMTcxMjM1NDU1OWI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNjY3OTA0MDg1YTllODQyNDA4MTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER LOVE |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3ODM1MDg4MDk3NWExMWY2OGJhYTI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER T RK T RK E POP |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MDM4MDYzMTU5ZTc4ZjYxMDAyYmM=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER TURK HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNDQ0NDczODRlMzg4Yjc4Zjg1Y2Q=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER TURK HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxNDE5NjczOGZhYmZiMGU1ZWIxNQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER TURK TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjY2MjM2ODE0Mjc0YmI2NTFjMw==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER TURK |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUzODY2ODM0OGFjNzY0NGJhNzIyMA==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER TV HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMDc5NjU2NjIwZTlhY2M2MzY0ZmM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MDkwNjM2MDY5NDVmNzM2NDZiNzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWER |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5ODEzMjYxOGRiMDMwNjI4ZGE5Ng==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWERTURK AKUSTIK |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTYyODE1NjA3NjQyMDRmNzcxNTY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWERTURK SLOW |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODg0NjE4MmJhNjAzZjAxNTE0Mg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",POWERTURK TAPTAZE |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MjgxMDY3MzlhNDBmYzY5MmNjNWU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",QAF TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNTM0NzcyMzQyNzk3YTAxNGI1MQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",RADIO ROCK |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzUzNjU1OTIyMDJjNmQxZmVkYzAyYQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",RAFADAN TAYFA |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MzQ3NTk1NzllOTcwNGY3ODlkMzE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",REDBOX ARABESK TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNDk2MTM3MTE1YThjNGY4OGMwOGI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",REDBOX TURKCE POP |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzODc2NTc2OTMyZmUyNmMyNDdhMDU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",REDBULL TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzkxNTE2NjY2YzRhNmRjZGU4OTQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",REHBER TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NTk2NjU1OTYyNTAxMTdiZjk3ZTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",REHBER TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMzkyNDIzNjcxYWU0ZWEyYWY4NmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",REHBER |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNTIzNTQ3NTkxZGI1YTI5ZmQxOGQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",RETRO T RK T RK E KLASIK |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTUyOTkyNTgyMGJiZWI0ZDUxYWU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",RUMELI TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5OTc5ODgyNTQ1NWYzNGVhMTdhM2Q=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",RUMELI TV |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MTg4MTU4ODJkNWJhN2Q5YThiOTg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",RUYA TRENI |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4OTgwMTM2MjdiMWUwNjI1NWZiZTI=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S NEMA 1002 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNzY2NDM4NTY3ZGJmOGI5NDYzMjQ=
@@ -4006,9 +3902,14 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S NEMA YERL HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTcxNTk0NzMxMjcxM2VlYzkxNGM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S PER FM T RK E POP |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2MDQxMDcxMGE2ZmJiNDBhMTY0Yg==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S SPORT 1 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/ss11.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S SPORT 2 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/ss2.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S SPORT 2 |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzNjkwODI3NDlmNmE4NmY4NTBjMQ==
@@ -4018,6 +3919,18 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S SPORT 2 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMzQ2MDQ4ODA2YTFhNWM0MTM3YzE=
+#EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="TURKIYE DEATHLESS",S Sport Plus [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/pl1.m3u8
+#EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="TURKIYE DEATHLESS",S Sport Plus [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/pl2.m3u8
+#EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="TURKIYE DEATHLESS",S Sport Plus [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/pl3.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",S SPORT |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjMyNzM1OThmM2VhODMyMTk1MTY=
@@ -4075,18 +3988,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SARAN SPORT 2 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4Nzg3NTUzNDQ0MjhiOTkyMGZiZGY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SAT 7 TURK |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNzYwOTA2NDZiOWE0NGM5Y2QyMDc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SAT 7 TURK |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNDM4Njg5MDViYTdmMDU4YWM3ZGU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SAT 7 TÃœRK |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMjgwNDY1NjI2YzQ5OTQxZjU3MjI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SAT7 TURK |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5Nzg3MzI5NDNhYTU4YTEyZTQ0ZDU=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SCIENCE & VIE TV |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5OTIxNDk3NzhkMGVhNWJlZTcwNTE=
@@ -4096,30 +3997,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEF ROKKA TV |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0NDY2NjIzOGIzMWM4YzlhOGE2OA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEKER HOCA |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMzEyMDE4NDg3ZDZkZDA2OTliOWE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEKER HOCA |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1OTIwMzI3NmNlMzFhZmM0ZDky
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEMERKAND TV HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwOTYyNjg4ODMzZGE2Y2NlNTJkNmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEMERKAND TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc4NjMxNzExMjQ1ODcwNTM1YzJkZg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEMERKAND |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNDE1NjI5MTU3NWU1YmJjZDRlNjM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SERCE KUS TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDQ3NjgzMzUzOWFlNGM5NzlhNw==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEVIMLI DOSTLAR |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NDI5MzU0NjNiMTNmM2E1ZTFjOTI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SEVIMLI DOSTLAR |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNTQ3MjMzMzBiOGZhZTkyNjJmNGM=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SHOW HD (H265) |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MzcyMzI5NzhjNGNlNzQyOTgxNTg=
@@ -4129,15 +4006,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SHOW MAX |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTYyNzg2NTJkMTRlY2QwYThhYzA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SHOW RADYO T RK E POP |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTIzMDY4MzVjZTZiNjJlODRhZGI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SHOW RADYO |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MDk4OTkxNDQ0ZWFhNTk1YTljMmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SHOW T RK EUROPA |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwNTkyOTgyMWY1NzM1NGQxY2RmNg==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SHOW TURK |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDk3NzI1MzNiZjQ4NzE3YTYzNDg=
@@ -4252,21 +4120,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SIRINLER TV |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjYyNDE3NDVmMGQ0ZTc1Y2U2YTQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SIVAS VIZYON 58 TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxNjc5MzEwNmFmYzE0OWQ2MGQ1OA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SL NILOYA |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0OTE1MjU4NDVhYjg2MjliZDhkOWY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SLOW KARADENIZ |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzODgxMDEzMTFjZWE3ZDAxZjk3MTg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SMART COCUK HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgxMzU3NDg5NTRlMjM5ZDJjMjdkMw==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SMART COCUK |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNzc3NTAyNzUyZTVkOWU5NzM4OTg=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SMART SPOR 1 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMzc5NjIwNjIwOGE5MDAwNjM0OTQ=
@@ -4279,6 +4132,14 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SPIDERMAN TV |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0Nzg4MTM3NzRhYTc0ZGZiYmNhNzM=
+#EXTINF:-1 tvg-id="139" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" tvg-name="Spor Smart 1" group-title="TURKIYE DEATHLESS",Spor Smart 1 [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/smart1.m3u8
+#EXTINF:-1 tvg-id="138" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" tvg-name="Spor Smart 2" group-title="TURKIYE DEATHLESS",Spor Smart 2 [SD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/smart2.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SPOR SMART 2 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkwNzE2NTA5NWJiMGVkNzdkNDg0MQ==
@@ -4300,6 +4161,10 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SPOR SMART2 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxNjUzODg4OTI5Yjc4YjJlMmY1Mw==
+#EXTINF:-1 tvg-id="122" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" tvg-name="Sports TV" group-title="TURKIYE DEATHLESS",Sports TV [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SPORTS TV HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjkyOTg3OThhZGRkNDBjOTU3Yzg=
@@ -4339,60 +4204,49 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",STAR TV |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2MzQ3MjQ0NmY3YzBmZDlmZjY5ZA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SUN RTV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTQ1NDM4MTE2ZjM5NTA4ZDBhYzg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SUN TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjI4NjMwMzIwZTdhMTUxNmI5ZTQ=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SURELER VE T RKCE MEALI |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MzA4OTA0NjFmZTY3NWFmYjkwYmY=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SZC |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMzY3OTQ5NzIwNjlhNzgwYWY4MzY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",SÃœNGER BOB |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4Njg1ODIwMjUyZTIxYWY2YTk5Nzg=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",T RK E POP |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3ODY4NTMxMDQxMDc3OWM1YTJmMzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",T.A.Y TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MzM3NjU2NDViMGM2Y2ZhZjZkYjM=
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi1.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi2.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi3.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi4.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi5.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TURKIYE DEATHLESS" group-title="TURKIYE DEATHLESS",TABİİ SPOR [HD]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com
+https://vizioncore.xyz/static/tabi6.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TARIH TV |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTY5NTcwNTI3NDAzZWJkYTg5YTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TARIM TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MDI3NDkyMDhhNjE1YTdkZTBiOGU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TARIM TV |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5OTMwNDcyNDNkMmZmZWNkMjZkOGM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TATLISES TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMzM4NjU1MTA4ZGRhNDUxNTRmZTk=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TAVSAN MOMO |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyOTIzMzY5NzkzM2Q0NzJmZGVlMzY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TAY TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzQyODcwNDgwZmFjMDI2MzQ1ZTY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TAY |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MjczMjQ5MTNkNTc2ZTYxZDlhZTE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TAYO TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzM3MDQxNzU1ZDQyMGM4ZjJjNTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TBMM TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzA2OTk2NDRjZGVmNDk0ZWMxZGY=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TELE 1 SD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzODIzOTQ3Mzk5MmZlODZjMGUxNjY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TELE 1 |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NjAyOTI4NjljODM3ZDg1MGMzNTc=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TELE 1 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTc2MjQ2NDM0NjIyOGRkZDhlMjg=
@@ -4402,15 +4256,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TELE1 |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxNzk2NjE4MDI3NDc1YjAyMWVmZmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TELEGRAM GRUP LINKI |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMTAwODg5MzZkMzY0YjA5NDllYWM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TEMPO TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMDI1NTI3NDQwOTYwMDk0Njc1OWQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TEMPO |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NzUzNzc2MjE5NmJhNWNiMjRiZWQ=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TEVE 2 FHD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMjk1Mjk1NThiZTRkZDg3M2IyZjM=
@@ -4438,33 +4283,9 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT BELGESEL |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NDM5OTM1NDZmNDMxZTg0ZDAwY2M=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT EU |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2ODcyOTQ2MjQzYmVhODZhMzM1NA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT EU |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjI4NjQ3NThjZWMyZmVlNDUxZQ==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT HABER HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDcxNTQ3MDQ0YThjOTA5ODU2MmU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT HABER HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MTQzOTI0NTg1ODI0YzcwNDYxZjI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT HABER HEVC |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTU4ODEyODdiMGJjMGJmN2JiMDg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT HABER UHD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NjI3NDAwNTQ5MWY2YTZjMDUwYWI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT HABER |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MTg0MjkzMjM4N2Y2ZDEzNzM0OWM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TGRT HABER |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODQ2MzE5NTlhMjliZmZkZDhiODQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",THAQALAYN TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNTkzMzQxMTE4MDZhNmY5YWUzMWM=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVI 6 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc3NDE2ODAxNjVlMzJmZmJkN2U5OQ==
@@ -4474,18 +4295,24 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVI TÃœRK |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcwMjE1Nzk1NGE5NmFjMmRmZWE0NQ==
+#EXTINF:-1 tvg-id="134" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" tvg-name="Tivibu Spor 1" group-title="TURKIYE DEATHLESS",Tivibu Spor 1 [HD]
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/Tivibu_Sport_1_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR 1 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjU5NzIzMzg0MTlkZDY0ZDNjMWE=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR 1 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1Mjg5NDk3OTFkMDk5MzRjNmJiNzg=
+#EXTINF:-1 tvg-id="133" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" tvg-name="Tivibu Spor 2" group-title="TURKIYE DEATHLESS",Tivibu Spor 2 [HD]
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/Tivibu_Sport_2_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR 2 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDY2ODM4MTBkZGIxZDliYTdlMGQ=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR 2 |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ3ODI1NDc5OWQ1NGQwYjdjYzg0ZA==
+#EXTINF:-1 tvg-id="132" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" tvg-name="Tivibu Spor 3" group-title="TURKIYE DEATHLESS",Tivibu Spor 3 [HD]
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/Tivibu_Sport_3_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR 3 |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTQ5MjQwNTA0YTNiMDU0ZTEyN2U=
@@ -4501,6 +4328,8 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR 5 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MzAzODUxMDJhYzAzYzU2N2MxZQ==
+#EXTINF:-1 tvg-id="134" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" tvg-name="Tivibu Spor" group-title="TURKIYE DEATHLESS",Tivibu Spor [HD]
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/Tivibu_Sport_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBU SPOR RAW |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MDYyNjIxMTg1ZmZjMWViNmQ2Njk=
@@ -4522,18 +4351,11 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TIVIBUSPOR SPOR HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NTM1MTU4NThiNTYzMDQ5MDY3YmI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TJK TV HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNDY0MjkzMzQ2OGEyMjE5YzA0ZDI=
+#EXTINF:-1 tvg-id="13" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg" tvg-name="TİVİBU SPOR 4" group-title="TURKIYE DEATHLESS",TİVİBU SPOR 4
+https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/Tivibu_Sport_4_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TJK TV |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3OTQ5MzY5MTM3MjQ4ZjI5MDMxNWI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TJK TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODc2NTgwNTFhYWUyZDZmNzY1YmI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TJK TV |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMjI4ODgwNjRiNmEwNTc0MWZjY2U=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TLC TV |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyODE2NDE3ODY3MWUzYzAwYmZhZTg=
@@ -4543,18 +4365,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TLC |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1MTQ0ODA3NjViMWQxMmI1NGNiNg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TMB |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzUxMjMwMDkyMmI3ZGJlOWVkMTE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TMB |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NjUwODcwMDFlMjI1NWUwZGVhMjE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TOM & JERRY |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDAxODU2NTkyODg2OWJmOGE2ZGU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TON TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NTU1OTc0MTYyNzg2ZDhjNGJkZTc=
 #EXTINF:-1 tvg-id="" tvg-name="TR:HT Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/213d42ff-51ba-4591-ae43-a35779496d93.png" group-title="TURKIYE DEATHLESS",TR: HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="" tvg-name="TR:24 Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png" group-title="TURKIYE DEATHLESS",TR:24 Tv HD
@@ -4567,8 +4377,6 @@ https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:a2 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="TURKIYE DEATHLESS",TR:a2 HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Akit Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="TURKIYE DEATHLESS",TR:Akit Tv HD
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:As Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bb23721e-664b-48c6-a9f4-5e55f890f026.png" group-title="TURKIYE DEATHLESS",TR:As Tv HD
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Atv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="TURKIYE DEATHLESS",TR:Atv HD
@@ -4577,8 +4385,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Bloomberg Ht HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png" group-title="TURKIYE DEATHLESS",TR:Bloomberg Ht HD
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Brt 1 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="TURKIYE DEATHLESS",TR:Brt 1 HD
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Cartoon Network HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4c47b639-2916-4563-9e40-0f2a7925b2ea.png" group-title="TURKIYE DEATHLESS",TR:Cartoon Network HD
 https://uzayakaczekiye81.mywire.org/index.php?ID=UCehmwSZGPod7JFbHJspmxzQ
 #EXTINF:-1 tvg-id="" tvg-name="TR:Cnbc-e HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="TURKIYE DEATHLESS",TR:Cnbc-e HD
@@ -4586,8 +4392,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Cnn Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="TURKIYE DEATHLESS",TR:Cnn Türk HD
 #EXTVLCOPT:http-referrer=https://turkcanli.tv
 https://helga.iptv2022.com/cnn_turk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Diyanet Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9fac001-ce36-4712-9eaa-786ec2465171.png" group-title="TURKIYE DEATHLESS",TR:Diyanet Tv HD
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Dmax  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="TURKIYE DEATHLESS",TR:Dmax  HD
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-id="" tvg-name="TR:Dream Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png" group-title="TURKIYE DEATHLESS",TR:Dream Türk HD
@@ -4598,8 +4402,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Ekol TV HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/229e051d-6090-4235-a2ef-9420a17e6f9d.png" group-title="TURKIYE DEATHLESS",TR:Ekol TV HD
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Fb Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png" group-title="TURKIYE DEATHLESS",TR:Fb Tv HD
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Gzt Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png" group-title="TURKIYE DEATHLESS",TR:Gzt Tv HD
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Haber Global HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" group-title="TURKIYE DEATHLESS",TR:Haber Global HD
@@ -4608,13 +4410,8 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Halk Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c9acd31e-5cc0-4b5d-bdef-7c9f8b577c42.png" group-title="TURKIYE DEATHLESS",TR:Halk Tv HD
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Kanal B HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fc190867-720b-4e57-b561-993d0a02bcae.png" group-title="TURKIYE DEATHLESS",TR:Kanal B HD
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Kanal D HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="TURKIYE DEATHLESS",TR:Kanal D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="" tvg-name="TR:Kon HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6a265ee4-81f8-4a57-80ba-41ddb0663aaf.png" group-title="TURKIYE DEATHLESS",TR:Kon HD
-#EXTVLCOPT:http-referrer=https://turkcanli.tv
-https://helga.iptv2022.com/sh/kon_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Krt Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" group-title="TURKIYE DEATHLESS",TR:Krt Tv HD
 https://uzayakaczekiye81.mywire.org/index.php?ID=UCVKWwHoLwUMMa80cu_1uapA
 #EXTINF:-1 tvg-id="" tvg-name="TR:Lalegül Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8322c403-9f7c-4b5a-aef1-7c65e56ee8a6.png" group-title="TURKIYE DEATHLESS",TR:Lalegül Tv HD
@@ -4622,10 +4419,6 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Lider Haber HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ccf5746a-1eda-45ed-9afc-5e281fa7a704.png" group-title="TURKIYE DEATHLESS",TR:Lider Haber HD
 #EXTVLCOPT:http-referrer=https://www.liderhaber.com.tr
 https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w1214941309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Minika Go HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7dfb3c14-3837-4c82-9c30-88edefebe4bd.png" group-title="TURKIYE DEATHLESS",TR:Minika Go HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Minika Çocuk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png" group-title="TURKIYE DEATHLESS",TR:Minika Çocuk HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Now HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="TURKIYE DEATHLESS",TR:Now HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Ntv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="TURKIYE DEATHLESS",TR:Ntv HD
@@ -4681,38 +4474,22 @@ https://str.yodacdn.net/tmb_tr_app/index.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt 2  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="TURKIYE DEATHLESS",TR:Trt 2  HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 3 - Tbmm HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aac80fcc-d1e7-41da-85b6-3037cc3f1a4b.png" group-title="TURKIYE DEATHLESS",TR:Trt 3 - Tbmm HD
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT Arabia HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1857f0c2-3a80-4b95-bb35-ffcefdcf4729.png" group-title="TURKIYE DEATHLESS",TR:TRT Arabia HD
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Avaz HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png" group-title="TURKIYE DEATHLESS",TR:Trt Avaz HD
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Belgesel HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="TURKIYE DEATHLESS",TR:Trt Belgesel HD
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Diyanet Çocuk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png" group-title="TURKIYE DEATHLESS",TR:Trt Diyanet Çocuk HD
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Haber  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png" group-title="TURKIYE DEATHLESS",TR:Trt Haber  HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Kurdi HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1d937ced-d803-47eb-aa0c-90586e4e162e.png" group-title="TURKIYE DEATHLESS",TR:Trt Kurdi HD
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Müzik HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png" group-title="TURKIYE DEATHLESS",TR:Trt Müzik HD
 http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png" group-title="TURKIYE DEATHLESS",TR:Trt Spor HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor Yıldız HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" group-title="TURKIYE DEATHLESS",TR:Trt Spor Yıldız HD
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png" group-title="TURKIYE DEATHLESS",TR:Trt Türk HD
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT World HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/acd68840-492b-43c5-9635-bbaf32148e2a.png" group-title="TURKIYE DEATHLESS",TR:TRT World HD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Çocuk  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="TURKIYE DEATHLESS",TR:Trt Çocuk  HD
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tv 100 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="TURKIYE DEATHLESS",TR:Tv 100 HD
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tv 4 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png" group-title="TURKIYE DEATHLESS",TR:Tv 4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Tv 5  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/043eff4d-bde2-493c-9c7d-c07a698bb0be.png" group-title="TURKIYE DEATHLESS",TR:Tv 5  HD
-https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tv 8 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="TURKIYE DEATHLESS",TR:Tv 8 HD
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tvnet HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" group-title="TURKIYE DEATHLESS",TR:Tvnet HD
@@ -4723,12 +4500,6 @@ https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 https://uzayakaczekiye81.mywire.org/index.php?ID=UC6T0L26KS1NHMPbTwI1L4Eg
 #EXTINF:-1 tvg-id="" tvg-name="TR:Ülke Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/5a733c68-7739-4466-851d-573cfd125990.png" group-title="TURKIYE DEATHLESS",TR:Ülke Tv HD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRABZON HABER 61 TV HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NDA2NDM2NDRiODM3ODBmYjgwZGM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRAKYA TÃœRK |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwOTc3MjUwNzlmMjVmMmQyYWZkMDE=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRANSFORMERS |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MzkyOTM4NjZlY2E1MWQ5ZWZiZTQ=
@@ -4762,15 +4533,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT 2 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODQzMTkwMzNkNzUyZTY4NTQ0MmQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT 2 UHD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDUzMDUxMzJlNjlmYzlkZGYwYjY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT 2 |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNDA3MDY2OTUzNDdhMTJhZjdkOTk=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT 2 |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTg4MjcwNzdjNGY2ZTM0MDg0NjI=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT 3 |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxODc0MDM1MTI3YTg1YWIwM2NiN2E=
@@ -4782,16 +4544,7 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MjYxNjg4MzljNDM0MzA3ODg2ZmE=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT AVAZ |D
 #EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0ODEzMzk4MDliOWZkOTI3YjM3Yjg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT AVAZ |D
-#EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5OTA0MTAzNTI0YTBjNmFiYmJlOTQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT AVAZ |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5MTE0OTU5NzczYjFhZDczOGZjZA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT AVAZ |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNzY2NzI5NzQzZjEzNjQ3MWQxYjQ=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT BELGESEL HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc4Njk3MzY1NmJmOGVlYTEyY2MxNA==
@@ -4810,78 +4563,18 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT BELGESEL |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MzkwMTIyMTU5YWU5NzI1NmFiM2I=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT COCUK RAW |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5Nzk4MzcxOTAzMjlhYjczMjQ3M2I=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT COCUK |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY4NTc5NDgzMDVkNmFhZTgwMDBiMg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT COCUK |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc5MjIyODEyMjJjYzdlYjIwM2E5MQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT DIYANET COCUK |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMDE4NDkzOTBlZDc3Zjg0MjM5Yzc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT DIYANET |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ1ODY1OTIwNThhNWMzODRhNzE4Zg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT EBA ILKOKUL |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyODc2NTgwMzMzMzVkODA5Zjk0M2E=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT EBA ORTAOKUL |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDIwMzk4MzFhODE2NWIyZGZl
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT EBA |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2ODEwNzE3NDY2MmZmZDBhYTlkY2Q=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT HABER HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1Nzk0MDE4NzgwNjYxMDE4NDlhYTc=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT HABER HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwMzY1MTYzOGJmYWMzODRhMjk5ZA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT HABER HEVC |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNTc5NjU1NTNlMmU4ZTA3ZmQwZDY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT HABER RAW |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzMTA4NjY1M2U5YjljZDQyOWY1
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT HABER |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDM3MDMzNTczMGY1MzlhMTY0NTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT HABER |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTA5NzYwNDFjMTM3MjdjYjdjNGU=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT KURD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMTY2MzIzMDc5YTc3YmFhYTk5ZGQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT KURDI RAW |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NDAyMjU5NjVlYzM3Yjc3YTVmNTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT KURDI |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NTY5NjgzNzdjMDhmZDllYmJlOQ==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT M Z K |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk3MDM4MjE2MjBlN2YwODZjODc3Mw==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT MUZIK HD+ |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNjMzMjk1MzQzYzQ5MzczZDFlZWM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT MUZIK RAW |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQzMzU4MTMxNTM2MWU4NmMzNWRhMA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT MUZIK |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMzI3ODk2MzQzOTI4NDJiZTcwY2Y=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT MUZIK |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNjI2Nzg0MjJiOTA1NTFiMjRhYmE=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT OCUK HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMjkxODA1MDYyMTI5M2VkOTE0YTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT OCUK HD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU1MDA0NTEwMjQ2ZmE0ZDVkNzQ2NA==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT SPOR FHD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTI4MjgyNDU2OTYxOGZjYjNkOGY=
@@ -4921,33 +4614,18 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT TURK HEVC |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MTkwOTY4NjNmMmE2MDE0YTBlYzA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT TURK RAW |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwOTU4Nzk4NTMyMjZkOGIxMDgwNzI=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT TURK |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwOTgwOTMyNTZlNWI0Y2YwN2I1Nzg=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT TURK |H
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc5Nzc2ODczMTE3ZWRhYTIxNmYzMg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT WORLD HEVC |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODU2MTUxMTc3Mzk4ODczMTdkY2M=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT WORLD |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMDMxNDc0MDNhNTY1ODFmYTgwZGY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT WORLD |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMDcyMDU1MzU5MmI5MzEyOTEzM2M=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT1 HD |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NTIyMDAxMzU2MjEwZDFkY2NlMTI=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TRT2 RAW |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxODk1MTIxZWU3ZmQ5Nzc2Y2Rm
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TUNCELI DERSIM 62 TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0MjE4MDIxOGIzNDA4YWNkNTk0Mw==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",TURKASAT KEMAL SUNAL |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NzI5MzEzNzBkMGZiZjYyNTNjYw==
@@ -5113,45 +4791,9 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULTRA KOMEDI |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1Mzc5NDYwNDgyZWVkNTFlNjY0Zjk=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULTRA KORKU |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NjM1NjI1NDc1Njk1ODJkNmUwMzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULUSAL KANAL SD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTc5MDM2MjkxNWFiODJkMTI2YjE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULUSAL KANAL |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTAwNDg4MTc5OGJiOGQyYzVlN2U=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULUSAL KANAL |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTYwOTUzNzc0Zjk2MzY5OTRkODI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULUSAL KANAL |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDk4MDE2NTVkZmU0MTQ3MGM5NzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ULUSAL KANAL |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4NTQ1MzQ2OWQ5M2EzMzc3MjdiYQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",UR FANATIK TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzOTY1OTM1OTg0MzgyNTUxZThkMA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",USKUDAR UNIVERSITIES |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMzgxNTE3Mjg5MWU5YmY1ZDY5ZmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",UZAY HABER |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwOTMwMDEwNDIyNzkxZWZkMGIzYmU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",UZAY HABER |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjY3OTczOTBmOTY1MTk0Nzc0ZDU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VAN TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcwNDE2NTA2Mzk4YTJkNzNiNWY1Yg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VATAN TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyODIxODE1MTEyNmUzNTVhYjA2ZTQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VATAN TV |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MzAwNDc0NjRjZDEzZDU1MTgxMzQ=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIASAT EXPLORE |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTgyNDEwNzY0YWFkNmZhOWU0MGQ=
@@ -5176,33 +4818,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIKINGLER TV |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTM5Mzc1MzA5YzI3OGZmOTliYzk=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIYANA TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDI1MTQ4MDVlNzBjMDY2NDgxYmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIZYON 58 TV SIVAS |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNzgxMTg2NTRkZmQ2Yzc4OThhOWI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIZYON 58 |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzUzMjY2MTVmOGY0ZTA5N2VlNjA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIZYON 58 |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNjQyMDE1NTY5YTZhY2I4MzEwZjY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VIZYON 58 |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyODM2MDI0OTY4MWE1YTY5MGZjZDQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VUSLAT TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0OTAzMzEyMjc1ZjA5YmUyNzMyMA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",VUSLAT TV |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNjE3NTI3NThiZjAwZDBhOGVlMzY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",WAKFU |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0NTU3NjY0MDI2NmIwNzU2OTk3Ng==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",WM TV WOMAN KADIN |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTk1MjA3MjYxYzNhMTZlOTE4ZGY=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",X NOSTALJI T RK E KLASIK |D
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3Njc3NTcwNTI1MmUwOGI0NDVhOTc=
@@ -5230,33 +4845,6 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YESILCAM |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1ODQzMzUzODM0ZGViYzM1YTBjOTY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YILDIZ EN TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NDUwMTE1OTE5MjNmNjZlMWY5NA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YILDIZ KIZ |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNDAxMzY2MTk1MTYzZGY4MzYyYjE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YILDIZ TV EN |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjQzMTYwMTYxMzljMGQyZmQzNTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YOL TV SD |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwNzA3NzE1NTE3ODZmNTk3ODg5ZQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YOL TV |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MDM1ODAxMzE1Nzk0Zjk5ODA5MjM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YOL TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNzcwNTU2NTM5Y2Y5MTUyYjEzZDA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",YOL TV |H
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNzExNjYwNTQ1MmQ1ZDNlNjYyNmQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ZAROK TV |E
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNDc1NTczODc2Y2U5MzhjNzljNjc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ZONGULDAK KANAL Z |D
-#EXTVLCOPT:http-user-agent=vialent
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0Njc4MzQwOTBmNDY2MTJhZWUyZGI=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="TURKIYE DEATHLESS",ÃœLKE TV |E
 #EXTVLCOPT:http-user-agent=vialent
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNTMyMDY2MjM2ZGY5YzRiMWM3MTQ=
