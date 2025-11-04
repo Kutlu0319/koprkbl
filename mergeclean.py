@@ -16,6 +16,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/viziTV.m3u",
     "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/Polskie.m3u",
     "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/YouTUBE.m3u",
+    "https://raw.githubusercontent.com/Kutlu0319/srbvvoo/refs/heads/main/yerli.txt",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
