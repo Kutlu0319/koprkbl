@@ -9,13 +9,6 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Kutlu0319/srbandroid/refs/heads/main/androiptv.m3u8",
     "https://raw.githubusercontent.com/mehmetey03/xyzvt/refs/heads/main/xyzvt.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/NexaTV.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/SporTR.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/NetSPOR.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/Touch.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/RDS.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/viziTV.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/Polskie.m3u",
-    "https://raw.githubusercontent.com/karams81/adamsrby/refs/heads/main/YouTUBE.m3u",
     "https://raw.githubusercontent.com/Kutlu0319/srbvvoo/refs/heads/main/yerli.txt",
 ]
 
