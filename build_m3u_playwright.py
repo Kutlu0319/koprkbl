@@ -1,4 +1,4 @@
-# build_m3u_deep_network.py
+# build_m3u_deep_network_safe.py
 from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin
 import re
@@ -8,7 +8,6 @@ BASE_URL = "https://macizlevip741.sbs/"
 OUTPUT_FILE = "playlist.m3u"
 
 def collect_links(page, found, visited):
-    # URL'yi ziyaret ettiysek tekrar gitme
     if page.url in visited:
         return
     visited.add(page.url)
@@ -22,7 +21,7 @@ def collect_links(page, found, visited):
 
     # Sayfanın yüklenmesini bekle
     page.wait_for_load_state("networkidle")
-    time.sleep(1)  # JS ile yüklenen içerikler için ekstra bekleme
+    time.sleep(1)  # JS ile yüklenen içerikler için ek bekleme
 
     # iframe içeriğini tarama
     for iframe in page.query_selector_all("iframe"):
@@ -33,21 +32,28 @@ def collect_links(page, found, visited):
         except Exception:
             continue
 
-    # Sayfadaki tüm linkleri takip et
+    # Sayfadaki tüm linkleri string listesi olarak al
     anchors = page.query_selector_all("a[href]")
+    hrefs = []
     for a in anchors:
-        href = a.get_attribute("href")
-        if not href:
+        try:
+            href = a.get_attribute("href")
+            if href:
+                href = href.strip()
+                if href.startswith("/"):
+                    href = urljoin(BASE_URL, href)
+                if href.startswith("http") and href not in visited:
+                    hrefs.append(href)
+        except Exception:
             continue
-        href = href.strip()
-        if href.startswith("/"):
-            href = urljoin(BASE_URL, href)
-        if href.startswith("http") and href not in visited:
-            try:
-                page.goto(href, timeout=30000)
-                collect_links(page, found, visited)
-            except Exception:
-                continue
+
+    # Her linke gidip derinlemesine tarama
+    for link in hrefs:
+        try:
+            page.goto(link, timeout=30000)
+            collect_links(page, found, visited)
+        except Exception:
+            continue
 
 def main():
     found = set()
@@ -58,7 +64,7 @@ def main():
         context = browser.new_context()
         page = context.new_page()
 
-        # Ana sayfayı aç
+        # Ana sayfayı aç ve derinlemesine linkleri tara
         page.goto(BASE_URL, timeout=30000)
         collect_links(page, found, visited)
 
