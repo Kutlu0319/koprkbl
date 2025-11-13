@@ -1,48 +1,58 @@
-# build_m3u_playwright_updated.py
+# build_m3u_deep_network.py
 from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin
 import re
+import time
 
 BASE_URL = "https://macizlevip741.sbs/"
 OUTPUT_FILE = "playlist.m3u"
 
-def extract_links_from_page(page):
-    urls = set()
+def collect_links(page, found, visited):
+    # URL'yi ziyaret ettiysek tekrar gitme
+    if page.url in visited:
+        return
+    visited.add(page.url)
 
-    # Sayfadaki tüm a[href] linkleri
-    for a in page.query_selector_all("a[href]"):
+    # Network trafiğini dinle
+    def log_request(request):
+        url = request.url
+        if re.search(r"\.m3u8?$", url, flags=re.I):
+            found.add(url)
+    page.on("request", log_request)
+
+    # Sayfanın yüklenmesini bekle
+    page.wait_for_load_state("networkidle")
+    time.sleep(1)  # JS ile yüklenen içerikler için ekstra bekleme
+
+    # iframe içeriğini tarama
+    for iframe in page.query_selector_all("iframe"):
+        try:
+            frame = iframe.content_frame()
+            if frame:
+                collect_links(frame, found, visited)
+        except Exception:
+            continue
+
+    # Sayfadaki tüm linkleri takip et
+    anchors = page.query_selector_all("a[href]")
+    for a in anchors:
         href = a.get_attribute("href")
         if not href:
             continue
         href = href.strip()
         if href.startswith("/"):
             href = urljoin(BASE_URL, href)
-        if re.search(r"\.m3u8?$", href, re.I):
-            urls.add(href)
-
-    # Sayfanın tüm metin içeriğinde link arama
-    body_text = page.inner_text("body")
-    for m in re.findall(r"https?://[^\s'\"<>]+?\.(?:m3u|m3u8)(?:\?[^\s'\"<>]*)?", body_text, flags=re.I):
-        urls.add(m)
-
-    # HTML içeriğinde gizlenmiş linkler
-    html_content = page.evaluate("() => document.documentElement.outerHTML")
-    for m in re.findall(r"https?://[^\s'\"<>]+?\.(?:m3u|m3u8)(?:\?[^\s'\"<>]*)?", html_content, flags=re.I):
-        urls.add(m)
-
-    # iframe içeriği varsa tarama
-    for iframe in page.query_selector_all("iframe"):
-        try:
-            frame = iframe.content_frame()
-            if frame:
-                urls |= extract_links_from_page(frame)
-        except Exception:
-            continue
-
-    return urls
+        if href.startswith("http") and href not in visited:
+            try:
+                page.goto(href, timeout=30000)
+                collect_links(page, found, visited)
+            except Exception:
+                continue
 
 def main():
     found = set()
+    visited = set()
+
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
@@ -50,30 +60,7 @@ def main():
 
         # Ana sayfayı aç
         page.goto(BASE_URL, timeout=30000)
-        page.wait_for_load_state("networkidle")  # JS ile yüklenen içerik için
-
-        found |= extract_links_from_page(page)
-
-        # Sayfadaki tüm linkleri tarama
-        anchors = page.query_selector_all("a[href]")
-        hrefs = []
-        for a in anchors:
-            href = a.get_attribute("href")
-            if not href:
-                continue
-            href = href.strip()
-            if href.startswith("/"):
-                href = urljoin(BASE_URL, href)
-            hrefs.append(href)
-        hrefs = list(dict.fromkeys(hrefs))  # tekrarları sil
-
-        for link in hrefs:
-            try:
-                page.goto(link, timeout=30000)
-                page.wait_for_load_state("networkidle")
-                found |= extract_links_from_page(page)
-            except Exception:
-                continue
+        collect_links(page, found, visited)
 
         browser.close()
 
