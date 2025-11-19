@@ -12,11 +12,12 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 
 # ---------------------------------------------------------------------
-# ✔️ GÜNCEL DOMAIN — GitHub TXT DOSYASINDAN (requests yok!)
+# ✔️ GÜNCEL DOMAIN — SADECE "xyzsports_guncel_domain=" OKUNUR
 # ---------------------------------------------------------------------
 def find_working_domain(page=None):
     """
-    GitHub TXT dosyasından güncel domain'i urllib ile alır.
+    GitHub TXT dosyasından yalnızca xyzsports domainini alır.
+    Diğer satırları yok sayar.
     """
     print("\n🔎 Güncel domain GitHub TXT dosyasından alınıyor...")
 
@@ -24,10 +25,19 @@ def find_working_domain(page=None):
 
     try:
         with urllib.request.urlopen(url, timeout=10) as response:
-            domain = response.read().decode().strip()
+            text = response.read().decode()
+
+        domain = None
+
+        # TXT içinden sadece xyzsports_guncel_domain satırını al
+        for line in text.splitlines():
+            line = line.strip()
+            if line.startswith("xyzsports_guncel_domain="):
+                domain = line.split("=", 1)[1].strip()
+                break
 
         if not domain:
-            print("❌ TXT dosyası boş!")
+            print("❌ TXT içinde xyzsports_guncel_domain bulunamadı!")
             return None
 
         if not domain.startswith("http"):
@@ -108,7 +118,7 @@ def scrape_channel_links(page, domain_to_scrape):
                 if not player_origin:
                     continue
 
-                # Zaman etiketi
+                # Zaman etiketi (varsa)
                 time_element = link.query_selector('time.time')
                 if time_element:
                     t = time_element.inner_text().strip()
@@ -164,7 +174,7 @@ def extract_m3u8_from_page(page, player_url):
 
 
 # ---------------------------------------------------------------------
-# ✔️ MAIN
+# ✔️ MAIN — ÇIKTI DOSYASI: Xyz_srb.m3u
 # ---------------------------------------------------------------------
 def main():
     with sync_playwright() as p:
