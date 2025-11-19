@@ -9,7 +9,6 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Kutlu0319/srbandroid/refs/heads/main/androiptv.m3u8",
     "https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/Xyz_srb.m3u",
     "https://raw.githubusercontent.com/karams81/voddensrb/refs/heads/main/NexaTV.m3u",
-    "https://raw.githubusercontent.com/Kutlu0319/srbvvoo/refs/heads/main/yerli.txt",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
