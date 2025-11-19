@@ -8,7 +8,7 @@ on:
 jobs:
   fetch-m3u:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
@@ -37,14 +37,23 @@ jobs:
           echo "Error: trgoalas.m3u file not found!"
           exit 1
         fi
-        echo "File exists, content:"
+        echo "File exists, first lines:"
         head -n 5 trgoalas.m3u
 
-    - name: Commit and push changes
+    - name: Commit and push changes (FIXED)
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
+        
+        # Remote güncellemeleri indir
+        git fetch origin main
+        
+        # Çatışmasız rebase (uzak değişiklikler kazanır)
+        git pull origin main --rebase --strategy-option=theirs
+
         git add trgoalas.m3u
-        git diff --cached --quiet || git commit -m "Auto-update m3u [skip ci]"
+        git diff --cached --quiet || git commit -m "Auto-update trgoalas.m3u [skip ci]"
+
+        # Token ile push
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         git push origin HEAD:main
